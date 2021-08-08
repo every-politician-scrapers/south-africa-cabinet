@@ -7,17 +7,29 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      Name.new(full: tds.last.text.tidy, prefixes: %w[Dr Ms Mrs Mr]).short
     end
 
     def position
-      noko.css('.position').text.tidy
+      return "Minister in the #{ministry}" if ministry.start_with?('Presidency')
+
+      "Minister of #{ministry}"
+    end
+
+    private
+
+    def tds
+      noko.css('td')
+    end
+
+    def ministry
+      tds.first.text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.page-content table').xpath('.//tr[td]')
     end
   end
 end
