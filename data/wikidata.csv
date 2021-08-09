@@ -1,9 +1,25 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q4763221,Angie Motshekga,Angie Motshekga,female,1955-06-19T00:00:00Z,11,,Q3251789,Minister of Education,Q4763221-0EC92AC1-EA22-4659-90D0-11D4CB9E7C1E
-Q1412305,Fikile Mbalula,Fikile Mbalula,male,1971-04-01T00:00:00Z,11,,Q20981745,Minister of Sport and Recreation,Q1412305-d2a3ffc6-467e-10e2-0ed4-fb4d258bb701
+Q64711336,Barbara Dallas Creecy,Barbara Creecy,female,1958-06-17T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q6866418,"Minister of Forestry, Fisheries and Environment",Q64711336-37586C59-4F7D-4B9D-8322-AF87A3725C02
+Q4901661,Bhekokwakhe Hamilton Cele,Bheki Cele,male,1952-04-22T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q16744852,Minister of Police,Q4901661-00A64EC6-1FA1-4CD9-823D-B55119777586
+Q1174142,David Dabede Mabuza,David Dabede Mabuza,male,1960-08-25T00:00:00Z,11,,Q2363110,Deputy President of South Africa,Q1174142-62fe7d6f-412a-a535-6618-ea3c7be5d80e
+Q5331984,Ebrahim Patel,Ebrahim Patel,male,1962-01-01T00:00:00Z,9,https://www.parliament.gov.za/ministers,Q20981749,"Minister of Trade, Industry and Competition",Q5331984-6DDA3707-8992-4EFD-8007-C8BA41BD445E
+Q1966829,Emmanuel Nkosinathi Mthethwa,Nathi Mthethwa,male,1967-01-23T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q20981745,"Minister of Sport, Arts and Culture",Q1966829-A530B3BA-9E74-49B8-BCF3-253AC35764B2
+Q16746658,Enoch Godongwana,Enoch Godongwana,male,,,,Q2128581,Minister of Finance,Q16746658-8976AF52-88B1-4FE6-B1D4-A48FBC5E0582
+Q1412305,Fikile April Mbalula,Fikile Mbalula,male,1971-04-01T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q6866406,Minister of Transport,Q1412305-2ECB7029-9E4A-4043-BC85-754784DC87A0
+Q11043304,Grace Naledi Mandisa Pandor,Naledi Pandor,female,1953-12-07T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q4294929,Minister of International Relations and Cooperation,Q11043304-C8C12AA4-FB49-4E58-B4B3-2F0DF0CA899F
+Q64399456,Khumbudzo Ntshavheni,Khumbudzo Ntshavheni,female,1977-01-30T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q6866063,Minister of Communications and Digital Technologies,Q64399456-2CB352CE-7928-4E6F-BEC0-AE5B84C0AA80
+Q20982109,Lindiwe Daphne Zulu,Lindiwe Zulu,female,1958-04-21T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q20981744,Minister of Social Development,Q20982109-11362473-5B3F-452D-A369-FA77F7500D38
+Q3241428,Lindiwe Sisulu,Lindiwe Sisulu,female,1954-05-10T00:00:00Z,11,,Q20981747,Minister of Tourism,Q3241428-91AD9978-21ED-4785-B5CB-3A672DABC5F7
+Q58160,Maite Emily Nkoana-Mashabane,Maite Nkoana-Mashabane,female,1963-09-30T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q20981752,"Minister in the Presidency for Women, Youth and Persons with Disabilities",Q58160-FCA4903D-1D93-4E40-8B05-68CD6717F53F
 Q1148669,Matamela Cyril Ramaphosa,Matamela Cyril Ramaphosa,male,1952-11-17T00:00:00Z,11,,Q273884,President of South Africa,Q1148669-e63cc2bc-46f4-4408-6274-046f677fdce4
-Q11043304,Naledi Pandor,Naledi Pandor,female,1953-12-07T00:00:00Z,11,,Q11794974,Minister of Higher Education and Training,Q11043304-ba147164-4c91-8e1c-acce-ccfd6fabe2c4
-Q561279,Pravin Gordhan,Pravin Gordhan,male,1949-04-12T00:00:00Z,11,,Q2128581,Minister of Finance,Q561279-424f2a83-4288-a622-b9c2-0b1053fbbae5
-Q17388948,Senzeni Zokwana,Senzeni Zokwana,male,,,,Q6866029,"Minister of Agriculture, Forestry and Fisheries",Q17388948-6AF16DE3-BE4C-490E-B044-0F3DF5BD18F8
-Q4956754,Tina Joemat-Peterson,Tina Joemat-Peterson,female,1963-12-18T00:00:00Z,11,,Q20981735,Minister of Energy,Q4956754-1cae9488-4664-4459-06a3-f29b1a93c48b
-Q243833,Zweli Mkhize,Zweli Mkhize,male,1956-02-02T00:00:00Z,11,,Q3251805,Minister of Health,Q243833-fe9b778a-59af-4b1b-8dbf-eac19eeb5810
+Q47530048,Mathume Joseph Phaahla,Joseph Phaahla,male,1957-01-11T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q3251805,Minister of Health,Q47530048-B95D0D1E-B99F-465F-8CB5-8A848474B39D
+Q4763221,Matsie Angelina Motshekga,Angie Motshekga,female,1955-06-19T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q3251789,Minister of Basic Education,Q4763221-0EC92AC1-EA22-4659-90D0-11D4CB9E7C1E
+Q16746664,Mondli Gungubele,Mondli Gungubele,male,1957-02-01T00:00:00Z,11,,Q20981731,Minister in the Presidency,Q16746664-1DCD6949-5F22-4B56-BA19-C7D2BD07757F
+Q150276,Nkosazana Clarice Dlamini-Zuma,Nkosazana Dlamini-Zuma,female,1949-01-27T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q20981732,Minister of Cooperative Governance and Traditional Affairs,Q150276-BC16FE9C-C884-4311-AB15-098CF7F6E1F3
+Q302359,Pakishe Aaron Motsoaledi,Aaron Motsoaledi,male,1958-08-07T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q2640095,Minister of Home Affairs,Q302359-9F27B91A-D32C-4822-B91D-FC407A85FA24
+Q445654,Patricia De Lille,Patricia de Lille,female,1951-02-17T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q16744853,Minister of Public Works and Infrastructure,Q445654-959505D8-0F1A-432A-949D-C7FD3E85BE09
+Q561279,Pravin Jamnadas Gordhan,Pravin Gordhan,male,1949-04-12T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q20981739,Minister of Public Enterprises,Q561279-698C2BFE-9015-411C-AC88-F89D1EBBB2DD
+Q1718291,Ronald Ozzy Lamola,Ronald Lamola,male,2000-01-01T00:00:00Z,7,https://www.parliament.gov.za/ministers,Q2601386,Minister of Justice and Correctional Services,Q1718291-81D92BE1-2623-468C-AAD1-D5677B1332FA
+Q975366,Samson Gwede Mantashe,Gwede Mantashe,male,1955-06-21T00:00:00Z,11,https://www.parliament.gov.za/ministers,Q20981738,Minister of Mineral Resources and Energy,Q975366-5224FD3D-23EF-4890-BBAA-2F108A0A0AD4
+Q16192838,Senzo Mchunu,Senzo Mchunu,male,1958-04-01T00:00:00Z,10,,Q20981751,Minister of Water and Sanitation,Q16192838-369C3FCB-AB2F-49A2-9B32-24DE4EB5EBA3
+Q1625605,Thandi Modise,Thandi Modise,female,1959-12-25T00:00:00Z,11,,Q972690,Minister of Defence and Military Veterans,Q1625605-94893F45-1CB7-4721-ACD5-90FAA3455F66
