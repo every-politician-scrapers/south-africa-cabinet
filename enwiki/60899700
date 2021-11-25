@@ -1,0 +1,732 @@
+{
+  "title": "Barbara Creecy",
+  "pageID": 60899700,
+  "categories": [
+    "Living people",
+    "1958 births",
+    "White South African people",
+    "Members of the National Assembly of South Africa",
+    "African National Congress politicians",
+    "Women members of the National Assembly of South Africa",
+    "University of the Witwatersrand alumni",
+    "White South African anti-apartheid activists",
+    "Women government ministers of South Africa"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Barbara Dallas Creecy (born 17 June 1958) is a South African politician and previous anti-apartheid activist.",
+              "formatting": {
+                "bold": [
+                  "Barbara Dallas Creecy"
+                ]
+              }
+            },
+            {
+              "text": "A member of the African National Congress, she is currently serving as Minister of Environment, Forestry and Fisheries, and as a Member of the National Assembly of South Africa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "African National Congress"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Environment, Forestry and Fisheries"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of South Africa"
+                }
+              ]
+            },
+            {
+              "text": "She previously served as a Member of the Gauteng Provincial Legislature, having been elected in 1994.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gauteng Provincial Legislature"
+                }
+              ]
+            },
+            {
+              "text": "In 2004, she was named Gauteng MEC for Sports, Recreation, Arts and Culture."
+            },
+            {
+              "text": "She served until 2009 when she was appointed MEC for Education."
+            },
+            {
+              "text": "Newly elected premier David Makhura moved Creecy to the Gauteng Finance portfolio in 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Makhura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2019, Creecy was sworn in as a Member of Parliament.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "National Assembly of South Africa"
+                }
+              ]
+            },
+            {
+              "text": "On 29 May 2019, President Cyril Ramaphosa named her the new Minister of Environment, Forestry and Fisheries.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cyril Ramaphosa"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "South African politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1958",
+          "month": "06",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Barbara Creecy"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Parliament of South Africa"
+              }
+            ]
+          },
+          "image": {
+            "text": "Barbara Creecy.jpg"
+          },
+          "image_size": {
+            "text": "220px"
+          },
+          "caption": {
+            "text": "Creecy in 2014"
+          },
+          "office": {
+            "text": "Minister of Environment, Forestry and Fisheries",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Environment, Forestry and Fisheries"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Maggie Sotyu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maggie Sotyu"
+              }
+            ]
+          },
+          "president": {
+            "text": "Cyril Ramaphosa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cyril Ramaphosa"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 May 2019"
+          },
+          "predecessor": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "office1": {
+            "text": "Member of the National Assembly of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of South Africa"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "22 May 2019"
+          },
+          "constituency1": {
+            "text": "Gauteng",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gauteng"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Gauteng MEC for Finance",
+            "links": [
+              {
+                "text": "Gauteng MEC for Finance",
+                "type": "internal",
+                "page": "Government of Gauteng"
+              }
+            ]
+          },
+          "premier2": {
+            "text": "David Makhura",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Makhura"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "23 May 2014"
+          },
+          "term_end2": {
+            "text": "25 May 2019"
+          },
+          "predecessor2": {
+            "text": "Mandla Nkomfe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mandla Nkomfe"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Panyaza Lesufi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Panyaza Lesufi"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Gauteng MEC for Education",
+            "links": [
+              {
+                "text": "Gauteng MEC for Education",
+                "type": "internal",
+                "page": "Government of Gauteng"
+              }
+            ]
+          },
+          "premier3": {
+            "text": "Nomvula Mokonyane",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nomvula Mokonyane"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "8 May 2009"
+          },
+          "term_end3": {
+            "text": "23 May 2014"
+          },
+          "predecessor3": {
+            "text": "Angie Motshekga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Angie Motshekga"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Panyaza Lesufi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Panyaza Lesufi"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Gauteng MEC for Sports, Recreation, Arts and Culture",
+            "links": [
+              {
+                "text": "Gauteng MEC for Sports, Recreation, Arts and Culture",
+                "type": "internal",
+                "page": "Government of Gauteng"
+              }
+            ]
+          },
+          "premier4": {
+            "text": "Paul Mashatile Mbhazima Shilowa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Mashatile"
+              },
+              {
+                "type": "internal",
+                "page": "Mbhazima Shilowa"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "29 April 2004"
+          },
+          "term_end4": {
+            "text": "8 May 2009"
+          },
+          "predecessor4": {
+            "text": "Mondli Gungubele",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mondli Gungubele"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Nelisiwe Mbatha-Mthimkhulu"
+          },
+          "office5": {
+            "text": "Member of the Gauteng Provincial Legislature",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gauteng Provincial Legislature"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "27 April 1994"
+          },
+          "term_end5": {
+            "text": "7 May 2019"
+          },
+          "birth_date": {
+            "text": "June 17, 1958"
+          },
+          "nationality": {
+            "text": "South African"
+          },
+          "party": {
+            "text": "African National Congress",
+            "links": [
+              {
+                "type": "internal",
+                "page": "African National Congress"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "United Democratic Front",
+            "links": [
+              {
+                "text": "United Democratic Front",
+                "type": "internal",
+                "page": "United Democratic Front (South Africa)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the Witwatersrand University of London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the Witwatersrand"
+              },
+              {
+                "type": "internal",
+                "page": "University of London"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Creecy is a native of Johannesburg.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Johannesburg"
+                }
+              ]
+            },
+            {
+              "text": "She attended the University of the Witwatersrand and obtained an Honours degree in Political Science.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of the Witwatersrand"
+                }
+              ]
+            },
+            {
+              "text": "Later on, she completed a master's degree in Public Policy and Management with the University of London.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of London"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Creecy was an anti-apartheid activist and worked in the underground structures of the African National Congress whilst a student at the Witwatersrand University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Witwatersrand University"
+                }
+              ]
+            },
+            {
+              "text": "She worked for the Civic Desk of the United Democratic Front and soon joined an NGO that provided training and organisational development support to trade unions and community structures.",
+              "links": [
+                {
+                  "text": "United Democratic Front",
+                  "type": "internal",
+                  "page": "United Democratic Front (South Africa)"
+                }
+              ]
+            },
+            {
+              "text": "She had previously been a member of the Provincial Executive Committee of the ANC."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Creecy was one of the longest-serving Members of the Gauteng Provincial Legislature, having been elected in 1994."
+            },
+            {
+              "text": "During her first two terms, she served as the Deputy Chief Whip as well as Chairperson of both the Social Development and Education Committees."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2004, Premier Mbhazima Shilowa appointed Creecy as MEC for Sports, Recreation, Arts and Culture.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mbhazima Shilowa"
+                }
+              ]
+            },
+            {
+              "text": "Paul Mashatile took over as Premier of Gauteng in 2008 and retained Creecy in her post.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paul Mashatile"
+                },
+                {
+                  "type": "internal",
+                  "page": "Premier of Gauteng"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2009, Creecy moved to the Education portfolio and served in that post until May 2014, when Premier David Makhura selected her as the new Gauteng Finance MEC.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Makhura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the May 2019 elections, Creecy took office as a Member of the National Assembly."
+            },
+            {
+              "text": "The media speculated that she would be appointed to the National Finance Department, as either Minister or Deputy Minister."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 29 May 2019, President Cyril Ramaphosa appointed Creecy to the post of Minister of Environment, Forestry and Fisheries.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cyril Ramaphosa"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "first": "Ndaba",
+          "last": "Baldwin",
+          "url": "https://www.iol.co.za/news/south-africa/gauteng/sacp-lauds-gautengs-first-african-woman-finance-mec-24979210",
+          "title": "SACP lauds Gauteng's 'first African woman' finance MEC",
+          "location": "Gauteng",
+          "publisher": "IOL",
+          "date": "4 June 2019",
+          "access-date": "28 July 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Grobler",
+          "first": "Fienie",
+          "url": "https://mg.co.za/article/2008-10-07-mashatile-elected-to-lead-gauteng",
+          "title": "Mashatile elected to lead Gauteng",
+          "publisher": "Mail & Guardian",
+          "date": "7 October 2008",
+          "access-date": "30 May 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Rossouw",
+          "first": "Mandy",
+          "url": "https://mg.co.za/article/2008-10-04-which-way-will-he-swing",
+          "title": "Which way will he swing?",
+          "publisher": "Mail & Guardian",
+          "date": "4 October 2008",
+          "access-date": "30 May 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.fin24.com/Economy/analysis-who-could-replace-nene-get-to-know-barbara-creecy-and-mondli-gungubele-20181008",
+          "title": "ANALYSIS: Who could replace Nene? Get to know Barbara Creecy and Mondli Gungubele",
+          "last": "Haffajee",
+          "first": "Ferial",
+          "publisher": "Fin24",
+          "date": "8 October 2018",
+          "access-date": "30 May 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://mg.co.za/article/2019-05-29-cabinet-announcement-expected-on-wednesday-at-8pm-presidency-confirms",
+          "title": "Cabinet announcement expected on Wednesday evening, Presidency confirms",
+          "publisher": "Mail & Guardian",
+          "date": "29 May 2019",
+          "access-date": "30 May 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "P4G – Partnering for Green Growth and the Global Goals 2030, Member of the Board of Directors (since 2019)"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "ramaphosa second cabinet"
+        },
+        {
+          "template": "current mps of south africa"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "People's Assembly profile",
+            "links": [
+              {
+                "text": "People's Assembly profile",
+                "type": "external",
+                "site": "https://www.pa.org.za/person/creecy-barbara/"
+              }
+            ]
+          },
+          {
+            "text": "Barbara Creecy - 1976, being brought up by a single mother & being a career mom",
+            "links": [
+              {
+                "text": "Barbara Creecy - 1976, being brought up by a single mother & being a career mom",
+                "type": "external",
+                "site": "https://ewn.co.za/video/10367/barbara-creecy---1976--being-brought-up-by-a-single-mother---being-a-career-mom"
+              }
+            ]
+          },
+          {
+            "text": "BEHIND THE POLITICS: Creecy on student activism, juggling career and family life",
+            "links": [
+              {
+                "text": "BEHIND THE POLITICS: Creecy on student activism, juggling career and family life",
+                "type": "external",
+                "site": "https://ewn.co.za/2019/08/08/behind-the-politics-creecy-on-student-activism-juggling-career-and-family-life"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
