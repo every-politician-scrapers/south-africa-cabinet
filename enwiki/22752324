@@ -408,8 +408,11 @@
               "links": [
                 {
                   "text": "Leyland Motors",
-                  "type": "internal",
-                  "page": ":de:Leyland Motor Corporation of South Africa"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "de"
+                  }
                 }
               ]
             }
