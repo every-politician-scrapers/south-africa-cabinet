@@ -170,6 +170,28 @@
             ]
           },
           "office2": {
+            "text": "Member of the National Assembly of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of South Africa"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "22 May 2019"
+          },
+          "constituency2": {
+            "text": "Gauteng",
+            "links": [
+              {
+                "text": "Gauteng",
+                "type": "internal",
+                "page": "Gauteng (National Assembly of South Africa constituency)"
+              }
+            ]
+          },
+          "office3": {
             "text": "Minister of Small Business Development",
             "links": [
               {
@@ -179,7 +201,7 @@
               }
             ]
           },
-          "president2": {
+          "president3": {
             "text": "Jacob Zuma Cyril Ramaphosa",
             "links": [
               {
@@ -192,7 +214,7 @@
               }
             ]
           },
-          "deputy2": {
+          "deputy3": {
             "text": "Elizabeth Thabethe",
             "links": [
               {
@@ -201,13 +223,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "25 May 2014"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "29 May 2019"
           },
-          "successor2": {
+          "successor3": {
             "text": "Khumbudzo Ntshavheni",
             "links": [
               {
