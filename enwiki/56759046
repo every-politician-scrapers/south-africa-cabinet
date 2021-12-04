@@ -5,7 +5,8 @@
     "Living people",
     "Government ministers of South Africa",
     "1957 births",
-    "People from Lepelle-Nkumpi Local Municipality"
+    "People from Lepelle-Nkumpi Local Municipality",
+    "University of Natal alumni"
   ],
   "sections": [
     {
@@ -224,6 +225,24 @@
                 "text": "South African",
                 "type": "internal",
                 "page": "South Africa"
+              }
+            ]
+          },
+          "party": {
+            "text": "ANC",
+            "links": [
+              {
+                "type": "internal",
+                "page": "ANC"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Natal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Natal"
               }
             ]
           }
