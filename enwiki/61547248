@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Mmamoloko Tryphosa Kubayi-Ngubane (born 8 May 1978) is a South African politician who is the Minister of Human Settlements and a Member of the National Assembly for the African National Congress (ANC).",
+              "text": "Mmamoloko Tryphosa Kubayi (born 8 May 1978) is a South African politician who is the Minister of Human Settlements and a Member of the National Assembly for the African National Congress (ANC).",
               "links": [
                 {
                   "text": "Minister of Human Settlements",
@@ -42,7 +42,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Mmamoloko Tryphosa Kubayi-Ngubane"
+                  "Mmamoloko Tryphosa Kubayi"
                 ]
               }
             },
@@ -99,7 +99,7 @@
             ]
           },
           "name": {
-            "text": "Mmamoloko Kubayi-Ngubane"
+            "text": "Mmamoloko Kubayi"
           },
           "honorific-suffix": {
             "text": "MP",
@@ -118,7 +118,7 @@
             "text": "200px"
           },
           "caption": {
-            "text": "Kubayi-Ngubane in 2017"
+            "text": "Kubayi in 2017"
           },
           "office": {
             "text": "Minister of Human Settlements",
