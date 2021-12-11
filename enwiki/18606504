@@ -113,6 +113,12 @@
               }
             ]
           },
+          "image": {
+            "text": "Fikile Mbalula.png"
+          },
+          "caption": {
+            "text": "Mbalula in 2019"
+          },
           "president": {
             "text": "Cyril Ramaphosa",
             "links": [
