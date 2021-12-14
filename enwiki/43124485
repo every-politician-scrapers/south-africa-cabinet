@@ -71,6 +71,17 @@
           "template": "short description"
         },
         {
+          "last": "yes",
+          "list": [
+            "Legislative offices"
+          ],
+          "titlestyle": "border:1px dashed lightgrey;",
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
           "df": "yes",
           "year": "1959",
           "month": "12",
@@ -79,6 +90,81 @@
         }
       ],
       "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "office5": {
+            "text": "Member of the National Assembly of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the National Assembly of South Africa"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "22 May 2019"
+          },
+          "constituency5": {
+            "text": "North West",
+            "links": [
+              {
+                "type": "internal",
+                "page": "North West"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Delegate to the National Council of Provinces",
+            "links": [
+              {
+                "text": "Delegate to the National Council of Provinces",
+                "type": "internal",
+                "page": "National Council of Provinces"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "22 May 2014"
+          },
+          "term_end6": {
+            "text": "7 May 2019"
+          },
+          "constituency6": {
+            "text": "North West",
+            "links": [
+              {
+                "type": "internal",
+                "page": "North West"
+              }
+            ]
+          },
+          "office7": {
+            "text": "Member of the North West Provincial Legislature",
+            "links": [
+              {
+                "type": "internal",
+                "page": "North West Provincial Legislature"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "19 November 2010"
+          },
+          "term_end7": {
+            "text": "20 May 2014"
+          },
+          "constituency7": {
+            "text": "Vryburg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vryburg"
+              }
+            ]
+          }
+        },
         {
           "honorific-prefix": {
             "text": "The Honourable",
@@ -270,6 +356,35 @@
               {
                 "type": "internal",
                 "page": "African National Congress"
+              }
+            ]
+          },
+          "president4": {
+            "text": "Thabo Mbeki Jacob Zuma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Thabo Mbeki"
+              },
+              {
+                "type": "internal",
+                "page": "Jacob Zuma"
+              }
+            ]
+          },
+          "1blankname4": {
+            "text": "Secretary-General"
+          },
+          "1namedata4": {
+            "text": "Kgalema Motlanthe Gwede Mantashe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kgalema Motlanthe"
+              },
+              {
+                "type": "internal",
+                "page": "Gwede Mantashe"
               }
             ]
           },
