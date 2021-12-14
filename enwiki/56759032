@@ -142,7 +142,14 @@
             ]
           },
           "office2": {
-            "text": "Deputy Minister of Finance"
+            "text": "Deputy Minister of Finance",
+            "links": [
+              {
+                "text": "Deputy Minister of Finance",
+                "type": "internal",
+                "page": "National Treasury (South Africa)"
+              }
+            ]
           },
           "president2": {
             "text": "Cyril Ramaphosa",
@@ -150,6 +157,15 @@
               {
                 "type": "internal",
                 "page": "Cyril Ramaphosa"
+              }
+            ]
+          },
+          "minister2": {
+            "text": "Tito Mboweni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tito Mboweni"
               }
             ]
           },
@@ -178,7 +194,14 @@
             ]
           },
           "office3": {
-            "text": "Chairperson of the Portfolio Committee on Social Development"
+            "text": "Chairperson of the Portfolio Committee on Social Development",
+            "links": [
+              {
+                "text": "Chairperson of the Portfolio Committee on Social Development",
+                "type": "internal",
+                "page": "Parliament of South Africa"
+              }
+            ]
           },
           "term_start3": {
             "text": "2 July 2019"
@@ -198,11 +221,31 @@
           "successor3": {
             "text": "TBD"
           },
+          "office4": {
+            "text": "Mayor of the City of Ekurhuleni Metropolitan Municipality",
+            "links": [
+              {
+                "type": "internal",
+                "page": "City of Ekurhuleni Metropolitan Municipality"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "2010",
+            "number": 2010
+          },
+          "term_end4": {
+            "text": "2016",
+            "number": 2016
+          },
           "birthname": {
             "text": "Mondli Gungubele"
           },
           "birth_date": {
             "text": "February 1, 1957"
+          },
+          "nationality": {
+            "text": "South African"
           },
           "party": {
             "text": "African National Congress",
@@ -212,6 +255,9 @@
                 "page": "African National Congress"
               }
             ]
+          },
+          "occupation": {
+            "text": "Politician\n\ntrade union leader \n\neducator"
           }
         }
       ]
