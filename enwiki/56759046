@@ -201,6 +201,18 @@
               }
             ]
           },
+          "office3": {
+            "text": "Member of the National Assembly of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the National Assembly of South Africa"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "6 May 2009"
+          },
           "birth_date": {
             "text": "July 11, 1957"
           },
@@ -218,6 +230,9 @@
               }
             ]
           },
+          "birthname": {
+            "text": "Mathume Joseph Phaahla"
+          },
           "nationality": {
             "text": "South African",
             "links": [
@@ -229,20 +244,25 @@
             ]
           },
           "party": {
-            "text": "ANC",
+            "text": "African National Congress",
             "links": [
               {
                 "type": "internal",
-                "page": "ANC"
+                "page": "African National Congress"
               }
             ]
           },
           "alma_mater": {
-            "text": "University of Natal",
+            "text": "University of Natal (MBBS)",
             "links": [
               {
                 "type": "internal",
                 "page": "University of Natal"
+              },
+              {
+                "text": "MBBS",
+                "type": "internal",
+                "page": "Bachelor of Medicine, Bachelor of Surgery"
               }
             ]
           }
