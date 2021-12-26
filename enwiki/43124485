@@ -483,6 +483,9 @@
               }
             ]
           },
+          "religion": {
+            "text": "Christianity"
+          },
           "allegiance": {
             "text": "Umkhonto We Sizwe",
             "links": [
