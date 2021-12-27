@@ -1,4 +1,5 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q273884,President of South Africa,Q258,Q258,Q2363110,,1994-05-10,,Q890030,,President of South Africa
 Q2363110,Deputy President of South Africa,Q258,Q258,,,1994-05-10,,,,Deputy President of South Africa
 Q6866037,Minister of Agriculture and Land Affairs,Q258,Q258,,,,,,,Minister of Agriculture and Land Affairs
 Q96393308,"Minister of Agriculture, Land Reform and Rural Development",Q258,,,,,,,,"Minister of Agriculture, Land Reform and Rural Development"
@@ -19,6 +20,7 @@ Q2640095,Minister of Home Affairs,Q258,Q258,,,1910-05-31,,,,Minister of Home Aff
 Q20981736,Minister of Human Settlements,,,,,2009-05-10,,,,"Minister of Human Settlements, Water and Sanitation"
 Q4294929,Minister of International Relations and Cooperation,Q258,Q258,,,1927,,,,Minister of International Relations and Cooperation
 Q2601386,Minister of Justice and Constitutional Development,Q258,Q258,,,1910-05-31,,,,Minister of Justice and Correctional Services
+Q108005366,Minister of Labour,Q258,Q258,,,,,,,
 Q20981738,Minister of Mineral Resources,Q258,Q258,,,1910-05-31,,,,Minister of Mineral Resources (South Africa)
 Q16744852,Minister of Police,Q258,Q258,,,1989-08-16,,,,Minister of Police (South Africa)
 Q20981731,Minister in the Presidency,Q258,Q258,,,1999-06-17,,,,Minister in the Presidency
