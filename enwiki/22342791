@@ -331,55 +331,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Plessis",
-          "first": "Carien du",
-          "date": "2018-02-27",
-          "title": "Cabinet Reshuffle: SA government gets a full makeover",
-          "url": "https://www.dailymaverick.co.za/article/2018-02-27-cabinet-reshuffle-sa-government-gets-a-full-makeover/",
-          "access-date": "2021-11-10",
-          "website": "Daily Maverick",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2012-06-12",
-          "title": "South Africa police chief Bheki Cele fired by Jacob Zuma",
-          "language": "en-GB",
-          "work": "BBC News",
-          "url": "https://www.bbc.com/news/world-africa-18414786",
-          "access-date": "2021-11-10",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2018-04-23",
-          "title": "The National Executive Committee",
-          "url": "http://www.anc.org.za/officials/national-executive-committee-0",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20180423034635/http://anc.org.za/officials/national-executive-committee-0",
-          "archive-date": "2018-04-23",
-          "access-date": "2021-11-10",
-          "website": "African National Congress",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Dixon",
-          "first": "Robyn",
-          "date": "2009-09-27",
-          "title": "South Africa struggles with rising crime",
-          "url": "https://www.latimes.com/archives/la-xpm-2009-sep-27-fg-crime-police27-story.html",
-          "url-status": "live",
-          "access-date": "2021-11-10",
-          "website": "Los Angeles Times",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

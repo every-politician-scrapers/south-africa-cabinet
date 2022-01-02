@@ -178,17 +178,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.gcis.gov.za/content/resourcecentre/profiles/profile/7338",
-          "title": "Government Leaders {{!}} South African Government",
-          "website": "www.gcis.gov.za",
-          "language": "en",
-          "access-date": "2018-01-09",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

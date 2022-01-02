@@ -277,24 +277,6 @@
             "text": "Politician"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.pa.org.za/person/emmanuel-nkosinathi-mthethwa/",
-          "title": "Nathi Mthethwa",
-          "publisher": "People's Assembly",
-          "access-date": "1 March 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.gov.za/about-government/contact-directory/nkosinathi-emmanuel-nathi-mthethwa-mr",
-          "title": "Emmanuel Nkosinathi \"Nathi\" Mthethwa",
-          "publisher": "South African Government",
-          "access-date": "1 March 2018",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

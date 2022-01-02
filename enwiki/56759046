@@ -267,27 +267,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://citizen.co.za/news/south-africa/1824649/details-what-ramaphosa-will-look-for-in-hiring-his-cabinet/",
-          "title": "Details: What Ramaphosa will look for in hiring his Cabinet",
-          "last": "Naki",
-          "first": "Eric",
-          "work": "The Citizen",
-          "access-date": "2018-03-07",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.pa.org.za/person/mathume-joseph-phaahla/",
-          "website": "pa.org.za",
-          "title": "Joseph Phaahla :: People's Assembly",
-          "accessdate": "2018-03-05",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

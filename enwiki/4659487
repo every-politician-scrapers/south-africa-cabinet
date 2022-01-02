@@ -235,38 +235,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.bdlive.co.za/national/2016/06/22/two-die-in-tshwane-riots-as-protests-continue-in-the-capital",
-          "title": "Two die in Tshwane riots as protests continue in the capital",
-          "website": "Business Day Live",
-          "access-date": "2016-07-04",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.timeslive.co.za/politics/2016/06/23/Shops-remain-shut-in-Tshwane-as-protests-looting-subside",
-          "title": "Shops remain shut in Tshwane as protests, looting subside",
-          "last": "Nkosi",
-          "first": "Bongani",
-          "website": "Times LIVE",
-          "access-date": "2016-07-04",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

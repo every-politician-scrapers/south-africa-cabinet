@@ -328,20 +328,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://apps.gcis.gov.za/gcis/gcis_profile.jsp?id=6935",
-          "title": "Home &#124; Government Communication and Information System (GCIS)",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://apps.gcis.gov.za/gcis/InternetIncludes/gcis_profile.jsp?id=6935",
-          "title": "Home &#124; Government Communication and Information System (GCIS)",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -211,41 +211,6 @@
             "text": "Politician"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Eastern Cape welcomes 224 New Year’s Day babies",
-          "url": "https://www.dispatchlive.co.za/news/2020-01-03-eastern-cape-welcomes-224-new-years-day-babies/",
-          "access-date": "2 June 2020",
-          "agency": "HeraldLIVE",
-          "date": "3 January 2020",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

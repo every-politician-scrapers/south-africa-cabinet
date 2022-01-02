@@ -508,25 +508,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.sahistory.org.za/people/thandi-modise",
-          "title": "Thandi Modise",
-          "publisher": "SA History Online",
-          "access-date": "23 June 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.timeslive.co.za/politics/2014/05/22/thandi-modise-elected-national-council-of-provinces-chair",
-          "title": "Thandi Modise elected National Council of Provinces chair",
-          "publisher": "TimesLive",
-          "date": "22 May 2014",
-          "access-date": "23 June 2014",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -288,24 +288,6 @@
             "number": 3
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.facebook.com/story/graphql_permalink/?graphql_id=UzpfSTExMDQ4OTM4OTg6MTAyMTgzMTAwNzE4Mzg5MDg%3D",
-          "title": "Stella Ndabeni Abrahams on Facebook",
-          "website": "facebook",
-          "access-date": "22 April 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.gov.za/about-government/contact-directory/tembisa-stella-ndabeni-abrahams-ms",
-          "title": "Tembisa Stella Ndabeni-Abrahams, Ms",
-          "website": "gov.za",
-          "access-date": "23 April 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

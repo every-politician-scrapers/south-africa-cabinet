@@ -164,41 +164,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "About South African Reserve Bank",
-          "url": "http://banknotes.resbank.co.za/about/about-sarb",
-          "date": "2014",
-          "accessdate": "6 March 2015",
-          "first": ".",
-          "last": "SARB",
-          "publisher": "South African Reserve Bank (SARB)",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "accessdate": "4 November 2014",
-          "url": "http://www.bdlive.co.za/economy/2014/10/06/lesetja-kganyago-appointed-new-governor-of-reserve-bank",
-          "date": "6 October 2014",
-          "title": "Lesetja Kganyago Appointed New Governor of Reserve Bank",
-          "first": "Natasha",
-          "last": "Marrian",
-          "newspaper": "Business Day (South Africa)",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "SAGN",
-          "url": "http://allafrica.com/stories/201410070331.html",
-          "first": ".",
-          "title": "South Africa: New South Africa Reserve Bank Governor Promises Continuity",
-          "date": "6 October 2014",
-          "accessdate": "3 November 2014",
-          "publisher": "South Africa Government News (SAGN) via AllAfrica.com",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
