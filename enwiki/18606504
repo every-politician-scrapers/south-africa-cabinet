@@ -258,27 +258,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://apps.gcis.gov.za/gcis/gcis_profile.jsp?id=6397",
-          "title": "Archived copy",
-          "access-date": "2012-11-12",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20120804235648/http://apps.gcis.gov.za/gcis/gcis_profile.jsp?id=6397",
-          "archive-date": "2012-08-04",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Sowetan Live",
-          "title": "Mbalula goes to the mountain",
-          "url": "https://www.sowetanlive.co.za/news/2008-09-09-mbalula-goes-to-the-mountain/",
-          "access-date": "6 April 2021",
-          "date": "2008",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

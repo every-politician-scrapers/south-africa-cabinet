@@ -551,39 +551,6 @@
             "number": 4
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://businesstech.co.za/news/government/319988/full-list-here-is-ramaphosas-new-cabinet/",
-          "title": "Full list – here is Ramaphosa's new cabinet",
-          "date": "29 May 2019",
-          "publisher": "Business Tech",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.timeslive.co.za/anc-conference-2017/2017-12-17-live--ndz-ramaphosa-to-battle-for-anc-presidency-as-voting-begins/",
-          "title": "LIVE {{!}} NDZ, Ramaphosa to battle for ANC presidency as voting begins",
-          "access-date": "2017-12-17",
-          "language": "en-US",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.bbc.com/news/world-africa-38795676",
-          "title": "Morocco to rejoin African Union despite Western Sahara dispute",
-          "work": "BBC News",
-          "date": "30 January 2017",
-          "access-date": "9 August 2017",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

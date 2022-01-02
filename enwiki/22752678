@@ -256,40 +256,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.news24.com/News24/Elections/News/0,,2-2478-2479_2514142,00.html",
-          "title": "New Cabinet - full appointments",
-          "publisher": "News24",
-          "access-date": "2009-05-10",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20090512103024/http://www.news24.com/News24/Elections/News/0%2C%2C2-2478-2479_2514142%2C00.html",
-          "archive-date": "2009-05-12",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "22 June 1999",
-          "title": "Zero tolerence for vigilantes",
-          "url": "http://www.iol.co.za/index.php?set_id=1&click_id=6&art_id=ct19990622210007140N16121599",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20110606144224/http://www.iol.co.za/news/politics/zero-tolerence-for-vigilantes-1.3132",
-          "archive-date": "6 June 2011",
-          "access-date": "2009-05-10",
-          "website": "Independent Online",
-          "publisher": "Independent News & Media",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.sowetan.co.za/News/Article.aspx?id=674280",
-          "title": "Initiative to visit schools",
-          "work": "The Sowetan",
-          "access-date": "2009-05-10 \n}}{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

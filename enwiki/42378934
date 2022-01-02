@@ -264,49 +264,6 @@
             "text": "Politician"
           }
         }
-      ],
-      "references": [
-        {
-          "date": "5 August 2021",
-          "title": "President Cyril Ramaphosa: Changes to the national executive",
-          "url": "https://www.gov.za/speeches/president-cyril-ramaphosa-changes-national-executive-5-aug-2021-0000",
-          "url-status": "live",
-          "access-date": "5 August 2021",
-          "website": "Government of South Africa",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Zweli Mkhize resigns as KZN premier",
-          "date": "22 August 2013",
-          "publisher": "News24",
-          "agency": "SAPA",
-          "url": "http://www.news24.com/SouthAfrica/Politics/Zweli-Mkhize-resigns-as-KZN-premier-20130822",
-          "access-date": "2 April 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Senzo Mchunu elected new KZN premier",
-          "date": "26 September 2013",
-          "publisher": "News24",
-          "agency": "SAPA",
-          "url": "http://www.news24.com/SouthAfrica/Politics/Senzo-Mchunu-elected-new-KZN-premier-20130926",
-          "access-date": "2 April 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "The Honourable Premier of KZN",
-          "publisher": "Office of the Premier, KwaZulu-Natal",
-          "date": "26 September 2013",
-          "first": "Mohamed",
-          "last": "Suleman",
-          "url": "http://www.kznpremier.gov.za/index.php?option=com_content&view=article&id=43&Itemid=2",
-          "access-date": "2 April 2014",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

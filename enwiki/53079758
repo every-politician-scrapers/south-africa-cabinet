@@ -425,54 +425,6 @@
             "text": "Politician\nBusinessman"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "last1": "Donnelly",
-          "first1": "Lynley",
-          "title": "Zille adds two women to Western Cape cabinet",
-          "url": "https://mg.co.za/article/2014-05-21-zille-adds-two-women-to-western-cape-cabinet/",
-          "access-date": "2 May 2020",
-          "newspaper": "Mail & Guardian",
-          "date": "21 May 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "last1": "Le Roux",
-          "first1": "Nckey",
-          "title": "Winde formally elected as Premier on 22 May",
-          "url": "https://www.georgeherald.com/News/Article/Elections-2019/premier-elect-inaugurated-on-22-may-201905131129",
-          "access-date": "30 August 2019",
-          "newspaper": "George Herald",
-          "date": "13 May 2019",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
