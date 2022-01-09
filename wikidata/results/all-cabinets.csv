@@ -34,7 +34,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q16979023,Second cabinet of Thabo Mbeki,2004-04-29,11,,,2009-04-22,11,,,Q20981551,First Cabinet of Thabo Mbeki,Q20981411,Cabinet of Kgalema Motlanthe,Q20981551,First Cabinet of Thabo Mbeki,Q20981411,Cabinet of Kgalema Motlanthe
 ,Q20981411,Cabinet of Kgalema Motlanthe,2008-09-25,11,,,2009-04-22,11,,,Q16979023,Second cabinet of Thabo Mbeki,Q20981549,First Cabinet of Jacob Zuma,Q16979023,Second cabinet of Thabo Mbeki,Q20981549,First Cabinet of Jacob Zuma
 ,Q20981549,First Cabinet of Jacob Zuma,2009-04-22,11,,,2014-05-07,11,,,Q20981411,Cabinet of Kgalema Motlanthe,Q20981920,Second Cabinet of Jacob Zuma,Q20981411,Cabinet of Kgalema Motlanthe,Q20981920,Second Cabinet of Jacob Zuma
-,Q20981920,Second Cabinet of Jacob Zuma,2014-05-07,11,,,2018-02-14,11,,,Q20981549,First Cabinet of Jacob Zuma,Q50249147,Cabinet of Cyril Ramaphosa,Q20981549,First Cabinet of Jacob Zuma,,
-,Q50249147,Cabinet of Cyril Ramaphosa,2018-02-26,11,,,2019-05-29,11,,,Q20981920,Second Cabinet of Jacob Zuma,Q64167569,Second Cabinet of Cyril Ramaphosa,,,,
-,Q50249147,Cabinet of Cyril Ramaphosa,2018-02-27,11,,,2019-05-29,11,,,Q20981920,Second Cabinet of Jacob Zuma,Q64167569,Second Cabinet of Cyril Ramaphosa,,,,
-,Q64167569,Second Cabinet of Cyril Ramaphosa,2019-05-29,11,,,,,,,Q50249147,Cabinet of Cyril Ramaphosa,,,Q50249147,Cabinet of Cyril Ramaphosa,,
+,Q20981920,Second Cabinet of Jacob Zuma,2014-05-07,11,,,2018-02-14,11,,,Q20981549,First Cabinet of Jacob Zuma,Q50249147,First Cabinet of Cyril Ramaphosa,Q20981549,First Cabinet of Jacob Zuma,,
+,Q50249147,First Cabinet of Cyril Ramaphosa,2018-02-26,11,,,2019-05-29,11,,,Q20981920,Second Cabinet of Jacob Zuma,Q64167569,Second Cabinet of Cyril Ramaphosa,,,,
+,Q50249147,First Cabinet of Cyril Ramaphosa,2018-02-27,11,,,2019-05-29,11,,,Q20981920,Second Cabinet of Jacob Zuma,Q64167569,Second Cabinet of Cyril Ramaphosa,,,,
+,Q64167569,Second Cabinet of Cyril Ramaphosa,2019-05-29,11,,,,,,,Q50249147,First Cabinet of Cyril Ramaphosa,,,Q50249147,First Cabinet of Cyril Ramaphosa,,
