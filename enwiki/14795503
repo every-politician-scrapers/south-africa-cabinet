@@ -60,6 +60,15 @@
                   "page": "Minister of Mineral Resources (South Africa)"
                 }
               ]
+            },
+            {
+              "text": "In May 2019, he was appointed Minister of Mineral Resources and Energy, when his earlier portfolio was merged with the energy portfolio.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Mineral Resources and Energy"
+                }
+              ]
             }
           ]
         }
@@ -132,6 +141,12 @@
                 "page": "South African Communist Party"
               }
             ]
+          },
+          "image": {
+            "text": "Gwede Mantashe in 2019.png"
+          },
+          "caption": {
+            "text": "Mantashe in 2019."
           },
           "office1": {
             "text": "Minister of Mineral Resources",
