@@ -219,7 +219,13 @@
             ]
           },
           "successor3": {
-            "text": "TBD"
+            "text": "Queenie Mvana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Queenie Mvana"
+              }
+            ]
           },
           "office4": {
             "text": "Mayor of the City of Ekurhuleni Metropolitan Municipality",
