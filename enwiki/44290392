@@ -18,13 +18,6 @@
           "sentences": [
             {
               "text": "Lesetja Kganyago (born 7 October 1965) is a South African economist and central banker.",
-              "links": [
-                {
-                  "text": "South African",
-                  "type": "internal",
-                  "page": "South Africa"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Lesetja Kganyago"

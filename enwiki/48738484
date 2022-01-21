@@ -17,13 +17,6 @@
           "sentences": [
             {
               "text": "Manemolla David Makhura (born 22 February 1968) is a South African politician.",
-              "links": [
-                {
-                  "text": "South African",
-                  "type": "internal",
-                  "page": "South Africa"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Manemolla David Makhura"
