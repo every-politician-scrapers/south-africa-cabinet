@@ -20,13 +20,6 @@
           "sentences": [
             {
               "text": "Angela Thoko Didiza (born 2 June 1965) is a South African politician currently serving as Minister of Agriculture, Land Reform and Rural Development.",
-              "links": [
-                {
-                  "text": "South African",
-                  "type": "internal",
-                  "page": "South Africa"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Angela Thoko Didiza"
