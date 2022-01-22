@@ -303,7 +303,7 @@
             "text": "April 22, 1952"
           },
           "birth_place": {
-            "text": "Umzumbe, South Africa",
+            "text": "Umzumbe, Natal, Union of South Africa",
             "links": [
               {
                 "type": "internal",
@@ -311,7 +311,11 @@
               },
               {
                 "type": "internal",
-                "page": "South Africa"
+                "page": "Natal"
+              },
+              {
+                "type": "internal",
+                "page": "Union of South Africa"
               }
             ]
           },
