@@ -285,10 +285,6 @@
           "template": "short description"
         },
         {
-          "small": "yes",
-          "template": "pp-blp"
-        },
-        {
           "date": "February 2018",
           "template": "use south african english"
         },
@@ -595,8 +591,8 @@
             "text": "*Hope Ramaphosa (m. 1978-1989) Nomazizi Mtshotshisa (m. 1991-1993) Tshepo Motsepe (m. 1996)"
           },
           "children": {
-            "text": "6",
-            "number": 6
+            "text": "5",
+            "number": 5
           },
           "alma_mater": {
             "text": "University of Limpopo\nUniversity of South Africa",
