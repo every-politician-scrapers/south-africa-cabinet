@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Fikile April Mbalula (born 8 April 1971 in the Free State) is a South African politician who is currently serving as Minister of Transport.",
+              "text": "Fikile April Mbalula (born 1971 in the Free State) is a South African politician who is currently serving as Minister of Transport.",
               "links": [
                 {
                   "text": "Free State",
@@ -79,8 +79,7 @@
       "templates": [
         {
           "url": "https://www.transport.gov.za/minister-of-transport",
-          "start1": "1068315754",
-          "end1": "1068315984",
+          "start1": "1068560508",
           "template": "copyvio-revdel"
         },
         {
@@ -88,11 +87,8 @@
           "template": "short description"
         },
         {
-          "df": "yes",
-          "year": "1971",
-          "month": "04",
-          "day": "08",
-          "template": "birth date and age"
+          "birth_year": "1971",
+          "template": "birth year and age"
         }
       ],
       "infoboxes": [
@@ -243,7 +239,7 @@
             ]
           },
           "birth_date": {
-            "text": "April 8, 1971"
+            "text": "1971 (age 51)"
           },
           "birth_place": {
             "text": "Botshabelo, Free State",
