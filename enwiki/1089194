@@ -325,14 +325,15 @@
             "text": "Cyril Ramaphosa"
           },
           "image": {
-            "text": "Cyril Ramaphosa - President of South Africa - 2018 (cropped).jpg"
+            "text": "File:2018 BRICS summit (2) cropped.jpg"
           },
           "caption": {
-            "text": "Ramaphosa at the ITU Telecom World in 2018",
+            "text": "Ramaphosa at the 10th BRICS summit in 2018",
             "links": [
               {
+                "text": "10th BRICS summit",
                 "type": "internal",
-                "page": "ITU Telecom World"
+                "page": "BRICS"
               }
             ]
           },

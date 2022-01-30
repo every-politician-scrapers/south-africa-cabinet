@@ -186,7 +186,7 @@
             "links": [
               {
                 "type": "internal",
-                "page": "National Assembly of South Africa"
+                "page": "Member of the National Assembly of South Africa"
               }
             ]
           },
@@ -203,11 +203,11 @@
             ]
           },
           "office3": {
-            "text": "Leader of Government Business in the National Assembly of South Africa",
+            "text": "Leader of Government Business in the Parliament of South Africa",
             "links": [
               {
                 "type": "internal",
-                "page": "National Assembly of South Africa"
+                "page": "Parliament of South Africa"
               }
             ]
           },
@@ -215,6 +215,15 @@
             "text": "27 September 2018"
           },
           "president3": {
+            "text": "Cyril Ramaphosa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cyril Ramaphosa"
+              }
+            ]
+          },
+          "predecessor3": {
             "text": "Cyril Ramaphosa",
             "links": [
               {
