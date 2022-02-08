@@ -134,11 +134,20 @@
             "text": "South African"
           },
           "party": {
-            "text": "South African Communist Party (Political partnership: African National Congress)",
+            "text": "South African Communist Party",
             "links": [
               {
                 "type": "internal",
                 "page": "South African Communist Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "African National Congress (political coalition through Tripartite Alliance)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "African National Congress"
               }
             ]
           },
