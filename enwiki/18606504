@@ -78,6 +78,12 @@
       ],
       "templates": [
         {
+          "url": "https://www.transport.gov.za/minister-of-transport",
+          "start1": "1070515964",
+          "end1": "1070698414",
+          "template": "copyvio-revdel"
+        },
+        {
           "description": "South African politician",
           "template": "short description"
         },
