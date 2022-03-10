@@ -1,268 +1,29 @@
 {
-  "title": "Joe Phaahla",
-  "pageID": 56759046,
-  "categories": [
-    "Living people",
-    "Government ministers of South Africa",
-    "1957 births",
-    "People from Lepelle-Nkumpi Local Municipality",
-    "University of Natal alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mathume Joseph Phaahla (born 11 July 1957) is a South African politician currently serving as Minister of Health in South Africa, popularly known as Joe Phaahla.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Minister of Health"
-                },
-                {
-                  "type": "internal",
-                  "page": "South Africa"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mathume Joseph Phaahla",
-                  "Joe Phaahla"
-                ]
-              }
-            },
-            {
-              "text": "He holds a medical degree and was previously the Deputy Minister of Health, Deputy Minister of Rural Development and Land Reform, and Deputy Minister of Arts and Culture."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "August 2021",
-          "template": "more citations needed"
-        },
-        {
-          "df": "yes",
-          "year": "1957",
-          "month": "07",
-          "day": "11",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Right Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Right Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Joe Phaahla"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "office": {
-            "text": "26th Minister of Health of South Africa",
-            "links": [
-              {
-                "text": "Minister of Health of South Africa",
-                "type": "internal",
-                "page": "Minister of Health (South Africa)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "5 August 2021"
-          },
-          "deputy": {
-            "text": "Sibongiseni Dhlomo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sibongiseni Dhlomo"
-              }
-            ]
-          },
-          "president": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Zweli Mkhize",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zweli Mkhize"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Deputy Minister of Health of South Africa",
-            "links": [
-              {
-                "text": "Deputy Minister of Health of South Africa",
-                "type": "internal",
-                "page": "Department of Health (South Africa)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 May 2014"
-          },
-          "term_end1": {
-            "text": "5 August 2021"
-          },
-          "minister1": {
-            "text": "Zweli Mkhize Aaron Motsoaledi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zweli Mkhize"
-              },
-              {
-                "type": "internal",
-                "page": "Aaron Motsoaledi"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Cyril Ramaphosa Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              },
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Sibongiseni Dhlomo"
-          },
-          "office2": {
-            "text": "Deputy Minister of Arts and Culture of South Africa",
-            "links": [
-              {
-                "text": "Deputy Minister of Arts and Culture of South Africa",
-                "type": "internal",
-                "page": "Department of Arts and Culture"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "30 October 2010"
-          },
-          "term_end2": {
-            "text": "7 May 2014"
-          },
-          "president2": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "minister2": {
-            "text": "Paul Mashatile",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Mashatile"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the National Assembly of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of the National Assembly of South Africa"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "6 May 2009"
-          },
-          "birth_date": {
-            "text": "July 11, 1957"
-          },
-          "birth_place": {
-            "text": "Ga-Phaahla, Limpopo",
-            "links": [
-              {
-                "text": "Ga-Phaahla",
-                "type": "internal",
-                "page": "Byldrift"
-              },
-              {
-                "type": "internal",
-                "page": "Limpopo"
-              }
-            ]
-          },
-          "birthname": {
-            "text": "Mathume Joseph Phaahla"
-          },
-          "nationality": {
-            "text": "South African",
-            "links": [
-              {
-                "text": "South African",
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Natal (MBBS)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Natal"
-              },
-              {
-                "text": "MBBS",
-                "type": "internal",
-                "page": "Bachelor of Medicine, Bachelor of Surgery"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Right Honourable",
+  "name": "Joe Phaahla",
+  "honorific-suffix": "MP",
+  "office": "26th Minister of Health of South Africa",
+  "term_start": "5 August 2021",
+  "deputy": "Sibongiseni Dhlomo",
+  "president": "Cyril Ramaphosa",
+  "predecessor": "Zweli Mkhize",
+  "office1": "Deputy Minister of Health of South Africa",
+  "term_start1": "26 May 2014",
+  "term_end1": "5 August 2021",
+  "minister1": "Zweli Mkhize Aaron Motsoaledi",
+  "president1": "Cyril Ramaphosa Jacob Zuma",
+  "successor1": "Sibongiseni Dhlomo",
+  "office2": "Deputy Minister of Arts and Culture of South Africa",
+  "term_start2": "30 October 2010",
+  "term_end2": "7 May 2014",
+  "president2": "Jacob Zuma",
+  "minister2": "Paul Mashatile",
+  "office3": "Member of the National Assembly of South Africa",
+  "term_start3": "6 May 2009",
+  "birth_date": "July 11, 1957",
+  "birth_place": "Ga-Phaahla, Limpopo",
+  "birthname": "Mathume Joseph Phaahla",
+  "nationality": "South African",
+  "party": "African National Congress",
+  "alma_mater": "University of Natal (MBBS)"
 }

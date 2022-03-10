@@ -1,268 +1,33 @@
 {
-  "title": "Zamani Saul",
-  "pageID": 60553323,
-  "categories": [
-    "Living people",
-    "University of the Western Cape alumni",
-    "University of the Free State alumni",
-    "Premiers of the Northern Cape",
-    "People from the Northern Cape",
-    "African National Congress politicians",
-    "South African politicians",
-    "21st-century South African politicians",
-    "University of South Africa alumni",
-    "Members of the Northern Cape Provincial Legislature",
-    "1972 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Zamani Saul (born 7 March 1972) is a South African politician who is the 5th and current Premier of the Northern Cape and a Member of the Northern Cape Provincial Legislature.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Premier of the Northern Cape"
-                },
-                {
-                  "type": "internal",
-                  "page": "Northern Cape Provincial Legislature"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Zamani Saul"
-                ]
-              }
-            },
-            {
-              "text": "He has also been serving as the Provincial Chairperson of the African National Congress (ANC) since his election on 12 May 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "African National Congress"
-                }
-              ]
-            },
-            {
-              "text": "He previously served as the Provincial Secretary and as the Deputy Provincial Secretary of the party."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Premier of the Northern Cape",
-          "template": "short description"
-        },
-        {
-          "year": "1972",
-          "month": "3",
-          "day": "7",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Zamani Saul"
-          },
-          "honorific-suffix": {
-            "text": "MPL",
-            "links": [
-              {
-                "text": "MPL",
-                "type": "internal",
-                "page": "Northern Cape Provincial Legislature"
-              }
-            ]
-          },
-          "image": {
-            "text": "Zamani Saul.jpg"
-          },
-          "office": {
-            "text": "5th Premier of the Northern Cape",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Premier of the Northern Cape"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "22 May 2019"
-          },
-          "predecessor": {
-            "text": "Sylvia Lucas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sylvia Lucas"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chairperson of the African National Congress in the Northern Cape",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              },
-              {
-                "type": "internal",
-                "page": "Northern Cape"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Bentley Vass",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bentley Vass"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "12 May 2017"
-          },
-          "predecessor1": {
-            "text": "John Block",
-            "links": [
-              {
-                "text": "John Block",
-                "type": "internal",
-                "page": "John Block (South African politician)"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Secretary of the African National Congress in the Northern Cape"
-          },
-          "deputy2": {
-            "text": "Alvin Botes",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alvin Botes"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "29 August 2008"
-          },
-          "term_end2": {
-            "text": "12 May 2017"
-          },
-          "predecessor2": {
-            "text": "Neville Mompati"
-          },
-          "successor2": {
-            "text": "Deshi Ngxanga"
-          },
-          "office3": {
-            "text": "Deputy Secretary of the African National Congress in the Northern Cape"
-          },
-          "term_start3": {
-            "text": "March 2004"
-          },
-          "term_end3": {
-            "text": "29 August 2008"
-          },
-          "predecessor3": {
-            "text": "John Block",
-            "links": [
-              {
-                "text": "John Block",
-                "type": "internal",
-                "page": "John Block (South African politician)"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Alvin Botes",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alvin Botes"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of the Northern Cape Provincial Legislature",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Northern Cape Provincial Legislature"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "22 May 2019"
-          },
-          "birth_date": {
-            "text": "March 7, 1972"
-          },
-          "nationality": {
-            "text": "South African"
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Tapsy Saul"
-          },
-          "residence": {
-            "text": "Kimberley, Northern Cape",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kimberley, Northern Cape"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of the Western Cape University of the Free State University of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of the Western Cape"
-              },
-              {
-                "type": "internal",
-                "page": "University of the Free State"
-              },
-              {
-                "type": "internal",
-                "page": "University of South Africa"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Zamani Saul",
+  "honorific-suffix": "MPL",
+  "image": "Zamani Saul.jpg",
+  "office": "5th Premier of the Northern Cape",
+  "term_start": "22 May 2019",
+  "predecessor": "Sylvia Lucas",
+  "office1": "Chairperson of the African National Congress in the Northern Cape",
+  "deputy1": "Bentley Vass",
+  "term_start1": "12 May 2017",
+  "predecessor1": "John Block",
+  "office2": "Secretary of the African National Congress in the Northern Cape",
+  "deputy2": "Alvin Botes",
+  "term_start2": "29 August 2008",
+  "term_end2": "12 May 2017",
+  "predecessor2": "Neville Mompati",
+  "successor2": "Deshi Ngxanga",
+  "office3": "Deputy Secretary of the African National Congress in the Northern Cape",
+  "term_start3": "March 2004",
+  "term_end3": "29 August 2008",
+  "predecessor3": "John Block",
+  "successor3": "Alvin Botes",
+  "office4": "Member of the Northern Cape Provincial Legislature",
+  "term_start4": "22 May 2019",
+  "birth_date": "March 7, 1972",
+  "nationality": "South African",
+  "party": "African National Congress",
+  "spouse": "Tapsy Saul",
+  "residence": "Kimberley, Northern Cape",
+  "alma_mater": "University of the Western Cape University of the Free State University of South Africa",
+  "occupation": "Politician"
 }

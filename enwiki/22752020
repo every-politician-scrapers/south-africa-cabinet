@@ -1,357 +1,43 @@
 {
-  "title": "Pravin Gordhan",
-  "pageID": 22752020,
-  "categories": [
-    "1949 births",
-    "African National Congress politicians",
-    "Finance ministers of South Africa",
-    "Living people",
-    "Members of the National Assembly of South Africa",
-    "People from Durban",
-    "University of Durban-Westville alumni",
-    "South African politicians of Indian descent",
-    "South African people of Gujarati descent",
-    "Recipients of the Padma Bhushan in public affairs",
-    "Recipients of Pravasi Bharatiya Samman"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Pravin Jamnadas Gordhan (born 12 April 1949) is a politician and anti-apartheid activist who has held various ministerial posts in the Cabinet of South Africa.",
-              "links": [
-                {
-                  "text": "apartheid",
-                  "type": "internal",
-                  "page": "apartheid"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cabinet of South Africa"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Pravin Jamnadas Gordhan"
-                ]
-              }
-            },
-            {
-              "text": "He served as Minister of Finance from 2009 until 2014 and again from 2015 until 2017, as Minister of Cooperative Governance and Traditional Affairs from 2014 until 2015, and as Minister of Public Enterprises since February 2018.",
-              "links": [
-                {
-                  "text": "Minister of Finance",
-                  "type": "internal",
-                  "page": "Minister of Finance (South Africa)"
-                },
-                {
-                  "text": "Minister of Cooperative Governance and Traditional Affairs",
-                  "type": "internal",
-                  "page": "Minister of Cooperative Governance and Traditional Affairs (South Africa)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister of Public Enterprises"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "South African politician",
-          "template": "short description"
-        },
-        {
-          "date": "January 2019",
-          "template": "use south african english"
-        },
-        {
-          "date": "January 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1949",
-          "month": "4",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Communist Party (Before 2009)",
-            "African National Congress (2009–present)"
-          ],
-          "template": "ubl"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "honorific_suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of parliament",
-                "anchor": "South Africa"
-              }
-            ]
-          },
-          "name": {
-            "text": "Pravin Gordhan"
-          },
-          "image": {
-            "text": "Pravin Gordhan 2015.jpg"
-          },
-          "office": {
-            "text": "Minister of Public Enterprises",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Public Enterprises"
-              }
-            ]
-          },
-          "president": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "28 February 2018"
-          },
-          "predecessor": {
-            "text": "Lynne Brown",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lynne Brown"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Minister of Finance (South Africa)"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Mcebisi Jonas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mcebisi Jonas"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "14 December 2015"
-          },
-          "term_end1": {
-            "text": "31 March 2017"
-          },
-          "predecessor1": {
-            "text": "David van Rooyen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David van Rooyen"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Malusi Gigaba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malusi Gigaba"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 May 2009"
-          },
-          "term_end2": {
-            "text": "25 May 2014"
-          },
-          "predecessor2": {
-            "text": "Trevor Manuel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Trevor Manuel"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Nhlanhla Nene",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nhlanhla Nene"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Cooperative Governance and Traditional Affairs",
-            "links": [
-              {
-                "text": "Minister of Cooperative Governance and Traditional Affairs",
-                "type": "internal",
-                "page": "Minister of Cooperative Governance and Traditional Affairs (South Africa)"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "25 May 2014"
-          },
-          "term_end3": {
-            "text": "14 December 2015"
-          },
-          "predecessor3": {
-            "text": "Solomon Lechesa Tsenoli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Solomon Lechesa Tsenoli"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "David van Rooyen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David van Rooyen"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Commissioner of the South African Revenue Service",
-            "links": [
-              {
-                "type": "internal",
-                "page": "South African Revenue Service"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Jacob Zuma"
-          },
-          "term_start4": {
-            "text": "1999",
-            "number": 1999
-          },
-          "term_end4": {
-            "text": "2009",
-            "number": 2009
-          },
-          "predecessor4": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "successor4": {
-            "text": "Oupa Magashule"
-          },
-          "birth_name": {
-            "text": "Pravin Jamnadas Gordhan"
-          },
-          "birth_date": {
-            "text": "April 12, 1949"
-          },
-          "birth_place": {
-            "text": "Durban, South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Durban"
-              },
-              {
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Vanitha Raju"
-          },
-          "children": {
-            "text": "Anisha Gordhan"
-          },
-          "party": {
-            "text": "Communist Party (Before 2009)\n\nAfrican National Congress (2009–present)"
-          },
-          "alma_mater": {
-            "text": "University of Durban-Westville",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Durban-Westville"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician\n\nanti-apartheid activist"
-          },
-          "profession": {
-            "text": "Pharmacist"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "The Honourable",
+  "honorific_suffix": "MP",
+  "name": "Pravin Gordhan",
+  "image": "Pravin Gordhan 2015.jpg",
+  "office": "Minister of Public Enterprises",
+  "president": "Cyril Ramaphosa",
+  "term_start": "28 February 2018",
+  "predecessor": "Lynne Brown",
+  "office1": "Minister of Finance",
+  "president1": "Jacob Zuma",
+  "deputy1": "Mcebisi Jonas",
+  "term_start1": "14 December 2015",
+  "term_end1": "31 March 2017",
+  "predecessor1": "David van Rooyen",
+  "successor1": "Malusi Gigaba",
+  "president2": "Jacob Zuma",
+  "term_start2": "11 May 2009",
+  "term_end2": "25 May 2014",
+  "predecessor2": "Trevor Manuel",
+  "successor2": "Nhlanhla Nene",
+  "office3": "Minister of Cooperative Governance and Traditional Affairs",
+  "president3": "Jacob Zuma",
+  "term_start3": "25 May 2014",
+  "term_end3": "14 December 2015",
+  "predecessor3": "Solomon Lechesa Tsenoli",
+  "successor3": "David van Rooyen",
+  "office4": "Commissioner of the South African Revenue Service",
+  "president4": "Jacob Zuma",
+  "term_start4": "1999",
+  "term_end4": "2009",
+  "predecessor4": "Position established",
+  "successor4": "Oupa Magashule",
+  "birth_name": "Pravin Jamnadas Gordhan",
+  "birth_date": "April 12, 1949",
+  "birth_place": "Durban, South Africa",
+  "spouse": "Vanitha Raju",
+  "children": "Anisha Gordhan",
+  "party": "Communist Party (Before 2009)\n\nAfrican National Congress (2009–present)",
+  "alma_mater": "University of Durban-Westville",
+  "occupation": "Politician\n\nanti-apartheid activist",
+  "profession": "Pharmacist"
 }

@@ -1,217 +1,23 @@
 {
-  "title": "Oscar Mabuyane",
-  "pageID": 60763171,
-  "categories": [
-    "African National Congress politicians",
-    "Living people",
-    "1974 births",
-    "Xhosa people",
-    "University of Fort Hare alumni",
-    "Members of the Eastern Cape Provincial Legislature",
-    "Premiers of the Eastern Cape",
-    "People from the Eastern Cape",
-    "People from Engcobo Local Municipality",
-    "People from Chris Hani District Municipality",
-    "20th-century South African politicians",
-    "21st-century South African politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Lubabalo Oscar Mabuyane (born 24 February 1974) is a South African politician who has been serving as the 7th Premier of the Eastern Cape since May 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Premier of the Eastern Cape"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Lubabalo Oscar Mabuyane"
-                ]
-              }
-            },
-            {
-              "text": "He became a Member of the Eastern Cape Provincial Legislature in February 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Eastern Cape Provincial Legislature"
-                }
-              ]
-            },
-            {
-              "text": "A member of the African National Congress, he has been serving as the Provincial Chairperson of the party since his election in October 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "African National Congress"
-                }
-              ]
-            },
-            {
-              "text": "From May 2018 to May 2019, he served as the Eastern Cape MEC for Economic Development, Environmental Affairs and Tourism."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Premier of the Eastern Cape",
-          "template": "short description"
-        },
-        {
-          "year": "1974",
-          "month": "2",
-          "day": "24",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Oscar Mabuyane"
-          },
-          "honorific-suffix": {
-            "text": "MPL",
-            "links": [
-              {
-                "text": "MPL",
-                "type": "internal",
-                "page": "Member of the Provincial Legislature"
-              }
-            ]
-          },
-          "office": {
-            "text": "7th Premier of the Eastern Cape",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Premier of the Eastern Cape"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "22 May 2019"
-          },
-          "predecessor": {
-            "text": "Phumulo Masualle",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Phumulo Masualle"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of the Eastern Cape Provincial Legislature",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eastern Cape Provincial Legislature"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "19 February 2018"
-          },
-          "office2": {
-            "text": "Provincial Chairperson of the Eastern Cape African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "deputy2": {
-            "text": "Mlungisi Mvoko",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mlungisi Mvoko"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 October 2017"
-          },
-          "predecessor2": {
-            "text": "Phumulo Masualle",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Phumulo Masualle"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "February 24, 1974"
-          },
-          "birth_place": {
-            "text": "Engcobo, South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Engcobo"
-              },
-              {
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "South African"
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Siyasanga"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "University of Fort Hare",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Fort Hare"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "profession": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Oscar Mabuyane",
+  "honorific-suffix": "MPL",
+  "office": "7th Premier of the Eastern Cape",
+  "term_start": "22 May 2019",
+  "predecessor": "Phumulo Masualle",
+  "office1": "Member of the Eastern Cape Provincial Legislature",
+  "term_start1": "19 February 2018",
+  "office2": "Provincial Chairperson of the Eastern Cape African National Congress",
+  "deputy2": "Mlungisi Mvoko",
+  "term_start2": "1 October 2017",
+  "predecessor2": "Phumulo Masualle",
+  "birth_date": "February 24, 1974",
+  "birth_place": "Engcobo, South Africa",
+  "nationality": "South African",
+  "party": "African National Congress",
+  "spouse": "Siyasanga",
+  "children": "3",
+  "alma_mater": "University of Fort Hare",
+  "occupation": "Politician",
+  "profession": "Politician"
 }

@@ -1,335 +1,37 @@
 {
-  "title": "Nosiviwe Mapisa-Nqakula",
-  "pageID": 8106151,
-  "categories": [
-    "1956 births",
-    "African National Congress politicians",
-    "Correctional Services ministers of South Africa",
-    "Defence ministers of South Africa",
-    "Female defence ministers",
-    "Female interior ministers",
-    "Living people",
-    "Members of the National Assembly of South Africa",
-    "Ministers of Home Affairs of South Africa",
-    "Women government ministers of South Africa",
-    "Women members of the National Assembly of South Africa",
-    "Xhosa people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nosiviwe Noluthando Mapisa-Nqakula (born 13 November 1956) is a South African politician who currently serves as the Speaker of the National Assembly as of 19 August 2021.",
-              "links": [
-                {
-                  "text": "Speaker of the National Assembly",
-                  "type": "internal",
-                  "page": "Speaker of the National Assembly of South Africa"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nosiviwe Noluthando Mapisa-Nqakula"
-                ]
-              }
-            },
-            {
-              "text": "She has previously held the office of Minister of Defence and Military Veterans from June 2012 to August 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Minister of Defence and Military Veterans"
-                }
-              ]
-            },
-            {
-              "text": "She was also the Minister of Home Affairs from 2004 to 2009 and Minister of Correctional Services from 2009 to 2012.",
-              "links": [
-                {
-                  "text": "Minister of Home Affairs",
-                  "type": "internal",
-                  "page": "Minister of Home Affairs (South Africa)"
-                },
-                {
-                  "text": "Minister of Correctional Services",
-                  "type": "internal",
-                  "page": "Minister of Correctional Services (South Africa)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "South African politician",
-          "template": "short description"
-        },
-        {
-          "df": "yes",
-          "year": "1956",
-          "month": "11",
-          "day": "13",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Nosiviwe Mapisa-Nqakula"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Panetta and Nosiviwe Mapisa-Nqakula (cropped).jpg"
-          },
-          "office": {
-            "text": "7th Speaker of the National Assembly of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Speaker of the National Assembly of South Africa"
-              }
-            ]
-          },
-          "president": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Lechesa Tsenoli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lechesa Tsenoli"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "19 August 2021"
-          },
-          "predecessor": {
-            "text": "Thandi Modise",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thandi Modise"
-              }
-            ]
-          },
-          "order1": {
-            "text": "Minister of Defence and Military Veterans",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Defence and Military Veterans"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "12 June 2012"
-          },
-          "term_end1": {
-            "text": "5 August 2021"
-          },
-          "deputy1": {
-            "text": "Kebby Maphatsoe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kebby Maphatsoe"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Jacob Zuma Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              },
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Thandi Modise",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thandi Modise"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Lindiwe Sisulu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lindiwe Sisulu"
-              }
-            ]
-          },
-          "order2": {
-            "text": "Minister of Correctional Services",
-            "links": [
-              {
-                "text": "Minister of Correctional Services",
-                "type": "internal",
-                "page": "Minister of Correctional Services (South Africa)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 May 2009"
-          },
-          "term_end2": {
-            "text": "12 June 2012"
-          },
-          "president2": {
-            "text": "Jacob Zuma"
-          },
-          "predecessor2": {
-            "text": "Ngconde Balfour",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ngconde Balfour"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "S'bu Ndebele",
-            "links": [
-              {
-                "type": "internal",
-                "page": "S'bu Ndebele"
-              }
-            ]
-          },
-          "order3": {
-            "text": "Minister of Home Affairs",
-            "links": [
-              {
-                "text": "Minister of Home Affairs",
-                "type": "internal",
-                "page": "Minister of Home Affairs (South Africa)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "29 April 2004"
-          },
-          "term_end3": {
-            "text": "10 May 2009"
-          },
-          "president3": {
-            "text": "Thabo Mbeki Kgalema Motlanthe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thabo Mbeki"
-              },
-              {
-                "type": "internal",
-                "page": "Kgalema Motlanthe"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Mangosuthu Buthelezi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mangosuthu Buthelezi"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Nkosazana Dlamini-Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nkosazana Dlamini-Zuma"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "November 13, 1956"
-          },
-          "birth_place": {
-            "text": "Cape Town, South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cape Town, South Africa"
-              }
-            ]
-          },
-          "birthname": {
-            "text": "Nosiviwe Noluthando Mapisa"
-          },
-          "nationality": {
-            "text": "South African",
-            "links": [
-              {
-                "text": "South African",
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Charles Nqakula",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles Nqakula"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Canadian University Overseas Services, (Diploma in Project Management), College of Bensonvale, (Diploma In Primary School Teaching)"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Nosiviwe Mapisa-Nqakula",
+  "honorific-suffix": "MP",
+  "image": "Panetta and Nosiviwe Mapisa-Nqakula (cropped).jpg",
+  "office": "7th Speaker of the National Assembly of South Africa",
+  "president": "Cyril Ramaphosa",
+  "deputy": "Lechesa Tsenoli",
+  "term_start": "19 August 2021",
+  "predecessor": "Thandi Modise",
+  "order1": "Minister of Defence and Military Veterans",
+  "term_start1": "12 June 2012",
+  "term_end1": "5 August 2021",
+  "deputy1": "Kebby Maphatsoe",
+  "president1": "Jacob Zuma Cyril Ramaphosa",
+  "successor1": "Thandi Modise",
+  "predecessor1": "Lindiwe Sisulu",
+  "order2": "Minister of Correctional Services",
+  "term_start2": "11 May 2009",
+  "term_end2": "12 June 2012",
+  "president2": "Jacob Zuma",
+  "predecessor2": "Ngconde Balfour",
+  "successor2": "S'bu Ndebele",
+  "order3": "Minister of Home Affairs",
+  "term_start3": "29 April 2004",
+  "term_end3": "10 May 2009",
+  "president3": "Thabo Mbeki Kgalema Motlanthe",
+  "predecessor3": "Mangosuthu Buthelezi",
+  "successor3": "Nkosazana Dlamini-Zuma",
+  "birth_date": "November 13, 1956",
+  "birth_place": "Cape Town, South Africa",
+  "birthname": "Nosiviwe Noluthando Mapisa",
+  "nationality": "South African",
+  "party": "African National Congress",
+  "spouse": "Charles Nqakula",
+  "alma_mater": "Canadian University Overseas Services, (Diploma in Project Management), College of Bensonvale, (Diploma In Primary School Teaching)"
 }

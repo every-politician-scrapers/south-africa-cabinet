@@ -1,334 +1,37 @@
 {
-  "title": "Thulas Nxesi",
-  "pageID": 41552408,
-  "categories": [
-    "1959 births",
-    "Government ministers of South Africa",
-    "African National Congress politicians",
-    "Living people",
-    "South African Ministers for Sport and Recreation",
-    "21st-century South African politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Thembelani Waltermade Nxesi (born 1 January 1959), popularly known as Thulas Nxesi, is a South African politician.",
-              "links": [
-                {
-                  "text": "South African",
-                  "type": "internal",
-                  "page": "South African people"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Thembelani Waltermade Nxesi",
-                  "Thulas Nxesi"
-                ]
-              }
-            },
-            {
-              "text": "A member of the African National Congress, he is the Minister of Employment and Labour.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "African National Congress"
-                }
-              ]
-            },
-            {
-              "text": "He was previously Minister of Public Works, Minister of Sports and Recreation, served a different term as Minister of Public Works, and was Deputy Minister of Rural Development and Land Reform.",
-              "links": [
-                {
-                  "text": "Minister of Public Works",
-                  "type": "internal",
-                  "page": "Minister of Public Works (South Africa)"
-                },
-                {
-                  "text": "Minister of Sports and Recreation",
-                  "type": "internal",
-                  "page": "Minister of Sport and Recreation (South Africa)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "South African politician",
-          "template": "short description"
-        },
-        {
-          "date": "March 2018",
-          "template": "more citations needed"
-        },
-        {
-          "year": "1959",
-          "month": "06",
-          "day": "10",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Thulas Nxesi"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Employment and Labour",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Employment and Labour"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "30 May 2019"
-          },
-          "president": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "office1": {
-            "text": "Minister of Public Works",
-            "links": [
-              {
-                "text": "Minister of Public Works",
-                "type": "internal",
-                "page": "Minister of Public Works (South Africa)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "28 January 2018"
-          },
-          "term_end1": {
-            "text": "29 May 2019"
-          },
-          "president1": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Nkosinathi Nhleko",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nkosinathi Nhleko"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Position dissolved",
-            "formatting": {
-              "italic": [
-                "Position dissolved"
-              ]
-            }
-          },
-          "term_start2": {
-            "text": "24 October 2011"
-          },
-          "term_end2": {
-            "text": "31 March 2017"
-          },
-          "president2": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Gwen Mahlangu-Nkabinde",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gwen Mahlangu-Nkabinde"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Nkosinathi Nhleko",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nkosinathi Nhleko"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Sport and Recreation",
-            "links": [
-              {
-                "text": "Minister of Sport and Recreation",
-                "type": "internal",
-                "page": "Minister of Sport and Recreation (South Africa)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "31 March 2017"
-          },
-          "term_end3": {
-            "text": "28 February 2018"
-          },
-          "president3": {
-            "text": "Jacob Zuma Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              },
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Fikile Mbalula",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fikile Mbalula"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Tokozile Xasa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tokozile Xasa"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Deputy Minister of Rural Development and Land Reform"
-          },
-          "term_start4": {
-            "text": "1 November 2010"
-          },
-          "term_end4": {
-            "text": "24 October 2011"
-          },
-          "president4": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Thembelani Waltermade Nxesi"
-          },
-          "birth_date": {
-            "text": "June 10, 1959"
-          },
-          "birth_place": {
-            "text": "Matatiele, Eastern Cape",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Matatiele"
-              },
-              {
-                "type": "internal",
-                "page": "Eastern Cape"
-              }
-            ]
-          },
-          "nickname": {
-            "text": "Thulas"
-          },
-          "nationality": {
-            "text": "South African",
-            "links": [
-              {
-                "text": "South African",
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Fort Hare University of the Witswatersrand University of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Fort Hare"
-              },
-              {
-                "type": "internal",
-                "page": "University of the Witswatersrand"
-              },
-              {
-                "type": "internal",
-                "page": "University of South Africa"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Thulas Nxesi",
+  "honorific-suffix": "MP",
+  "office": "Minister of Employment and Labour",
+  "term_start": "30 May 2019",
+  "president": "Cyril Ramaphosa",
+  "predecessor": "Position established",
+  "office1": "Minister of Public Works",
+  "term_start1": "28 January 2018",
+  "term_end1": "29 May 2019",
+  "president1": "Cyril Ramaphosa",
+  "predecessor1": "Nkosinathi Nhleko",
+  "successor1": "Position dissolved",
+  "term_start2": "24 October 2011",
+  "term_end2": "31 March 2017",
+  "president2": "Jacob Zuma",
+  "predecessor2": "Gwen Mahlangu-Nkabinde",
+  "successor2": "Nkosinathi Nhleko",
+  "office3": "Minister of Sport and Recreation",
+  "term_start3": "31 March 2017",
+  "term_end3": "28 February 2018",
+  "president3": "Jacob Zuma Cyril Ramaphosa",
+  "predecessor3": "Fikile Mbalula",
+  "successor3": "Tokozile Xasa",
+  "office4": "Deputy Minister of Rural Development and Land Reform",
+  "term_start4": "1 November 2010",
+  "term_end4": "24 October 2011",
+  "president4": "Jacob Zuma",
+  "birth_name": "Thembelani Waltermade Nxesi",
+  "birth_date": "June 10, 1959",
+  "birth_place": "Matatiele, Eastern Cape",
+  "nickname": "Thulas",
+  "nationality": "South African",
+  "party": "African National Congress",
+  "alma_mater": "University of Fort Hare University of the Witswatersrand University of South Africa"
 }

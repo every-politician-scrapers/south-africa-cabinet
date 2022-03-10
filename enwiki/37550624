@@ -1,389 +1,47 @@
 {
-  "title": "Ray Zondo",
-  "pageID": 37550624,
-  "categories": [
-    "Judges of the Constitutional Court of South Africa",
-    "University of Zululand alumni",
-    "University of Natal alumni",
-    "People from KwaZulu-Natal",
-    "Zulu people",
-    "1960 births",
-    "Living people",
-    "20th-century South African lawyers",
-    "20th-century South African judges",
-    "21st-century South African judges"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Raymond Mnyamezeli Mlungisi \"Ray\" Zondo (born 4 May 1960) is a South African judge who currently serves as Deputy Chief Justice of South Africa.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Deputy Chief Justice of South Africa"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Raymond Mnyamezeli Mlungisi \"Ray\" Zondo"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "South African judge (born 1960)",
-          "template": "short description"
-        },
-        {
-          "date": "October 2019",
-          "template": "use south african english"
-        },
-        {
-          "date": "October 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Judicial career (1997-present)"
-          ],
-          "titlestyle": "border:1px dashed lightgrey;",
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "df": "yes",
-          "year": "1960",
-          "month": "05",
-          "day": "04",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "office3": {
-            "text": "Judge of the Constitutional Court of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Constitutional Court of South Africa"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 September 2012"
-          },
-          "appointer3": {
-            "text": "President Jacob Zuma",
-            "links": [
-              {
-                "text": "President",
-                "type": "internal",
-                "page": "President of South Africa"
-              },
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Judge President of the Labour Court of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Labour Court of South Africa"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "May 2000"
-          },
-          "term_end4": {
-            "text": "May 2010"
-          },
-          "appointer4": {
-            "text": "President Thabo Mbeki",
-            "links": [
-              {
-                "text": "President",
-                "type": "internal",
-                "page": "President of South Africa"
-              },
-              {
-                "type": "internal",
-                "page": "Thabo Mbeki"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Judge of the North Gauteng High Court",
-            "links": [
-              {
-                "type": "internal",
-                "page": "North Gauteng High Court"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "May 1999"
-          },
-          "term_end5": {
-            "text": "September 2012"
-          },
-          "appointer5": {
-            "text": "President Nelson Mandela",
-            "links": [
-              {
-                "text": "President",
-                "type": "internal",
-                "page": "President of South Africa"
-              },
-              {
-                "type": "internal",
-                "page": "Nelson Mandela"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Judge of the Labour Court of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Labour Court of South Africa"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "November 1997"
-          },
-          "term_end6": {
-            "text": "May 2000"
-          },
-          "appointer6": {
-            "text": "President Nelson Mandela",
-            "links": [
-              {
-                "text": "President",
-                "type": "internal",
-                "page": "President of South Africa"
-              },
-              {
-                "type": "internal",
-                "page": "Nelson Mandela"
-              }
-            ]
-          }
-        },
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Raymond Zondo"
-          },
-          "image": {
-            "text": "Raymond Zondo.png"
-          },
-          "order": {
-            "text": "Acting"
-          },
-          "office": {
-            "text": "Chief Justice of South Africa"
-          },
-          "term_start": {
-            "text": "11 October 2021"
-          },
-          "predecessor": {
-            "text": "Mogoeng Mogoeng",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mogoeng Mogoeng"
-              }
-            ]
-          },
-          "order1": {
-            "text": "5th"
-          },
-          "office1": {
-            "text": "Deputy Chief Justice of South Africa"
-          },
-          "term_start1": {
-            "text": "7 June 2017"
-          },
-          "1blankname1": {
-            "text": "Chief Justice",
-            "links": [
-              {
-                "text": "Chief Justice",
-                "type": "internal",
-                "page": "Chief Justice of South Africa"
-              }
-            ]
-          },
-          "1namedata1": {
-            "text": "Mogoeng Mogoeng",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mogoeng Mogoeng"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Dikgang Moseneke",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dikgang Moseneke"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Chairperson of the Zondo Commission",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zondo Commission"
-              }
-            ]
-          },
-          "appointed2": {
-            "text": "President Jacob Zuma",
-            "links": [
-              {
-                "text": "President",
-                "type": "internal",
-                "page": "President of South Africa"
-              },
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "21 August 2018"
-          },
-          "predecessor2": {
-            "text": "Commission established ",
-            "formatting": {
-              "italic": [
-                "Commission established "
-              ]
-            }
-          },
-          "birth_date": {
-            "text": "May 4, 1960"
-          },
-          "birth_place": {
-            "text": "Ixopo, Natal, South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ixopo"
-              },
-              {
-                "text": "Natal",
-                "type": "internal",
-                "page": "Natal Province"
-              },
-              {
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "birthname": {
-            "text": "Raymond Mnyamezeli Mlungisi Zondo"
-          },
-          "citizenship": {
-            "text": "South Africa",
-            "links": [
-              {
-                "text": "South Africa",
-                "type": "internal",
-                "page": "South African citizenship"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "South African"
-          },
-          "children": {
-            "text": "8",
-            "number": 8
-          },
-          "residence": {
-            "text": "Johannesburg, South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Johannesburg"
-              },
-              {
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Zululand (BJuris) University of Natal (LLB) University of South Africa (LLM)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Zululand"
-              },
-              {
-                "text": "BJuris",
-                "type": "internal",
-                "page": "Bachelor of Laws"
-              },
-              {
-                "type": "internal",
-                "page": "University of Natal"
-              },
-              {
-                "type": "internal",
-                "page": "LLB"
-              },
-              {
-                "type": "internal",
-                "page": "University of South Africa"
-              },
-              {
-                "type": "internal",
-                "page": "LLM"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Judge\n\nattorney \n\nlaw clerk"
-          },
-          "profession": {
-            "text": "Lawyer"
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "office3": "Judge of the Constitutional Court of South Africa",
+  "term_start3": "1 September 2012",
+  "appointer3": "President Jacob Zuma",
+  "office4": "Judge President of the Labour Court of South Africa",
+  "term_start4": "May 2000",
+  "term_end4": "May 2010",
+  "appointer4": "President Thabo Mbeki",
+  "office5": "Judge of the North Gauteng High Court",
+  "term_start5": "May 1999",
+  "term_end5": "September 2012",
+  "appointer5": "President Nelson Mandela",
+  "office6": "Judge of the Labour Court of South Africa",
+  "term_start6": "November 1997",
+  "term_end6": "May 2000",
+  "appointer6": "President Nelson Mandela"
+}
+{
+  "honorific-prefix": "The Honourable",
+  "name": "Raymond Zondo",
+  "image": "Raymond Zondo.png",
+  "order": "Acting",
+  "office": "Chief Justice of South Africa",
+  "term_start": "11 October 2021",
+  "predecessor": "Mogoeng Mogoeng",
+  "order1": "5th",
+  "office1": "Deputy Chief Justice of South Africa",
+  "term_start1": "7 June 2017",
+  "1blankname1": "Chief Justice",
+  "1namedata1": "Mogoeng Mogoeng",
+  "predecessor1": "Dikgang Moseneke",
+  "office2": "Chairperson of the Zondo Commission",
+  "appointed2": "President Jacob Zuma",
+  "term_start2": "21 August 2018",
+  "predecessor2": "Commission established ",
+  "birth_date": "May 4, 1960",
+  "birth_place": "Ixopo, Natal, South Africa",
+  "birthname": "Raymond Mnyamezeli Mlungisi Zondo",
+  "citizenship": "South Africa",
+  "nationality": "South African",
+  "children": "8",
+  "residence": "Johannesburg, South Africa",
+  "alma_mater": "University of Zululand (BJuris) University of Natal (LLB) University of South Africa (LLM)",
+  "occupation": "Judge\n\nattorney \n\nlaw clerk",
+  "profession": "Lawyer"
 }

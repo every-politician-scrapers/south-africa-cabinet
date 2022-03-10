@@ -1,385 +1,42 @@
 {
-  "title": "Blade Nzimande",
-  "pageID": 12167855,
-  "categories": [
-    "1958 births",
-    "Living people",
-    "People from Msunduzi Local Municipality",
-    "Tsonga people",
-    "South African Communist Party politicians",
-    "South African people of Mozambican descent",
-    "African National Congress politicians",
-    "Education ministers of South Africa",
-    "University of Natal alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bonginkosi Emmanuel \"Blade\" Nzimande (born 14 April 1958 in Edendale near Pietermaritzburg) is a South African politician, sociologist, philosopher, educator, anti-apartheid activist and Minister of Higher Education, Science and Technology.",
-              "links": [
-                {
-                  "text": "Edendale",
-                  "type": "internal",
-                  "page": "Edendale, KwaZulu-Natal"
-                },
-                {
-                  "type": "internal",
-                  "page": "Pietermaritzburg"
-                },
-                {
-                  "text": "Minister of Higher Education, Science and Technology",
-                  "type": "internal",
-                  "page": "Second Cabinet of Cyril Ramaphosa"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Bonginkosi Emmanuel \"Blade\" Nzimande"
-                ]
-              }
-            },
-            {
-              "text": "He was Minister of Transport from 2018 to 2019, and Minister for Higher Education and Training from 2009 to 2017."
-            },
-            {
-              "text": "He has been the General Secretary of the South African Communist Party since 1998.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "South African Communist Party"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "April 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "July 2012",
-          "template": "use south african english"
-        },
-        {
-          "date": "July 2015",
-          "template": "blp sources"
-        },
-        {
-          "list": [
-            "Additional offices held"
-          ],
-          "titlestyle": "border:1px dashed lightgrey",
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "list": [
-            "Additional offices held"
-          ],
-          "titlestyle": "border:1px dashed lightgrey",
-          "template": "collapsed infobox section end"
-        },
-        {
-          "df": "yes",
-          "year": "1958",
-          "month": "4",
-          "day": "14",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honorable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honorable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Blade Nzimande"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Blade Nzimande - Unisa Roundtable.jpg"
-          },
-          "office": {
-            "text": "Minister of Higher Education, Science and Technology",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Higher Education, Science and Technology"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "30 May 2019"
-          },
-          "president": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "office1": {
-            "text": "13th General Secretary of the South African Communist Party",
-            "links": [
-              {
-                "text": "General Secretary of the South African Communist Party",
-                "type": "internal",
-                "page": "South African Communist Party",
-                "anchor": "General Secretaries"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1998",
-            "number": 1998
-          },
-          "deputy1": {
-            "text": "Solly Afrika Mapaila (2012-present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Solly Afrika Mapaila"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Charles Nqakula",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles Nqakula"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Transport",
-            "links": [
-              {
-                "text": "Minister of Transport",
-                "type": "internal",
-                "page": "Minister of Transport (South Africa)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "28 February 2018"
-          },
-          "term_end2": {
-            "text": "29 May 2019"
-          },
-          "president2": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Joseph Maswanganyi"
-          },
-          "successor2": {
-            "text": "Fikile Mbalula",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fikile Mbalula"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Acting Minister of Home Affairs",
-            "links": [
-              {
-                "text": "Minister of Home Affairs",
-                "type": "internal",
-                "page": "Minister of Home Affairs (South Africa)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "13 November 2018"
-          },
-          "term_end3": {
-            "text": "22 November 2018"
-          },
-          "predecessor3": {
-            "text": "Malusi Gigaba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malusi Gigaba"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Siyabonga Cwele-->",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Siyabonga Cwele"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Higher Education and Training",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Higher Education and Training"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "11 May 2009"
-          },
-          "term_end4": {
-            "text": "17 October 2017"
-          },
-          "president4": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Naledi Pandor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Naledi Pandor"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Hlengiwe Mkhize",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hlengiwe Mkhize"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Bonginkosi Emmanuel Nzimande"
-          },
-          "birth_date": {
-            "text": "April 14, 1958"
-          },
-          "birth_place": {
-            "text": "Edendale, Msunduzi, KwaZulu Natal, South Africa",
-            "links": [
-              {
-                "text": "Edendale",
-                "type": "internal",
-                "page": "Edendale, South Africa"
-              },
-              {
-                "text": "Msunduzi",
-                "type": "internal",
-                "page": "Msunduzi Local Municipality"
-              },
-              {
-                "type": "internal",
-                "page": "KwaZulu Natal"
-              },
-              {
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "South African"
-          },
-          "citizenship": {
-            "text": "South Africa",
-            "links": [
-              {
-                "text": "South Africa",
-                "type": "internal",
-                "page": "South African citizenship"
-              }
-            ]
-          },
-          "party": {
-            "text": "South African Communist Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "South African Communist Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "African National Congress (Tripartite Alliance)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "education": {
-            "text": "University of Natal (PhD)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Natal"
-              },
-              {
-                "type": "internal",
-                "page": "PhD"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Phumelele Ntombela-Nzimande"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "occupation": {
-            "text": "Politician\n\nsociologist\n\nphilosopher\n\neducator\n\nanti-apartheid activist"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honorable",
+  "name": "Blade Nzimande",
+  "honorific-suffix": "MP",
+  "image": "Blade Nzimande - Unisa Roundtable.jpg",
+  "office": "Minister of Higher Education, Science and Technology",
+  "term_start": "30 May 2019",
+  "president": "Cyril Ramaphosa",
+  "predecessor": "Position established",
+  "office1": "13th General Secretary of the South African Communist Party",
+  "term_start1": "1998",
+  "deputy1": "Solly Afrika Mapaila (2012-present)",
+  "predecessor1": "Charles Nqakula",
+  "office2": "Minister of Transport",
+  "term_start2": "28 February 2018",
+  "term_end2": "29 May 2019",
+  "president2": "Cyril Ramaphosa",
+  "predecessor2": "Joseph Maswanganyi",
+  "successor2": "Fikile Mbalula",
+  "office3": "Acting Minister of Home Affairs",
+  "term_start3": "13 November 2018",
+  "term_end3": "22 November 2018",
+  "predecessor3": "Malusi Gigaba",
+  "successor3": "Siyabonga Cwele-->",
+  "office4": "Minister of Higher Education and Training",
+  "term_start4": "11 May 2009",
+  "term_end4": "17 October 2017",
+  "president4": "Jacob Zuma",
+  "predecessor4": "Naledi Pandor",
+  "successor4": "Hlengiwe Mkhize",
+  "birth_name": "Bonginkosi Emmanuel Nzimande",
+  "birth_date": "April 14, 1958",
+  "birth_place": "Edendale, Msunduzi, KwaZulu Natal, South Africa",
+  "nationality": "South African",
+  "citizenship": "South Africa",
+  "party": "South African Communist Party",
+  "otherparty": "African National Congress (Tripartite Alliance)",
+  "education": "University of Natal (PhD)",
+  "spouse": "Phumelele Ntombela-Nzimande",
+  "children": "2",
+  "occupation": "Politician\n\nsociologist\n\nphilosopher\n\neducator\n\nanti-apartheid activist"
 }

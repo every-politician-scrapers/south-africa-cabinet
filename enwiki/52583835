@@ -1,289 +1,34 @@
 {
-  "title": "Stella Ndabeni-Abrahams",
-  "pageID": 52583835,
-  "categories": [
-    "Living people",
-    "1978 births",
-    "African National Congress politicians",
-    "Communications ministers of South Africa",
-    "Members of the National Assembly of South Africa",
-    "People from Mthatha",
-    "People from the Eastern Cape",
-    "21st-century South African politicians",
-    "21st-century South African women"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Stella Tembisa Ndabeni-Abrahams (born 30 June 1978) is a South African politician and the Minister of Small Business Development in the cabinet of Cyril Ramaphosa.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cyril Ramaphosa"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Stella Tembisa Ndabeni-Abrahams"
-                ]
-              }
-            },
-            {
-              "text": "She previously served as Minister of Communications and Digital Technologies and Deputy Minister of Communication."
-            },
-            {
-              "text": "Ndabeni-Abrahams is a member of the Eastern Cape Provincial Executive Committee (PEC), and a member of the Eastern Cape African National Congress (ANC) Provincial Working Committee (PWC)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Eastern Cape"
-                },
-                {
-                  "type": "internal",
-                  "page": "African National Congress"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "South African politician",
-          "template": "short description"
-        },
-        {
-          "year": "1978",
-          "month": "6",
-          "day": "30",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Stella Ndabeni-Abrahams"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Stella Tembisa Ndabeni Abrahams (cropped).jpg"
-          },
-          "caption": {
-            "text": "Stella Ndabeni-Abrahams in 2018"
-          },
-          "office": {
-            "text": "Minister of Small Business Development",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Small Business Development"
-              }
-            ]
-          },
-          "president": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "5 August 2021"
-          },
-          "predecessor": {
-            "text": "Khumbudzo Ntshavheni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khumbudzo Ntshavheni"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Communications and Digital Technologies",
-            "links": [
-              {
-                "text": "Minister of Communications and Digital Technologies",
-                "type": "internal",
-                "page": "Minister of Communications (South Africa)"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "22 November 2018"
-          },
-          "term_end1": {
-            "text": "5 August 2021"
-          },
-          "predecessor1": {
-            "text": "Siyabonga Cwele (as Minister of Telecommunications & Postal Services), \n\nNomvula Mokonyane (as Minister of Communications)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Siyabonga Cwele"
-              },
-              {
-                "type": "internal",
-                "page": "Nomvula Mokonyane"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Khumbudzo Ntshavheni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khumbudzo Ntshavheni"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Deputy Minister of Telecommunications and Postal Services",
-            "links": [
-              {
-                "text": "Telecommunications and Postal Services",
-                "type": "internal",
-                "page": "Department of Telecommunications and Postal Services"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "minister2": {
-            "text": "Ayanda Dlodlo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ayanda Dlodlo"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "31 March 2017"
-          },
-          "term_end2": {
-            "text": "22 November 2018"
-          },
-          "predecessor2": {
-            "text": "Hlengiwe Mkhize",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hlengiwe Mkhize"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Minister of Communications",
-            "links": [
-              {
-                "text": "Deputy Minister of Communications",
-                "type": "internal",
-                "page": "Department of Communications (South Africa)"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "minister3": {
-            "text": "Faith Muthambi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faith Muthambi"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "23 October 2011"
-          },
-          "term_end3": {
-            "text": "31 March 2017"
-          },
-          "successor3": {
-            "text": "Thandi Mahambehlala"
-          },
-          "birth_name": {
-            "text": "Stella Tembisa Ndabeni"
-          },
-          "birth_place": {
-            "text": "Mthatha, Eastern Cape, South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mthatha"
-              },
-              {
-                "type": "internal",
-                "page": "Eastern Cape"
-              },
-              {
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 30, 1978"
-          },
-          "spouse": {
-            "text": "Thato Abrahams"
-          },
-          "party": {
-            "text": "African National Congress (ANC)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Stella Ndabeni-Abrahams",
+  "honorific-suffix": "MP",
+  "image": "Stella Tembisa Ndabeni Abrahams (cropped).jpg",
+  "caption": "Stella Ndabeni-Abrahams in 2018",
+  "office": "Minister of Small Business Development",
+  "president": "Cyril Ramaphosa",
+  "term_start": "5 August 2021",
+  "predecessor": "Khumbudzo Ntshavheni",
+  "office1": "Minister of Communications and Digital Technologies",
+  "president1": "Cyril Ramaphosa",
+  "term_start1": "22 November 2018",
+  "term_end1": "5 August 2021",
+  "predecessor1": "Siyabonga Cwele (as Minister of Telecommunications & Postal Services), \n\nNomvula Mokonyane (as Minister of Communications)",
+  "successor1": "Khumbudzo Ntshavheni",
+  "office2": "Deputy Minister of Telecommunications and Postal Services",
+  "president2": "Jacob Zuma",
+  "minister2": "Ayanda Dlodlo",
+  "term_start2": "31 March 2017",
+  "term_end2": "22 November 2018",
+  "predecessor2": "Hlengiwe Mkhize",
+  "office3": "Deputy Minister of Communications",
+  "president3": "Jacob Zuma",
+  "minister3": "Faith Muthambi",
+  "term_start3": "23 October 2011",
+  "term_end3": "31 March 2017",
+  "successor3": "Thandi Mahambehlala",
+  "birth_name": "Stella Tembisa Ndabeni",
+  "birth_place": "Mthatha, Eastern Cape, South Africa",
+  "birth_date": "June 30, 1978",
+  "spouse": "Thato Abrahams",
+  "party": "African National Congress (ANC)",
+  "children": "3"
 }

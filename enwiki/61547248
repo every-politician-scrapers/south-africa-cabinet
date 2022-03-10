@@ -1,524 +1,59 @@
 {
-  "title": "Mmamoloko Kubayi-Ngubane",
-  "pageID": 61547248,
-  "categories": [
-    "Living people",
-    "Government ministers of South Africa",
-    "Women government ministers of South Africa",
-    "African National Congress politicians",
-    "20th-century South African women politicians",
-    "21st-century South African women politicians",
-    "Members of the National Assembly of South Africa",
-    "Women members of the National Assembly of South Africa",
-    "University of the Witwatersrand alumni",
-    "People from Soweto",
-    "21st-century South African politicians",
-    "1978 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mmamoloko Tryphosa Kubayi (born 8 May 1978) is a South African politician who is the Minister of Human Settlements and a Member of the National Assembly for the African National Congress (ANC).",
-              "links": [
-                {
-                  "text": "Minister of Human Settlements",
-                  "type": "internal",
-                  "page": "Minister of Human Settlements (South Africa)"
-                },
-                {
-                  "text": "Member of the National Assembly",
-                  "type": "internal",
-                  "page": "National Assembly (South Africa)"
-                },
-                {
-                  "type": "internal",
-                  "page": "African National Congress"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mmamoloko Tryphosa Kubayi"
-                ]
-              }
-            },
-            {
-              "text": "She was the Minister of Energy in 2017, the Minister of Communications from 2017 to 2018, the Minister of Science and Technology from 2018 to 2019, and the Minister of Tourism from 2019 to 2021.",
-              "links": [
-                {
-                  "text": "Minister of Energy",
-                  "type": "internal",
-                  "page": "Minister of Energy (South Africa)"
-                },
-                {
-                  "text": "Minister of Communications",
-                  "type": "internal",
-                  "page": "Minister of Communications (South Africa)"
-                },
-                {
-                  "text": "Minister of Science and Technology",
-                  "type": "internal",
-                  "page": "Minister of Science and Technology (South Africa)"
-                },
-                {
-                  "text": "Minister of Tourism",
-                  "type": "internal",
-                  "page": "Minister of Tourism (South Africa)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "South African Minister of Tourism",
-          "template": "short description"
-        },
-        {
-          "year": "1978",
-          "month": "5",
-          "day": "8",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Mmamoloko Kubayi"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Parliament of South Africa"
-              }
-            ]
-          },
-          "image": {
-            "text": "Minister of Energy Mmamoloko Kubayi.jpg"
-          },
-          "image_size": {
-            "text": "200px"
-          },
-          "caption": {
-            "text": "Kubayi in 2017"
-          },
-          "office": {
-            "text": "Minister of Human Settlements",
-            "links": [
-              {
-                "text": "Minister of Human Settlements",
-                "type": "internal",
-                "page": "Minister of Human Settlements, Water and Sanitation"
-              }
-            ]
-          },
-          "president": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "5 August 2021"
-          },
-          "predecessor": {
-            "text": "Lindiwe Sisulu (Minister of Human Settlements, Water and Sanitation)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lindiwe Sisulu"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Acting Minister of Health",
-            "links": [
-              {
-                "text": "Minister of Health",
-                "type": "internal",
-                "page": "Minister of Health (South Africa)"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Joe Phaahla",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joe Phaahla"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "9 June 2021"
-          },
-          "term_end1": {
-            "text": "5 August 2021"
-          },
-          "predecessor1": {
-            "text": "Zweli Mkhize",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zweli Mkhize"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Joe Phaahla",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joe Phaahla"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Tourism",
-            "links": [
-              {
-                "text": "Minister of Tourism",
-                "type": "internal",
-                "page": "Minister of Tourism (South Africa)"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "deputy2": {
-            "text": "Fish Mahlalela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fish Mahlalela"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "30 May 2019"
-          },
-          "term_end2": {
-            "text": "5 August 2021"
-          },
-          "predecessor2": {
-            "text": "Derek Hanekom",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Derek Hanekom"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Lindiwe Sisulu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lindiwe Sisulu"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Science and Technology",
-            "links": [
-              {
-                "text": "Minister of Science and Technology",
-                "type": "internal",
-                "page": "Minister of Science and Technology (South Africa)"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "deputy3": {
-            "text": "Zanele kaMagwaza-Msibi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zanele kaMagwaza-Msibi"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "27 February 2018"
-          },
-          "term_end3": {
-            "text": "29 May 2019"
-          },
-          "predecessor3": {
-            "text": "Naledi Pandor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Naledi Pandor"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Position dissolved",
-            "formatting": {
-              "italic": [
-                "Position dissolved"
-              ]
-            }
-          },
-          "office4": {
-            "text": "Minister of Communications",
-            "links": [
-              {
-                "text": "Minister of Communications",
-                "type": "internal",
-                "page": "Minister of Communications (South Africa)"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Cyril Ramaphosa Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              },
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "deputy4": {
-            "text": "Thandi Mahambehlala"
-          },
-          "term_start4": {
-            "text": "17 October 2017"
-          },
-          "term_end4": {
-            "text": "26 February 2018"
-          },
-          "predecessor4": {
-            "text": "Ayanda Dlodlo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ayanda Dlodlo"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Nomvula Mokonyane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nomvula Mokonyane"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Energy",
-            "links": [
-              {
-                "text": "Minister of Energy",
-                "type": "internal",
-                "page": "Minister of Energy (South Africa)"
-              }
-            ]
-          },
-          "deputy5": {
-            "text": "Thembi Majola",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thembi Majola"
-              }
-            ]
-          },
-          "president5": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "31 March 2017"
-          },
-          "term_end5": {
-            "text": "17 October 2017"
-          },
-          "predecessor5": {
-            "text": "Tina Joemat-Pettersson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tina Joemat-Pettersson"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "David Mahlobo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Mahlobo"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of the National Assembly of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of South Africa"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "6 May 2009"
-          },
-          "constituency6": {
-            "text": "Soweto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Soweto"
-              }
-            ]
-          },
-          "birthname": {
-            "text": "Mmamoloko Tryphosa Kubayi"
-          },
-          "birth_date": {
-            "text": "May 8, 1978"
-          },
-          "birth_place": {
-            "text": "Soweto, South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Soweto"
-              },
-              {
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Joel Sihle Ngubane (m. 2017)"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "residence": {
-            "text": "Soweto, South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Soweto"
-              },
-              {
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Vista University (BA)\n\nDamelin (Dip.)\n\nUniversity of Witwatersrand (MPA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vista University"
-              },
-              {
-                "text": "BA",
-                "type": "internal",
-                "page": "Bachelor of Arts"
-              },
-              {
-                "type": "internal",
-                "page": "Damelin"
-              },
-              {
-                "text": "Dip.",
-                "type": "internal",
-                "page": "Diploma"
-              },
-              {
-                "type": "internal",
-                "page": "University of Witwatersrand"
-              },
-              {
-                "text": "M",
-                "type": "internal",
-                "page": "Masters Degree"
-              },
-              {
-                "text": "PA",
-                "type": "internal",
-                "page": "Public Administration"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician\n\nacademic\n\nyouth activist"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Mmamoloko Kubayi",
+  "honorific-suffix": "MP",
+  "image": "Minister of Energy Mmamoloko Kubayi.jpg",
+  "image_size": "200px",
+  "caption": "Kubayi in 2017",
+  "office": "Minister of Human Settlements",
+  "president": "Cyril Ramaphosa",
+  "term_start": "5 August 2021",
+  "predecessor": "Lindiwe Sisulu (Minister of Human Settlements, Water and Sanitation)",
+  "office1": "Acting Minister of Health",
+  "president1": "Cyril Ramaphosa",
+  "deputy1": "Joe Phaahla",
+  "term_start1": "9 June 2021",
+  "term_end1": "5 August 2021",
+  "predecessor1": "Zweli Mkhize",
+  "successor1": "Joe Phaahla",
+  "office2": "Minister of Tourism",
+  "president2": "Cyril Ramaphosa",
+  "deputy2": "Fish Mahlalela",
+  "term_start2": "30 May 2019",
+  "term_end2": "5 August 2021",
+  "predecessor2": "Derek Hanekom",
+  "successor2": "Lindiwe Sisulu",
+  "office3": "Minister of Science and Technology",
+  "president3": "Cyril Ramaphosa",
+  "deputy3": "Zanele kaMagwaza-Msibi",
+  "term_start3": "27 February 2018",
+  "term_end3": "29 May 2019",
+  "predecessor3": "Naledi Pandor",
+  "successor3": "Position dissolved",
+  "office4": "Minister of Communications",
+  "president4": "Cyril Ramaphosa Jacob Zuma",
+  "deputy4": "Thandi Mahambehlala",
+  "term_start4": "17 October 2017",
+  "term_end4": "26 February 2018",
+  "predecessor4": "Ayanda Dlodlo",
+  "successor4": "Nomvula Mokonyane",
+  "office5": "Minister of Energy",
+  "deputy5": "Thembi Majola",
+  "president5": "Jacob Zuma",
+  "term_start5": "31 March 2017",
+  "term_end5": "17 October 2017",
+  "predecessor5": "Tina Joemat-Pettersson",
+  "successor5": "David Mahlobo",
+  "office6": "Member of the National Assembly of South Africa",
+  "term_start6": "6 May 2009",
+  "constituency6": "Soweto",
+  "birthname": "Mmamoloko Tryphosa Kubayi",
+  "birth_date": "May 8, 1978",
+  "birth_place": "Soweto, South Africa",
+  "party": "African National Congress",
+  "spouse": "Joel Sihle Ngubane (m. 2017)",
+  "children": "2",
+  "residence": "Soweto, South Africa",
+  "alma_mater": "Vista University (BA)\n\nDamelin (Dip.)\n\nUniversity of Witwatersrand (MPA)",
+  "occupation": "Politician\n\nacademic\n\nyouth activist"
 }

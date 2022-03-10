@@ -1,268 +1,29 @@
 {
-  "title": "Sihle Zikalala",
-  "pageID": 60532359,
-  "categories": [
-    "1973 births",
-    "Living people",
-    "People from Ndwedwe Local Municipality",
-    "Zulu people",
-    "African National Congress politicians",
-    "Premiers of KwaZulu-Natal",
-    "Members of the KwaZulu-Natal Legislature",
-    "University of KwaZulu-Natal alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sihle Zikalala (born 6 August 1973) is a South African politician from KwaZulu-Natal who is the 8th and current Premier of KwaZulu-Natal as well as the Provincial Chairperson of the African National Congress (ANC).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "KwaZulu-Natal"
-                },
-                {
-                  "type": "internal",
-                  "page": "Premier of KwaZulu-Natal"
-                },
-                {
-                  "type": "internal",
-                  "page": "African National Congress"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sihle Zikalala"
-                ]
-              }
-            },
-            {
-              "text": "He has held various leadership positions in the ANC."
-            },
-            {
-              "text": "He is also a Member of the KwaZulu-Natal Legislature after having taken office on 26 November 2015.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "KwaZulu-Natal Legislature"
-                }
-              ]
-            },
-            {
-              "text": "From 2016 to 2019, he served as the MEC for Economic Development, Tourism and Environmental Affairs in the KwaZulu-Natal Provincial Government."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "8th Premier of KwaZulu-Natal",
-          "template": "short description"
-        },
-        {
-          "date": "September 2019",
-          "template": "use south african english"
-        },
-        {
-          "date": "September 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1973",
-          "month": "8",
-          "day": "6",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Nelly Zikalala",
-          "from": "2006",
-          "template": "marriage"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "honorific-suffix": {
-            "text": "MPL",
-            "links": [
-              {
-                "text": "MPL",
-                "type": "internal",
-                "page": "KwaZulu-Natal Legislature"
-              }
-            ]
-          },
-          "image": {
-            "text": "Sihle Zikalala (42785438050) (cropped).jpg"
-          },
-          "image_size": {
-            "text": "220px"
-          },
-          "caption": {
-            "text": "Zikalala in 2018"
-          },
-          "office": {
-            "text": "8th Premier of KwaZulu-Natal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Premier of KwaZulu-Natal"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 May 2019"
-          },
-          "predecessor": {
-            "text": "Willies Mchunu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Willies Mchunu"
-              }
-            ]
-          },
-          "office1": {
-            "text": "KwaZulu-Natal MEC for Economic Development, Tourism and Environmental Affairs",
-            "links": [
-              {
-                "text": "KwaZulu-Natal MEC for Economic Development, Tourism and Environmental Affairs",
-                "type": "internal",
-                "page": "Executive Council (South Africa)"
-              }
-            ]
-          },
-          "premier1": {
-            "text": "Willies Mchunu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Willies Mchunu"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "7 June 2016"
-          },
-          "term_end1": {
-            "text": "27 May 2019"
-          },
-          "predecessor1": {
-            "text": "Mike Mabuyakhulu"
-          },
-          "successor1": {
-            "text": "Nomusa Dube-Ncube",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nomusa Dube-Ncube"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Chairperson of the African National Congress in KwaZulu-Natal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              },
-              {
-                "type": "internal",
-                "page": "KwaZulu-Natal"
-              }
-            ]
-          },
-          "deputy2": {
-            "text": "Willies Mchunu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Willies Mchunu"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "8 November 2015"
-          },
-          "predecessor2": {
-            "text": "Senzo Mchunu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Senzo Mchunu"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the KwaZulu-Natal Legislature",
-            "links": [
-              {
-                "type": "internal",
-                "page": "KwaZulu-Natal Legislature"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "26 November 2015"
-          },
-          "birth_date": {
-            "text": "August 6, 1973"
-          },
-          "birth_place": {
-            "text": "Ndwedwe, South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ndwedwe"
-              },
-              {
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "South African"
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Nelly Zikalala (m. 2006)"
-          },
-          "alma_mater": {
-            "text": "University of KwaZulu-Natal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of KwaZulu-Natal"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "honorific-suffix": "MPL",
+  "image": "Sihle Zikalala (42785438050) (cropped).jpg",
+  "image_size": "220px",
+  "caption": "Zikalala in 2018",
+  "office": "8th Premier of KwaZulu-Natal",
+  "term_start": "27 May 2019",
+  "predecessor": "Willies Mchunu",
+  "office1": "KwaZulu-Natal MEC for Economic Development, Tourism and Environmental Affairs",
+  "premier1": "Willies Mchunu",
+  "term_start1": "7 June 2016",
+  "term_end1": "27 May 2019",
+  "predecessor1": "Mike Mabuyakhulu",
+  "successor1": "Nomusa Dube-Ncube",
+  "office2": "Chairperson of the African National Congress in KwaZulu-Natal",
+  "deputy2": "Willies Mchunu",
+  "term_start2": "8 November 2015",
+  "predecessor2": "Senzo Mchunu",
+  "office3": "Member of the KwaZulu-Natal Legislature",
+  "term_start3": "26 November 2015",
+  "birth_date": "August 6, 1973",
+  "birth_place": "Ndwedwe, South Africa",
+  "nationality": "South African",
+  "party": "African National Congress",
+  "spouse": "Nelly Zikalala (m. 2006)",
+  "alma_mater": "University of KwaZulu-Natal",
+  "occupation": "Politician"
 }
