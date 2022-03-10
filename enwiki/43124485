@@ -1,516 +1,65 @@
 {
-  "title": "Thandi Modise",
-  "pageID": 43124485,
-  "categories": [
-    "1959 births",
-    "Living people",
-    "People from Vryburg",
-    "South African Tswana people",
-    "African National Congress politicians",
-    "Chairpersons of the National Council of Provinces",
-    "Premiers of North West (South African province)",
-    "UMkhonto we Sizwe personnel",
-    "Women members of the National Council of Provinces",
-    "Women premiers of South African provinces",
-    "Women legislative speakers",
-    "21st-century South African politicians",
-    "21st-century South African women politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Thandi Modise (born 25 December 1959) is a South African politician and former anti-Apartheid guerilla.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Apartheid"
-                },
-                {
-                  "text": "guerilla",
-                  "type": "internal",
-                  "page": "Guerrilla warfare"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Thandi Modise"
-                ]
-              }
-            },
-            {
-              "text": "She is currently serving as Minister of Defence & Military Veterans."
-            },
-            {
-              "text": "She served as Chairperson of the National Council of Provinces from 2014 to 2019 and as Speaker of the National Assembly of South Africa from 2019 to 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chairperson of the National Council of Provinces"
-                },
-                {
-                  "type": "internal",
-                  "page": "Speaker of the National Assembly of South Africa"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "August 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "description": "South African politician",
-          "template": "short description"
-        },
-        {
-          "last": "yes",
-          "list": [
-            "Legislative offices"
-          ],
-          "titlestyle": "border:1px dashed lightgrey;",
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "df": "yes",
-          "year": "1959",
-          "month": "12",
-          "day": "25",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "office5": {
-            "text": "Member of the National Assembly of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of the National Assembly of South Africa"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "22 May 2019"
-          },
-          "constituency5": {
-            "text": "North West",
-            "links": [
-              {
-                "text": "North West",
-                "type": "internal",
-                "page": "North West (South African province)"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Delegate to the National Council of Provinces",
-            "links": [
-              {
-                "text": "Delegate to the National Council of Provinces",
-                "type": "internal",
-                "page": "National Council of Provinces"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "22 May 2014"
-          },
-          "term_end6": {
-            "text": "7 May 2019"
-          },
-          "constituency6": {
-            "text": "North West",
-            "links": [
-              {
-                "text": "North West",
-                "type": "internal",
-                "page": "North West (South African province)"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Member of the North West Provincial Legislature",
-            "links": [
-              {
-                "type": "internal",
-                "page": "North West Provincial Legislature"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "19 November 2010"
-          },
-          "term_end7": {
-            "text": "20 May 2014"
-          },
-          "constituency7": {
-            "text": "Vryburg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vryburg"
-              }
-            ]
-          }
-        },
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Thandi Modise"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "[[File:Spotkanie premier Beaty Szydło z Thandi Modise (cropped).jpg]]"
-          },
-          "imagesize": {
-            "text": "220px"
-          },
-          "office": {
-            "text": "Minister of Defence and Military Veterans",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Defence and Military Veterans"
-              }
-            ]
-          },
-          "president": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Thabang Makwetla",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thabang Makwetla"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 August 2021"
-          },
-          "predecessor": {
-            "text": "Nosiviwe Mapisa-Nqakula",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nosiviwe Mapisa-Nqakula"
-              }
-            ]
-          },
-          "office1": {
-            "text": "6th Speaker of the National Assembly of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Speaker of the National Assembly of South Africa"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Solomon Lechesa Tsenoli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Solomon Lechesa Tsenoli"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "22 May 2019"
-          },
-          "term_end1": {
-            "text": "5 August 2021"
-          },
-          "president1": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Baleka Mbete",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Baleka Mbete"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Nosiviwe Mapisa-Nqakula",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nosiviwe Mapisa-Nqakula"
-              }
-            ]
-          },
-          "office2": {
-            "text": "5th Chairperson of the National Council of Provinces",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chairperson of the National Council of Provinces"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "21 May 2014"
-          },
-          "term_end2": {
-            "text": "22 May 2019"
-          },
-          "deputy2": {
-            "text": "Raseriti Tau"
-          },
-          "predecessor2": {
-            "text": "M. J. Mahlangu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "M. J. Mahlangu"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Amos Masondo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amos Masondo"
-              }
-            ]
-          },
-          "order3": {
-            "text": "4th"
-          },
-          "office3": {
-            "text": "Premier of North West"
-          },
-          "term_start3": {
-            "text": "19 November 2010"
-          },
-          "term_end3": {
-            "text": "20 May 2014"
-          },
-          "predecessor3": {
-            "text": "Maureen Modiselle",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maureen Modiselle"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Supra Mahumapelo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Supra Mahumapelo"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Deputy Secretary-General of the African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Thabo Mbeki Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thabo Mbeki"
-              },
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "1blankname4": {
-            "text": "Secretary-General"
-          },
-          "1namedata4": {
-            "text": "Kgalema Motlanthe Gwede Mantashe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kgalema Motlanthe"
-              },
-              {
-                "type": "internal",
-                "page": "Gwede Mantashe"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "16 December 2007"
-          },
-          "term_end4": {
-            "text": "December 2012"
-          },
-          "predecessor4": {
-            "text": "Sankie Mthembi-Mahanyele"
-          },
-          "successor4": {
-            "text": "Jessie Duarte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jessie Duarte"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "December 25, 1959"
-          },
-          "birth_place": {
-            "text": "Vryburg, North West Province, South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vryburg"
-              },
-              {
-                "text": "North West Province",
-                "type": "internal",
-                "page": "North West (South African province)"
-              }
-            ]
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          },
-          "residence": {
-            "text": "Johannesburg, Gauteng, South Africa\nCape Town, Western Cape, South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Johannesburg"
-              },
-              {
-                "type": "internal",
-                "page": "Gauteng"
-              },
-              {
-                "type": "internal",
-                "page": "Cape Town"
-              },
-              {
-                "type": "internal",
-                "page": "Western Cape"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician\n\nformer\nanti-apartheid guerilla",
-            "links": [
-              {
-                "text": "anti-apartheid guerilla",
-                "type": "internal",
-                "page": "Internal resistance to apartheid"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Topographer"
-          },
-          "cabinet": {
-            "text": "Jacob Zuma\nCyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              },
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "religion": {
-            "text": "Christianity"
-          },
-          "allegiance": {
-            "text": "Umkhonto We Sizwe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Umkhonto We Sizwe"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1970–1980"
-          },
-          "rank": {
-            "text": "Commander and Political Commissar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Commissar"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "office5": "Member of the National Assembly of South Africa",
+  "term_start5": "22 May 2019",
+  "constituency5": "North West",
+  "office6": "Delegate to the National Council of Provinces",
+  "term_start6": "22 May 2014",
+  "term_end6": "7 May 2019",
+  "constituency6": "North West",
+  "office7": "Member of the North West Provincial Legislature",
+  "term_start7": "19 November 2010",
+  "term_end7": "20 May 2014",
+  "constituency7": "Vryburg"
+}
+{
+  "honorific-prefix": "The Honourable",
+  "name": "Thandi Modise",
+  "honorific-suffix": "MP",
+  "image": "[[File:Spotkanie premier Beaty Szydło z Thandi Modise (cropped).jpg]]",
+  "imagesize": "220px",
+  "office": "Minister of Defence and Military Veterans",
+  "president": "Cyril Ramaphosa",
+  "deputy": "Thabang Makwetla",
+  "term_start": "6 August 2021",
+  "predecessor": "Nosiviwe Mapisa-Nqakula",
+  "office1": "6th Speaker of the National Assembly of South Africa",
+  "deputy1": "Solomon Lechesa Tsenoli",
+  "term_start1": "22 May 2019",
+  "term_end1": "5 August 2021",
+  "president1": "Cyril Ramaphosa",
+  "predecessor1": "Baleka Mbete",
+  "successor1": "Nosiviwe Mapisa-Nqakula",
+  "office2": "5th Chairperson of the National Council of Provinces",
+  "term_start2": "21 May 2014",
+  "term_end2": "22 May 2019",
+  "deputy2": "Raseriti Tau",
+  "predecessor2": "M. J. Mahlangu",
+  "successor2": "Amos Masondo",
+  "order3": "4th",
+  "office3": "Premier of North West",
+  "term_start3": "19 November 2010",
+  "term_end3": "20 May 2014",
+  "predecessor3": "Maureen Modiselle",
+  "successor3": "Supra Mahumapelo",
+  "office4": "Deputy Secretary-General of the African National Congress",
+  "president4": "Thabo Mbeki Jacob Zuma",
+  "1blankname4": "Secretary-General",
+  "1namedata4": "Kgalema Motlanthe Gwede Mantashe",
+  "term_start4": "16 December 2007",
+  "term_end4": "December 2012",
+  "predecessor4": "Sankie Mthembi-Mahanyele",
+  "successor4": "Jessie Duarte",
+  "birth_date": "December 25, 1959",
+  "birth_place": "Vryburg, North West Province, South Africa",
+  "party": "African National Congress",
+  "children": "4",
+  "residence": "Johannesburg, Gauteng, South Africa\nCape Town, Western Cape, South Africa",
+  "occupation": "Politician\n\nformer\nanti-apartheid guerilla",
+  "profession": "Topographer",
+  "cabinet": "Jacob Zuma\nCyril Ramaphosa",
+  "religion": "Christianity",
+  "allegiance": "Umkhonto We Sizwe",
+  "serviceyears": "1970–1980",
+  "rank": "Commander and Political Commissar"
 }

@@ -1,272 +1,32 @@
 {
-  "title": "Mondli Gungubele",
-  "pageID": 56759032,
-  "categories": [
-    "1957 births",
-    "Living people",
-    "Government ministers of South Africa",
-    "Mayors of Ekurhuleni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mondli Gungubele (born 1 February 1957) is a South African politician, trade union leader and educator who is the current Minister in the Presidency and a member of the National Assembly of South Africa for the African National Congress.",
-              "links": [
-                {
-                  "text": "Minister in the Presidency",
-                  "type": "internal",
-                  "page": "Minister in the Presidency (South Africa)"
-                },
-                {
-                  "text": "member of the National Assembly of South Africa",
-                  "type": "internal",
-                  "page": "member of the National Assembly of South Africa"
-                },
-                {
-                  "type": "internal",
-                  "page": "African National Congress"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mondli Gungubele"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Executive Mayor of the Ekurhuleni Metropolitan Municipality (2010–2016), as Deputy Minister of Finance (2018–2019) and as Chairperson of the Social Development Committee (2019–2021).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ekurhuleni Metropolitan Municipality"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1957",
-          "month": "02",
-          "day": "01",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Mondli Gungubele"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Mondli Gungubele.jpg"
-          },
-          "caption": {
-            "text": "Gungubele in 2011"
-          },
-          "office1": {
-            "text": "Minister in the Presidency",
-            "links": [
-              {
-                "text": "Minister in the Presidency",
-                "type": "internal",
-                "page": "Minister in the Presidency (South Africa)"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Thembi Siweya, Pinky Kekana, Zizi Kodwa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thembi Siweya"
-              },
-              {
-                "type": "internal",
-                "page": "Pinky Kekana"
-              },
-              {
-                "type": "internal",
-                "page": "Zizi Kodwa"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "6 August 2021"
-          },
-          "predecessor1": {
-            "text": "Khumbudzo Ntshavheni (acting) Jackson Mthembu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khumbudzo Ntshavheni"
-              },
-              {
-                "type": "internal",
-                "page": "Jackson Mthembu"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Deputy Minister of Finance",
-            "links": [
-              {
-                "text": "Deputy Minister of Finance",
-                "type": "internal",
-                "page": "National Treasury (South Africa)"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "minister2": {
-            "text": "Tito Mboweni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tito Mboweni"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 February 2018"
-          },
-          "term_end2": {
-            "text": "25 May 2019"
-          },
-          "predecessor2": {
-            "text": "Sfiso Buthelezi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sfiso Buthelezi"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "David Masondo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Masondo"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Chairperson of the Portfolio Committee on Social Development",
-            "links": [
-              {
-                "text": "Chairperson of the Portfolio Committee on Social Development",
-                "type": "internal",
-                "page": "Parliament of South Africa"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2 July 2019"
-          },
-          "term_end3": {
-            "text": "5 August 2021"
-          },
-          "predecessor3": {
-            "text": "Rosemary Capa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rosemary Capa"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Queenie Mvana",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Queenie Mvana"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Mayor of the City of Ekurhuleni Metropolitan Municipality",
-            "links": [
-              {
-                "type": "internal",
-                "page": "City of Ekurhuleni Metropolitan Municipality"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "2010",
-            "number": 2010
-          },
-          "term_end4": {
-            "text": "2016",
-            "number": 2016
-          },
-          "birthname": {
-            "text": "Mondli Gungubele"
-          },
-          "birth_date": {
-            "text": "February 1, 1957"
-          },
-          "nationality": {
-            "text": "South African"
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician\n\ntrade union leader \n\neducator"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Mondli Gungubele",
+  "honorific-suffix": "MP",
+  "image": "Mondli Gungubele.jpg",
+  "caption": "Gungubele in 2011",
+  "office1": "Minister in the Presidency",
+  "president1": "Cyril Ramaphosa",
+  "deputy1": "Thembi Siweya, Pinky Kekana, Zizi Kodwa",
+  "term_start1": "6 August 2021",
+  "predecessor1": "Khumbudzo Ntshavheni (acting) Jackson Mthembu",
+  "office2": "Deputy Minister of Finance",
+  "president2": "Cyril Ramaphosa",
+  "minister2": "Tito Mboweni",
+  "term_start2": "27 February 2018",
+  "term_end2": "25 May 2019",
+  "predecessor2": "Sfiso Buthelezi",
+  "successor2": "David Masondo",
+  "office3": "Chairperson of the Portfolio Committee on Social Development",
+  "term_start3": "2 July 2019",
+  "term_end3": "5 August 2021",
+  "predecessor3": "Rosemary Capa",
+  "successor3": "Queenie Mvana",
+  "office4": "Mayor of the City of Ekurhuleni Metropolitan Municipality",
+  "term_start4": "2010",
+  "term_end4": "2016",
+  "birthname": "Mondli Gungubele",
+  "birth_date": "February 1, 1957",
+  "nationality": "South African",
+  "party": "African National Congress",
+  "occupation": "Politician\n\ntrade union leader \n\neducator"
 }

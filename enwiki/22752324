@@ -1,247 +1,27 @@
 {
-  "title": "Ebrahim Patel",
-  "pageID": 22752324,
-  "categories": [
-    "1962 births",
-    "Living people",
-    "Members of the National Assembly of South Africa",
-    "Government ministers of South Africa",
-    "South African politicians of Indian descent",
-    "South African Muslims",
-    "South African people of Gujarati descent",
-    "People from Cape Town",
-    "Politicians from Cape Town",
-    "People from the Western Cape",
-    "Politicians from the Western Cape",
-    "University of Cape Town alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ebrahim Patel (born 1962 in District Six in Cape Town) is a South African cabinet minister, who holds the position of Minister of Trade, Industry and Competition.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "District Six"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cape Town"
-                },
-                {
-                  "text": "Minister of Trade, Industry and Competition",
-                  "type": "internal",
-                  "page": "Minister of Trade and Industry (South Africa)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ebrahim Patel"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Minister of Economic Development from 2009 to 2019.",
-              "links": [
-                {
-                  "text": "Minister of Economic Development",
-                  "type": "internal",
-                  "page": "Minister of Economic Development (South Africa)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "South African politician",
-          "template": "short description"
-        },
-        {
-          "date": "March 2012",
-          "template": "blp sources"
-        },
-        {
-          "birth_year": "1962",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Ebrahim Patel"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Ebrahim Patel - World Economic Forum on Africa 2011.jpg"
-          },
-          "office2": {
-            "text": "Minister of Economic Development",
-            "links": [
-              {
-                "text": "Minister of Economic Development",
-                "type": "internal",
-                "page": "Minister of Economic Development (South Africa)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 May 2009"
-          },
-          "term_end2": {
-            "text": "29 May 2019"
-          },
-          "president2": {
-            "text": "Jacob Zuma Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              },
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Ministry established"
-          },
-          "successor2": {
-            "text": "Ministry abolished"
-          },
-          "office": {
-            "text": "Minister of Trade, Industry and Competition",
-            "links": [
-              {
-                "text": "Minister of Trade, Industry and Competition",
-                "type": "internal",
-                "page": "Minister of Trade and Industry (South Africa)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "29 May 2019"
-          },
-          "president": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Rob Davies",
-            "links": [
-              {
-                "text": "Rob Davies",
-                "type": "internal",
-                "page": "Rob Davies (politician)"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the National Assembly of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of South Africa"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2009",
-            "number": 2009
-          },
-          "birth_date": {
-            "text": "1962 (age 60)"
-          },
-          "birth_place": {
-            "text": "District Six, Cape Town",
-            "links": [
-              {
-                "type": "internal",
-                "page": "District Six"
-              },
-              {
-                "type": "internal",
-                "page": "Cape Town"
-              }
-            ]
-          },
-          "birthname": {
-            "text": "Ebrahim Patel"
-          },
-          "nationality": {
-            "text": "South African",
-            "links": [
-              {
-                "text": "South African",
-                "type": "internal",
-                "page": "South African people"
-              }
-            ]
-          },
-          "party": {
-            "text": "African National Congress (Associated with: COSATU)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "University of the Western Cape University of Cape Town",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of the Western Cape"
-              },
-              {
-                "type": "internal",
-                "page": "University of Cape Town"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician\n\nAnti-apartheid activist\n\nLabour movement leader\n\nShop steward (formerly)"
-          },
-          "profession": {
-            "text": "Economist"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Ebrahim Patel",
+  "honorific-suffix": "MP",
+  "image": "Ebrahim Patel - World Economic Forum on Africa 2011.jpg",
+  "office2": "Minister of Economic Development",
+  "term_start2": "11 May 2009",
+  "term_end2": "29 May 2019",
+  "president2": "Jacob Zuma Cyril Ramaphosa",
+  "predecessor2": "Ministry established",
+  "successor2": "Ministry abolished",
+  "office": "Minister of Trade, Industry and Competition",
+  "term_start": "29 May 2019",
+  "president": "Cyril Ramaphosa",
+  "predecessor": "Rob Davies",
+  "office3": "Member of the National Assembly of South Africa",
+  "term_start3": "2009",
+  "birth_date": "1962 (age 60)",
+  "birth_place": "District Six, Cape Town",
+  "birthname": "Ebrahim Patel",
+  "nationality": "South African",
+  "party": "African National Congress (Associated with: COSATU)",
+  "children": "3",
+  "alma_mater": "University of the Western Cape University of Cape Town",
+  "occupation": "Politician\n\nAnti-apartheid activist\n\nLabour movement leader\n\nShop steward (formerly)",
+  "profession": "Economist"
 }

@@ -1,534 +1,64 @@
 {
-  "title": "Lindiwe Sisulu",
-  "pageID": 19437540,
-  "categories": [
-    "1954 births",
-    "Living people",
-    "People from Johannesburg",
-    "Xhosa people",
-    "African National Congress politicians",
-    "Defence ministers of South Africa",
-    "Members of the National Assembly of South Africa",
-    "Alumni of the University of York",
-    "Anti-apartheid activists",
-    "Female defence ministers",
-    "Waterford Kamhlaba alumni",
-    "People educated at a United World College",
-    "University of Eswatini alumni",
-    "Women government ministers of South Africa",
-    "Women members of the National Assembly of South Africa",
-    "Female foreign ministers",
-    "Foreign ministers of South Africa"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Lindiwe Nonceba Sisulu (born 10 May 1954) is a South African politician, member of parliament since 1994, and member of the National Executive Committee of the African National Congress currently serving as Minister of Tourism since August 2021.",
-              "links": [
-                {
-                  "text": "member of parliament since 1994",
-                  "type": "internal",
-                  "page": "22nd South African Parliament"
-                },
-                {
-                  "text": "National Executive Committee of the African National Congress",
-                  "type": "internal",
-                  "page": "National Executive Committee (African National Congress)"
-                },
-                {
-                  "text": "Minister of Tourism",
-                  "type": "internal",
-                  "page": "Minister of Tourism (South Africa)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Lindiwe Nonceba Sisulu"
-                ]
-              }
-            },
-            {
-              "text": "She previously served as Minister of Housing (2004 to 2009), Minister of Defence and Military Veterans (2009 to 2012), Minister of Public Service and Administration from 2012 to 2014.",
-              "links": [
-                {
-                  "text": "Minister of Defence and Military Veterans",
-                  "type": "internal",
-                  "page": "Minister of Defence and Military Veterans (South Africa)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister of Public Service and Administration"
-                }
-              ]
-            },
-            {
-              "text": "and Minister of Human Settlements, Water & Sanitation from 2014 to 2021.",
-              "links": [
-                {
-                  "text": "Minister of Human Settlements, Water & Sanitation",
-                  "type": "internal",
-                  "page": "Minister_of_Human_Settlements,_Water_and_Sanitation"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "South African politician",
-          "template": "short description"
-        },
-        {
-          "date": "May 2015",
-          "template": "engvarb"
-        },
-        {
-          "date": "May 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1954",
-          "month": "5",
-          "day": "10",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Lindiwe Sisulu"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Lindiwe Sisulu in New York - 2018 (44058077895) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Sisulu in 2018"
-          },
-          "office": {
-            "text": "Minister of Tourism",
-            "links": [
-              {
-                "text": "Minister of Tourism",
-                "type": "internal",
-                "page": "Minister of Tourism (South Africa)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "5 August 2021"
-          },
-          "president": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Mmamoloko Kubayi-Ngubane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mmamoloko Kubayi-Ngubane"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Human Settlements, Water and Sanitation",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Human Settlements, Water and Sanitation"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "30 May 2019"
-          },
-          "term_end1": {
-            "text": "5 August 2021"
-          },
-          "president1": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Position created"
-          },
-          "successor1": {
-            "text": "Position abolished"
-          },
-          "office2": {
-            "text": "Minister of International Relations and Cooperation",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of International Relations and Cooperation"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "deputy2": {
-            "text": "Reginah Mhaule",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Reginah Mhaule"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 February 2018"
-          },
-          "term_end2": {
-            "text": "29 May 2019"
-          },
-          "predecessor2": {
-            "text": "Maite Nkoana-Mashabane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maite Nkoana-Mashabane"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Naledi Pandor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Naledi Pandor"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Human Settlements",
-            "links": [
-              {
-                "text": "Minister of Human Settlements",
-                "type": "internal",
-                "page": "Cabinet of South Africa"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Jacob Zuma Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              },
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "26 May 2014"
-          },
-          "term_end3": {
-            "text": "26 February 2018"
-          },
-          "predecessor3": {
-            "text": "Connie September",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Connie September"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Nomaindia Mfeketo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nomaindia Mfeketo"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Public Service and Administration",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Public Service and Administration"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "12 June 2012"
-          },
-          "term_end4": {
-            "text": "25 May 2014"
-          },
-          "predecessor4": {
-            "text": "Roy Padayachie",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Roy Padayachie"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Collins Chabane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Collins Chabane"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Defence",
-            "links": [
-              {
-                "text": "Minister of Defence",
-                "type": "internal",
-                "page": "Minister of Defence and Military Veterans"
-              }
-            ]
-          },
-          "president5": {
-            "text": "Jacob Zuma"
-          },
-          "term_start5": {
-            "text": "10 May 2009"
-          },
-          "term_end5": {
-            "text": "12 June 2012"
-          },
-          "predecessor5": {
-            "text": "Charles Nqakula",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles Nqakula"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Nosiviwe Mapisa-Nqakula",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nosiviwe Mapisa-Nqakula"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Minister of Housing",
-            "links": [
-              {
-                "text": "Minister of Housing",
-                "type": "internal",
-                "page": "Cabinet of South Africa"
-              }
-            ]
-          },
-          "president6": {
-            "text": "Thabo Mbeki Kgalema Motlanthe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thabo Mbeki"
-              },
-              {
-                "type": "internal",
-                "page": "Kgalema Motlanthe"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "29 April 2004"
-          },
-          "term_end6": {
-            "text": "10 May 2009"
-          },
-          "predecessor6": {
-            "text": "Rob Davies",
-            "links": [
-              {
-                "text": "Rob Davies",
-                "type": "internal",
-                "page": "Rob Davies (South African minister)"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Tokyo Sexwale (Human Settlements)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tokyo Sexwale"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Minister of Intelligence",
-            "links": [
-              {
-                "text": "Minister of Intelligence",
-                "type": "internal",
-                "page": "Cabinet of South Africa"
-              }
-            ]
-          },
-          "president7": {
-            "text": "Thabo Mbeki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thabo Mbeki"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "24 January 2001"
-          },
-          "term_end7": {
-            "text": "28 April 2004"
-          },
-          "predecessor7": {
-            "text": "Joe Nhlanhla",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joe Nhlanhla"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Ronnie Kasrils",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ronnie Kasrils"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Member of the National Assembly of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of South Africa"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "27 April 1994"
-          },
-          "birth_date": {
-            "text": "May 10, 1954"
-          },
-          "birth_place": {
-            "text": "Johannesburg, Union of South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Johannesburg"
-              },
-              {
-                "type": "internal",
-                "page": "Union of South Africa"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician\n\neducator \n\nphilosopher \n\ndiplomat \n\nanti-apartheid activist"
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "education": {
-            "text": "University of Swaziland (BA) University of York (MA, MPhil)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Swaziland"
-              },
-              {
-                "type": "internal",
-                "page": "University of York"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Lindiwe Nonceba Sisulu"
-          },
-          "allegiance": {
-            "text": "Umkhonto We Sizwe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Umkhonto We Sizwe"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1970–1990"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Lindiwe Sisulu",
+  "honorific-suffix": "MP",
+  "image": "Lindiwe Sisulu in New York - 2018 (44058077895) (cropped).jpg",
+  "caption": "Sisulu in 2018",
+  "office": "Minister of Tourism",
+  "term_start": "5 August 2021",
+  "president": "Cyril Ramaphosa",
+  "predecessor": "Mmamoloko Kubayi-Ngubane",
+  "office1": "Minister of Human Settlements, Water and Sanitation",
+  "term_start1": "30 May 2019",
+  "term_end1": "5 August 2021",
+  "president1": "Cyril Ramaphosa",
+  "predecessor1": "Position created",
+  "successor1": "Position abolished",
+  "office2": "Minister of International Relations and Cooperation",
+  "president2": "Cyril Ramaphosa",
+  "deputy2": "Reginah Mhaule",
+  "term_start2": "27 February 2018",
+  "term_end2": "29 May 2019",
+  "predecessor2": "Maite Nkoana-Mashabane",
+  "successor2": "Naledi Pandor",
+  "office3": "Minister of Human Settlements",
+  "president3": "Jacob Zuma Cyril Ramaphosa",
+  "term_start3": "26 May 2014",
+  "term_end3": "26 February 2018",
+  "predecessor3": "Connie September",
+  "successor3": "Nomaindia Mfeketo",
+  "office4": "Minister of Public Service and Administration",
+  "president4": "Jacob Zuma",
+  "term_start4": "12 June 2012",
+  "term_end4": "25 May 2014",
+  "predecessor4": "Roy Padayachie",
+  "successor4": "Collins Chabane",
+  "office5": "Minister of Defence",
+  "president5": "Jacob Zuma",
+  "term_start5": "10 May 2009",
+  "term_end5": "12 June 2012",
+  "predecessor5": "Charles Nqakula",
+  "successor5": "Nosiviwe Mapisa-Nqakula",
+  "office6": "Minister of Housing",
+  "president6": "Thabo Mbeki Kgalema Motlanthe",
+  "term_start6": "29 April 2004",
+  "term_end6": "10 May 2009",
+  "predecessor6": "Rob Davies",
+  "successor6": "Tokyo Sexwale (Human Settlements)",
+  "office7": "Minister of Intelligence",
+  "president7": "Thabo Mbeki",
+  "term_start7": "24 January 2001",
+  "term_end7": "28 April 2004",
+  "predecessor7": "Joe Nhlanhla",
+  "successor7": "Ronnie Kasrils",
+  "office8": "Member of the National Assembly of South Africa",
+  "term_start8": "27 April 1994",
+  "birth_date": "May 10, 1954",
+  "birth_place": "Johannesburg, Union of South Africa",
+  "occupation": "Politician\n\neducator \n\nphilosopher \n\ndiplomat \n\nanti-apartheid activist",
+  "party": "African National Congress",
+  "education": "University of Swaziland (BA) University of York (MA, MPhil)",
+  "birth_name": "Lindiwe Nonceba Sisulu",
+  "allegiance": "Umkhonto We Sizwe",
+  "serviceyears": "1970–1990"
 }

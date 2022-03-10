@@ -1,278 +1,32 @@
 {
-  "title": "Nathi Mthethwa",
-  "pageID": 19485812,
-  "categories": [
-    "1967 births",
-    "Living people",
-    "People from KwaZulu-Natal",
-    "Zulu people",
-    "African National Congress politicians",
-    "Government ministers of South Africa",
-    "Members of the National Assembly of South Africa",
-    "Arts and culture ministers of South Africa"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Emmanuel Nkosinathi \"Nathi\" Mthethwa (born 23 January 1967) is a South African politician who has served as Minister of Arts and Culture since February 2014.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Minister of Arts and Culture"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Emmanuel Nkosinathi \"Nathi\" Mthethwa"
-                ]
-              }
-            },
-            {
-              "text": "He was appointed again in 2019 for his second term, taking also the portfolio of Sport under his wing."
-            },
-            {
-              "text": "He also previously served as Minister for Safety and Security (later known as Minister of Police) from 2008 to 2014 and as the Chief Whip for the African National Congress in the National Assembly.",
-              "links": [
-                {
-                  "text": "Minister for Safety and Security",
-                  "type": "internal",
-                  "page": "Minister of Police (South Africa)"
-                },
-                {
-                  "type": "internal",
-                  "page": "African National Congress"
-                }
-              ]
-            },
-            {
-              "text": "He is from Kwambonambi, KwaZulu-Natal.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kwambonambi"
-                },
-                {
-                  "type": "internal",
-                  "page": "KwaZulu-Natal"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "South African politician",
-          "template": "short description"
-        },
-        {
-          "df": "yes",
-          "year": "1967",
-          "month": "01",
-          "day": "23",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Nkosinathi Mthethwa"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Nkosinathi Mthethwa (43752407695).jpg"
-          },
-          "caption": {
-            "text": "Nathi Mthethwa (right)"
-          },
-          "office": {
-            "text": "Minister of Sports, Arts and Culture",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Sports, Arts and Culture"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "30 May 2019"
-          },
-          "president": {
-            "text": "Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "ministries merged",
-            "formatting": {
-              "italic": [
-                "ministries merged"
-              ]
-            }
-          },
-          "office2": {
-            "text": "Minister of Arts and Culture",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Arts and Culture"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "25 May 2014"
-          },
-          "term_end2": {
-            "text": "30 May 2019"
-          },
-          "president2": {
-            "text": "Jacob Zuma Cyril Ramaphosa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              },
-              {
-                "type": "internal",
-                "page": "Cyril Ramaphosa"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Paul Mashatile",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Mashatile"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Police",
-            "links": [
-              {
-                "text": "Minister of Police",
-                "type": "internal",
-                "page": "Minister of Police (South Africa)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "10 May 2009"
-          },
-          "term_end3": {
-            "text": "25 May 2014"
-          },
-          "president3": {
-            "text": "Jacob Zuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Zuma"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Nkosinathi Nhleko",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nkosinathi Nhleko"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister for Safety and Security",
-            "links": [
-              {
-                "text": "Minister for Safety and Security",
-                "type": "internal",
-                "page": "Minister of Police (South Africa)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "25 September 2008"
-          },
-          "term_end4": {
-            "text": "10 May 2009"
-          },
-          "president4": {
-            "text": "Kgalema Motlanthe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kgalema Motlanthe"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Charles Nqakula",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles Nqakula"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "post renamed",
-            "formatting": {
-              "italic": [
-                "post renamed"
-              ]
-            }
-          },
-          "birth_date": {
-            "text": "January 23, 1967"
-          },
-          "birthname": {
-            "text": "Emmanuel Nkosinathi Mthethwa"
-          },
-          "citizenship": {
-            "text": "South African"
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Nkosinathi Mthethwa",
+  "honorific-suffix": "MP",
+  "image": "Nkosinathi Mthethwa (43752407695).jpg",
+  "caption": "Nathi Mthethwa (right)",
+  "office": "Minister of Sports, Arts and Culture",
+  "term_start": "30 May 2019",
+  "president": "Cyril Ramaphosa",
+  "predecessor": "ministries merged",
+  "office2": "Minister of Arts and Culture",
+  "term_start2": "25 May 2014",
+  "term_end2": "30 May 2019",
+  "president2": "Jacob Zuma Cyril Ramaphosa",
+  "predecessor2": "Paul Mashatile",
+  "office3": "Minister of Police",
+  "term_start3": "10 May 2009",
+  "term_end3": "25 May 2014",
+  "president3": "Jacob Zuma",
+  "successor3": "Nkosinathi Nhleko",
+  "office4": "Minister for Safety and Security",
+  "term_start4": "25 September 2008",
+  "term_end4": "10 May 2009",
+  "president4": "Kgalema Motlanthe",
+  "predecessor4": "Charles Nqakula",
+  "successor4": "post renamed",
+  "birth_date": "January 23, 1967",
+  "birthname": "Emmanuel Nkosinathi Mthethwa",
+  "citizenship": "South African",
+  "party": "African National Congress",
+  "profession": "Politician"
 }

@@ -1,241 +1,30 @@
 {
-  "title": "Ayanda Dlodlo",
-  "pageID": 53246269,
-  "categories": [
-    "Living people",
-    "Members of the African National Congress",
-    "Women government ministers of South Africa",
-    "1963 births",
-    "Communications ministers of South Africa",
-    "Ministers of Home Affairs of South Africa",
-    "Female interior ministers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ayanda Dlodlo (born 22 May 1963) is a South African politician, cabinet minister and member of the African National Congress (ANC).",
-              "formatting": {
-                "bold": [
-                  "Ayanda Dlodlo"
-                ]
-              }
-            },
-            {
-              "text": "Her current ministerial portfolio in Cyril Ramaphosa's cabinet is Minister of Public Service and Administration since 5 August 2021."
-            },
-            {
-              "text": "Before, she was the Minister of State Security from 30 May 2019 until 5 August 2021.",
-              "links": [
-                {
-                  "text": "Minister of State Security",
-                  "type": "internal",
-                  "page": "Minister of State Security (South Africa)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "South African politician",
-          "template": "short description"
-        },
-        {
-          "df": "y",
-          "year": "1963",
-          "month": "5",
-          "day": "22",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Ayanda Dlodlo"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Public Service and Administration",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Public Service and Administration"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "5 August 2021"
-          },
-          "predecessor1": {
-            "text": "Senzo Mchunu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Senzo Mchunu"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 February 2018"
-          },
-          "term_end2": {
-            "text": "25 May 2019"
-          },
-          "predecessor2": {
-            "text": "Faith Muthambi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faith Muthambi"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Senzo Mchunu"
-          },
-          "office3": {
-            "text": "Minister of State Security",
-            "links": [
-              {
-                "text": "Minister of State Security",
-                "type": "internal",
-                "page": "Minister of State Security (South Africa)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "30 May 2019"
-          },
-          "term_end3": {
-            "text": "5 August 2021"
-          },
-          "predecessor3": {
-            "text": "Dipuo Letsatsi-Duba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dipuo Letsatsi-Duba"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Office abolished"
-          },
-          "office4": {
-            "text": "Minister of Home Affairs",
-            "links": [
-              {
-                "text": "Minister of Home Affairs",
-                "type": "internal",
-                "page": "Minister of Home Affairs (South Africa)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "17 October 2017"
-          },
-          "term_end4": {
-            "text": "28 February 2018"
-          },
-          "predecessor4": {
-            "text": "Hlengiwe Mkhize",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hlengiwe Mkhize"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Malusi Gigaba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malusi Gigaba"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Communications",
-            "links": [
-              {
-                "text": "Minister of Communications",
-                "type": "internal",
-                "page": "Minister of Communications (South Africa)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "31 March 2017"
-          },
-          "term_end5": {
-            "text": "17 October 2017"
-          },
-          "predecessor5": {
-            "text": "Faith Muthambi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faith Muthambi"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Mmamoloko Kubayi-Ngubane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mmamoloko Kubayi-Ngubane"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "May 22, 1963"
-          },
-          "birth_place": {
-            "text": "South Africa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "South Africa"
-              }
-            ]
-          },
-          "party": {
-            "text": "African National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "African National Congress"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Ayanda Dlodlo",
+  "honorific-suffix": "MP",
+  "office1": "Minister of Public Service and Administration",
+  "term_start1": "5 August 2021",
+  "predecessor1": "Senzo Mchunu",
+  "term_start2": "27 February 2018",
+  "term_end2": "25 May 2019",
+  "predecessor2": "Faith Muthambi",
+  "successor2": "Senzo Mchunu",
+  "office3": "Minister of State Security",
+  "term_start3": "30 May 2019",
+  "term_end3": "5 August 2021",
+  "predecessor3": "Dipuo Letsatsi-Duba",
+  "successor3": "Office abolished",
+  "office4": "Minister of Home Affairs",
+  "term_start4": "17 October 2017",
+  "term_end4": "28 February 2018",
+  "predecessor4": "Hlengiwe Mkhize",
+  "successor4": "Malusi Gigaba",
+  "office5": "Minister of Communications",
+  "term_start5": "31 March 2017",
+  "term_end5": "17 October 2017",
+  "predecessor5": "Faith Muthambi",
+  "successor5": "Mmamoloko Kubayi-Ngubane",
+  "birth_date": "May 22, 1963",
+  "birth_place": "South Africa",
+  "party": "African National Congress"
 }
