@@ -5,7 +5,8 @@ require 'every_politician_scraper/comparison'
 
 SKIP = [ # Not listed on Ministers page
   ['---', 'Matamela Cyril Ramaphosa', 'President of South Africa'],
-  ['---', 'David Dabede Mabuza', 'Deputy President of South Africa']
+  ['---', 'David Dabede Mabuza', 'Deputy President of South Africa'],
+  ['---', 'David Mabuza', 'Deputy President of South Africa']
 ].freeze
 
 diff = EveryPoliticianScraper::Comparison.new('data/wikidata.csv', 'data/official.csv').diff
