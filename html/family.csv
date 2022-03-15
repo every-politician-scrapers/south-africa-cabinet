@@ -1,0 +1,45 @@
+id,name,relationship,relative,relativename
+Q101547,Thabo Mbeki,father,Q1396109,Govan Mbeki
+Q101547,Thabo Mbeki,mother,Q4963108,Epainette Mbeki
+Q101547,Thabo Mbeki,sibling,Q1942360,Moeletsi Mbeki
+Q101547,Thabo Mbeki,spouse,Q24053602,Zanele Dlamini Mbeki
+Q1148669,Matamela Cyril Ramaphosa,father,Q107184362,Tshivhase Samuel Ramaphosa
+Q1148669,Matamela Cyril Ramaphosa,mother,Q107184361,Nyamuofhe Erdmuth Ramaphosa
+Q1148669,Matamela Cyril Ramaphosa,spouse,Q24234163,Tshepo Motsepe
+Q150276,Nkosazana Dlamini-Zuma,child,Q18394313,Thuthukile Zuma
+Q150276,Nkosazana Dlamini-Zuma,child,Q29622258,Gugulethu Zuma-Ncube
+Q150276,Nkosazana Dlamini-Zuma,spouse,Q57282,Jacob Zuma
+Q152327,Kgalema Motlanthe,spouse,Q24234122,Mapula Motlanthe
+Q239062,Winnie Madikizela-Mandela,child,Q16103937,Zenani Mandela-Dlamini
+Q239062,Winnie Madikizela-Mandela,child,Q204369,Zindzi Mandela
+Q239062,Winnie Madikizela-Mandela,spouse,Q8023,Nelson Mandela
+Q28011968,Obed Bapela,spouse,Q50357896,Constance Bapela
+Q3241428,Lindiwe Sisulu,father,Q440490,Walter Max Ulyate Sisulu
+Q3241428,Lindiwe Sisulu,mother,Q467744,Albertina Nontsikelelo Sisulu
+Q3241428,Lindiwe Sisulu,sibling,Q6795248,Max Sisulu
+Q3241428,Lindiwe Sisulu,sibling,Q8075652,Zwelakhe Sisulu
+Q437046,Mandla Mandela,father,Q2104774,Makgatho Mandela
+Q460644,Manto Tshabalala-Msimang,spouse,Q6816626,Mendi Msimang
+Q540935,Phumzile Mlambo-Ngcuka,spouse,Q4996111,Bulelani Ngcuka
+Q55183488,Job Mokgoro,spouse,Q8062482,Yvonne Mokgoro
+Q554131,Mangosuthu Buthelezi,child,Q106317910,Sbuyiselwe Angela Buthelezi
+Q554131,Mangosuthu Buthelezi,mother,Q4957793,Magogo kaDinuzulu
+Q554131,Mangosuthu Buthelezi,relative,Q888222,Goodwill Zwelithini kaBhekuzulu
+Q57282,Jacob Zuma,child,Q104992723,Sinqumo Zuma
+Q57282,Jacob Zuma,child,Q104992764,Mziwoxolo Edward Zuma
+Q57282,Jacob Zuma,child,Q104992785,Mxolisi (Saady) Zuma
+Q57282,Jacob Zuma,child,Q18394313,Thuthukile Zuma
+Q57282,Jacob Zuma,child,Q24234137,Duduzane Zuma
+Q57282,Jacob Zuma,child,Q29622258,Gugulethu Zuma-Ncube
+Q57282,Jacob Zuma,spouse,Q104992712,Gloria Bongekile Ngema
+Q57282,Jacob Zuma,spouse,Q150276,Nkosazana Dlamini-Zuma
+Q57282,Jacob Zuma,spouse,Q24176173,Kate Mantsho
+Q57282,Jacob Zuma,spouse,Q24234160,Gertrude Sizakele Khumalo
+Q57282,Jacob Zuma,spouse,Q48990117,Nompumelelo Ntuli Zuma
+Q57282,Jacob Zuma,spouse,Q99297966,Thobeka Madiba-Zuma
+Q6795248,Max Sisulu,father,Q440490,Walter Max Ulyate Sisulu
+Q6795248,Max Sisulu,mother,Q467744,Albertina Nontsikelelo Sisulu
+Q6795248,Max Sisulu,sibling,Q3241428,Lindiwe Sisulu
+Q6795248,Max Sisulu,sibling,Q8075652,Zwelakhe Sisulu
+Q770995,Pieter Mulder,father,Q426404,Connie Mulder
+Q8066134,Zanele kaMagwaza-Msibi,child,Q52149458,Gugu Gumede
