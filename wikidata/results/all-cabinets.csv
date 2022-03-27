@@ -27,7 +27,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q20981923,Second Cabinet of P.W. Botha,1987-05-06,11,,,1989-09-06,11,,,Q2701614,First Cabinet of P.W. Botha,Q953607,Cabinet of F.W. de Klerk,Q2701614,First Cabinet of P.W. Botha,Q953607,Cabinet of F.W. de Klerk
 ,Q953607,Cabinet of F.W. de Klerk,1989-08-16,11,,,1994-05-11,11,,,Q20981923,Second Cabinet of P.W. Botha,Q2534643,Cabinet of Nelson Mandela,Q20981923,Second Cabinet of P.W. Botha,Q2534643,Cabinet of Nelson Mandela
 ,Q953607,Cabinet of F.W. de Klerk,1989-09-16,11,,,1994-05-11,11,,,Q20981923,Second Cabinet of P.W. Botha,Q2534643,Cabinet of Nelson Mandela,Q20981923,Second Cabinet of P.W. Botha,Q2534643,Cabinet of Nelson Mandela
-,Q2534643,Cabinet of Nelson Mandela,1994-05-11,11,,,1999-06-14,11,,,,,,,Q953607,Cabinet of F.W. de Klerk,Q20981551,First Cabinet of Thabo Mbeki
+,Q2534643,Cabinet of Nelson Mandela,1994-05-11,11,,,1999-06-14,11,,,,,Q20981551,First Cabinet of Thabo Mbeki,Q953607,Cabinet of F.W. de Klerk,Q20981551,First Cabinet of Thabo Mbeki
 ,Q20981551,First Cabinet of Thabo Mbeki,1999-06-17,11,,,2004-04-29,11,,,Q2534643,Cabinet of Nelson Mandela,Q16979023,Second cabinet of Thabo Mbeki,Q2534643,Cabinet of Nelson Mandela,Q16979023,Second cabinet of Thabo Mbeki
 ,Q20981551,First Cabinet of Thabo Mbeki,1999-06-18,11,,,2004-04-29,11,,,Q2534643,Cabinet of Nelson Mandela,Q16979023,Second cabinet of Thabo Mbeki,Q2534643,Cabinet of Nelson Mandela,Q16979023,Second cabinet of Thabo Mbeki
 ,Q16979023,Second cabinet of Thabo Mbeki,2004-04-27,11,,,2009-04-22,11,,,Q20981551,First Cabinet of Thabo Mbeki,Q20981411,Cabinet of Kgalema Motlanthe,Q20981551,First Cabinet of Thabo Mbeki,Q20981411,Cabinet of Kgalema Motlanthe
