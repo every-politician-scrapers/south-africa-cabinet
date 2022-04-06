@@ -30,6 +30,10 @@ class OfficeholderList < OfficeholderListBase
     def name_cell
       noko.css('a')
     end
+
+    def empty?
+      false
+    end
   end
 end
 
