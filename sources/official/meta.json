@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "South Africa",
+      "id": "Q258"
+    },
+    "cabinet": {
+      "id": "Q64167569",
+      "start": "2019-05-29",
+      "parent": "Q634678"
+    },
+    "source": {
+        "url":   "https://www.parliament.gov.za/ministers",
+        "title": "Ministers - Parliament of South Africa",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/south-africa-parliament"
+}
