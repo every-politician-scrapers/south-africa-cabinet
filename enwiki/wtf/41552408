@@ -1,0 +1,635 @@
+{
+  "title": "Thulas Nxesi",
+  "pageID": 41552408,
+  "categories": [
+    "1959 births",
+    "Government ministers of South Africa",
+    "African National Congress politicians",
+    "Living people",
+    "South African Ministers for Sport and Recreation",
+    "21st-century South African politicians",
+    "Members of the National Assembly of South Africa"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Thembelani Waltermade Nxesi (born 1 January 1959), popularly known as Thulas Nxesi, is a South African politician.",
+              "links": [
+                {
+                  "text": "South African",
+                  "type": "internal",
+                  "page": "South African people"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Thembelani Waltermade Nxesi",
+                  "Thulas Nxesi"
+                ]
+              }
+            },
+            {
+              "text": "A member of the African National Congress, he is the Minister of Employment and Labour.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "African National Congress"
+                }
+              ]
+            },
+            {
+              "text": "He was previously Minister of Public Works, Minister of Sports and Recreation, served a different term as Minister of Public Works, and was Deputy Minister of Rural Development and Land Reform.",
+              "links": [
+                {
+                  "text": "Minister of Public Works",
+                  "type": "internal",
+                  "page": "Minister of Public Works (South Africa)"
+                },
+                {
+                  "text": "Minister of Sports and Recreation",
+                  "type": "internal",
+                  "page": "Minister of Sport and Recreation (South Africa)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "South African politician",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "March 2018",
+          "template": "more citations needed"
+        },
+        {
+          "year": "1959",
+          "month": "06",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Thulas Nxesi"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "image": {
+            "text": "Minister Thulas Nxesi.png"
+          },
+          "order": {
+            "text": "Acting"
+          },
+          "office": {
+            "text": "Minister of Public Service and Administration"
+          },
+          "term_start": {
+            "text": "4 April 2022"
+          },
+          "president": {
+            "text": "Cyril Ramaphosa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cyril Ramaphosa"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ayanda Dlodlo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ayanda Dlodlo"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Employment and Labour",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Employment and Labour"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "30 May 2019"
+          },
+          "president1": {
+            "text": "Cyril Ramaphosa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cyril Ramaphosa"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "office2": {
+            "text": "Minister of Public Works",
+            "links": [
+              {
+                "text": "Minister of Public Works",
+                "type": "internal",
+                "page": "Minister of Public Works (South Africa)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "28 February 2018"
+          },
+          "term_end2": {
+            "text": "29 May 2019"
+          },
+          "president2": {
+            "text": "Cyril Ramaphosa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cyril Ramaphosa"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Nkosinathi Nhleko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nkosinathi Nhleko"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Position dissolved",
+            "formatting": {
+              "italic": [
+                "Position dissolved"
+              ]
+            }
+          },
+          "term_start3": {
+            "text": "24 October 2011"
+          },
+          "term_end3": {
+            "text": "31 March 2017"
+          },
+          "president3": {
+            "text": "Jacob Zuma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacob Zuma"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Gwen Mahlangu-Nkabinde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gwen Mahlangu-Nkabinde"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Nkosinathi Nhleko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nkosinathi Nhleko"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister of Sport and Recreation",
+            "links": [
+              {
+                "text": "Minister of Sport and Recreation",
+                "type": "internal",
+                "page": "Minister of Sport and Recreation (South Africa)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "31 March 2017"
+          },
+          "term_end4": {
+            "text": "28 February 2018"
+          },
+          "president4": {
+            "text": "Jacob Zuma\nCyril Ramaphosa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacob Zuma"
+              },
+              {
+                "type": "internal",
+                "page": "Cyril Ramaphosa"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Fikile Mbalula",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fikile Mbalula"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Tokozile Xasa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tokozile Xasa"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Deputy Minister of Rural Development and Land Reform",
+            "links": [
+              {
+                "text": "Deputy Minister of Rural Development and Land Reform",
+                "type": "internal",
+                "page": "Department of Rural Development and Land Reform"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "1 November 2010"
+          },
+          "term_end5": {
+            "text": "24 October 2011"
+          },
+          "president5": {
+            "text": "Jacob Zuma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacob Zuma"
+              }
+            ]
+          },
+          "minister5": {
+            "text": "Tina Joemat-Peterson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tina Joemat-Peterson"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Member of the National Assembly of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the National Assembly of South Africa"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "6 May 2009"
+          },
+          "birth_name": {
+            "text": "Thembelani Waltermade Nxesi"
+          },
+          "birth_date": {
+            "text": "June 10, 1959"
+          },
+          "birth_place": {
+            "text": "Matatiele, Eastern Cape, South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Matatiele"
+              },
+              {
+                "type": "internal",
+                "page": "Eastern Cape"
+              },
+              {
+                "type": "internal",
+                "page": "South Africa"
+              }
+            ]
+          },
+          "nickname": {
+            "text": "Thulas"
+          },
+          "nationality": {
+            "text": "South African",
+            "links": [
+              {
+                "text": "South African",
+                "type": "internal",
+                "page": "South Africa"
+              }
+            ]
+          },
+          "party": {
+            "text": "African National Congress",
+            "links": [
+              {
+                "type": "internal",
+                "page": "African National Congress"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Fort Hare\nUniversity of the Witswatersrand\nUniversity of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Fort Hare"
+              },
+              {
+                "type": "internal",
+                "page": "University of the Witswatersrand"
+              },
+              {
+                "type": "internal",
+                "page": "University of South Africa"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician\n\nlegislator \n\neducator \n\nactivist"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://apps.gcis.gov.za/gcis/gcis_profile.jsp?id=6935",
+          "title": "Home &#124; Government Communication and Information System (GCIS)",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://apps.gcis.gov.za/gcis/InternetIncludes/gcis_profile.jsp?id=6935",
+          "title": "Home &#124; Government Communication and Information System (GCIS)",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nxesi holds a Bachelor of Arts degree from the University of Fort Hare obtained in 1983; a Bachelor of Education degree from Witwatersrand University and a Higher Diploma in Education from the University of South Africa (UNISA).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of South Africa"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://apps.gcis.gov.za/gcis/InternetIncludes/gcis_profile.jsp?id=6935",
+          "title": "Home &#124; Government Communication and Information System (GCIS)",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "His political career began as a student activist and leader in the UDF-aligned SANSCO (South African National Student Congress) and its predecessor, AZASO (Azanian Students Organisation)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1985 he took up a teaching position in Tembisa, Gauteng at the Ikusasa Senior Secondary School, where he headed the Social Studies department from 1985 until 1990.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tembisa, Gauteng"
+                }
+              ]
+            },
+            {
+              "text": "Additionally, he was a founder member and national leader of NEUSA (National Education Union of South Africa)."
+            },
+            {
+              "text": "In 1990 he was elected Assistant General Secretary of the newly formed SADTU (South African Democratic Teachers Union), and in 1995 became General Secretary, a position he held until 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South African Democratic Teachers Union"
+                }
+              ]
+            },
+            {
+              "text": "During this period, SADTU grew in membership from 30,000 to a quarter of a million."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During this time he was increasingly active in Education International (EI) – with 30 million affiliated members worldwide; and served as president from 2004 to 2009, when he was also a member of the Global Unions Council."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2009, Nxesi was released by SADTU and COSATU to apply to stand for election to Parliament on the ANC list.",
+              "links": [
+                {
+                  "text": "Parliament",
+                  "type": "internal",
+                  "page": "Parliament of South Africa"
+                }
+              ]
+            },
+            {
+              "text": "As a Member of Parliament, he served as Chair of the Portfolio Committee on International Relations and Cooperation, during which time he participated in several study tours and overseas missions focusing on human rights."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 2010, President Jacob Zuma appointed him to the post of Deputy Minister of Rural Development and Land Reform, where he was given responsibilities including: restitution claims, gender issues, HRD and communications.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jacob Zuma"
+                }
+              ]
+            },
+            {
+              "text": "A year later, in October 2011, the Zuma appointed him Minister of Public Works."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2017 he was appointed Minister of Sport."
+            },
+            {
+              "text": "He named his top priorities as the acceleration of transformation and the revival of school sport in the country."
+            },
+            {
+              "text": "He also promised to build on the work of his predecessors, namely Steve Tshwete and Fikile Mbalula.",
+              "links": [
+                {
+                  "text": "Steve Tshwete",
+                  "type": "internal",
+                  "page": "Steve Tshwete Local Municipality"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fikile Mbalula"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was denied a visa to enter Israel in 2012 over pro-Palestinian stance",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Israel"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2018",
+          "template": "why"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.timeslive.co.za/sport/other/2017/04/25/Acceleration-of-transformation-and-revival-of-school-sport-among-new-Sport-Ministers-top-priorities",
+          "title": "Acceleration of transformation and revival of school sport among new Sport Minister's top priorities",
+          "last": "Mphahlele",
+          "first": "Mahlatse",
+          "website": "Times LIVE",
+          "access-date": "2017-04-26",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "start box"
+        },
+        {
+          "list": [
+            "union"
+          ],
+          "template": "s-npo"
+        },
+        {
+          "title": "President of Education International",
+          "years": "2004&ndash;2009",
+          "before": "Mary Hatwood Futrell",
+          "after": "Susan Hopgood",
+          "template": "succession box"
+        },
+        {
+          "state": "autocollapse",
+          "template": "jacob zuma cabinet 2"
+        },
+        {
+          "template": "ramaphosa first cabinet"
+        },
+        {
+          "state": "collapsed",
+          "template": "ramaphosa second cabinet"
+        },
+        {
+          "template": "sasportsministers"
+        },
+        {
+          "template": "current mps of south africa"
+        }
+      ]
+    }
+  ]
+}

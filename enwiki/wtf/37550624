@@ -1,0 +1,729 @@
+{
+  "title": "Ray Zondo",
+  "pageID": 37550624,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "20th-century South African judges",
+    "20th-century South African lawyers",
+    "21st-century South African judges",
+    "Chief Justices of South Africa",
+    "Judges of the Constitutional Court of South Africa",
+    "People from KwaZulu-Natal",
+    "University of Natal alumni",
+    "University of Zululand alumni",
+    "Zulu people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Raymond Mnyamezeli Mlungisi \"Ray\" Zondo (born 4 May 1960) is a South African judge who is currently serving as Chief Justice of South Africa since 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Justice of South Africa"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Raymond Mnyamezeli Mlungisi \"Ray\" Zondo"
+                ]
+              }
+            },
+            {
+              "text": "President Cyril Ramaphosa appointed Zondo as South Africa's new chief justice with effect from 1 April 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cyril Ramaphosa"
+                }
+              ]
+            },
+            {
+              "text": "He served as acting Chief Justice from 11 October 2021, when Mogoeng Mogoeng retired, until 31 March 2022.",
+              "links": [
+                {
+                  "text": "Chief Justice",
+                  "type": "internal",
+                  "page": "Chief Justice of South Africa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mogoeng Mogoeng"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chief Justice of South Africa",
+          "template": "short description"
+        },
+        {
+          "date": "October 2019",
+          "template": "use south african english"
+        },
+        {
+          "date": "October 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Judicial career (1997-present)"
+          ],
+          "titlestyle": "border:1px dashed lightgrey;",
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
+          "df": "yes",
+          "year": "1960",
+          "month": "05",
+          "day": "04",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "office3": {
+            "text": "Judge of the Constitutional Court of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Constitutional Court of South Africa"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 September 2012"
+          },
+          "appointer3": {
+            "text": "Jacob Zuma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacob Zuma"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Judge President of the Labour Court of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Labour Court of South Africa"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "May 2000"
+          },
+          "term_end4": {
+            "text": "May 2010"
+          },
+          "appointer4": {
+            "text": "Thabo Mbeki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Thabo Mbeki"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Judge of the North Gauteng High Court",
+            "links": [
+              {
+                "type": "internal",
+                "page": "North Gauteng High Court"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "May 1999"
+          },
+          "term_end5": {
+            "text": "September 2012"
+          },
+          "appointer5": {
+            "text": "Nelson Mandela",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nelson Mandela"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Judge of the Labour Court of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Labour Court of South Africa"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "November 1997"
+          },
+          "term_end6": {
+            "text": "May 2000"
+          },
+          "appointer6": {
+            "text": "Nelson Mandela",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nelson Mandela"
+              }
+            ]
+          }
+        },
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Raymond Zondo"
+          },
+          "image": {
+            "text": "Raymond Zondo.png"
+          },
+          "office": {
+            "text": "22nd Chief Justice of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Justice of South Africa"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 April 2022 Acting: 11 October 2021 - 31 March 2022"
+          },
+          "appointer": {
+            "text": "Cyril Ramaphosa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cyril Ramaphosa"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Mogoeng Mogoeng",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mogoeng Mogoeng"
+              }
+            ]
+          },
+          "order1": {
+            "text": "5th"
+          },
+          "office1": {
+            "text": "Deputy Chief Justice of South Africa"
+          },
+          "term_start1": {
+            "text": "7 June 2017"
+          },
+          "term_end1": {
+            "text": "31 March 2022"
+          },
+          "1blankname1": {
+            "text": "Chief Justice",
+            "links": [
+              {
+                "text": "Chief Justice",
+                "type": "internal",
+                "page": "Chief Justice of South Africa"
+              }
+            ]
+          },
+          "1namedata1": {
+            "text": "Mogoeng Mogoeng",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mogoeng Mogoeng"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Dikgang Moseneke",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dikgang Moseneke"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Chairperson of the Zondo Commission",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zondo Commission"
+              }
+            ]
+          },
+          "appointed2": {
+            "text": "President Jacob Zuma",
+            "links": [
+              {
+                "text": "President",
+                "type": "internal",
+                "page": "President of South Africa"
+              },
+              {
+                "type": "internal",
+                "page": "Jacob Zuma"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "21 August 2018"
+          },
+          "term_end2": {
+            "text": "1 January 2022"
+          },
+          "predecessor2": {
+            "text": "Commission established ",
+            "formatting": {
+              "italic": [
+                "Commission established "
+              ]
+            }
+          },
+          "successor2": {
+            "text": "Commission abolished ",
+            "formatting": {
+              "italic": [
+                "Commission abolished "
+              ]
+            }
+          },
+          "office7": {
+            "text": "Chancellor of the University of Zululand",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Zululand"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "April 2018"
+          },
+          "1namedata7": {
+            "text": "Xoliswa Mtose"
+          },
+          "1blankname7": {
+            "text": "Vice-Chancellor"
+          },
+          "predecessor7": {
+            "text": "Jacob Zuma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacob Zuma"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 4, 1960"
+          },
+          "birth_place": {
+            "text": "Ixopo, Natal, Union of South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ixopo"
+              },
+              {
+                "text": "Natal",
+                "type": "internal",
+                "page": "Natal Province"
+              },
+              {
+                "type": "internal",
+                "page": "Union of South Africa"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Raymond Mnyamezeli Mlungisi Zondo"
+          },
+          "citizenship": {
+            "text": "South Africa",
+            "links": [
+              {
+                "text": "South Africa",
+                "type": "internal",
+                "page": "South African citizenship"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "South African"
+          },
+          "children": {
+            "text": "8",
+            "number": 8
+          },
+          "residence": {
+            "text": "Johannesburg, South Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Johannesburg"
+              },
+              {
+                "type": "internal",
+                "page": "South Africa"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Zululand (BJuris) University of Natal (LLB) University of South Africa (LLM)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Zululand"
+              },
+              {
+                "text": "BJuris",
+                "type": "internal",
+                "page": "Legal education",
+                "anchor": "South Africa "
+              },
+              {
+                "type": "internal",
+                "page": "University of Natal"
+              },
+              {
+                "text": "LLB",
+                "type": "internal",
+                "page": "Bachelor of Laws",
+                "anchor": "South Africa "
+              },
+              {
+                "type": "internal",
+                "page": "University of South Africa"
+              },
+              {
+                "text": "LLM",
+                "type": "internal",
+                "page": "Master of Laws"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Judge\n\nattorney \n\nlaw clerk"
+          },
+          "profession": {
+            "text": "Lawyer"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Oelofse",
+          "first": "Louis",
+          "title": "South Africa's Ramaphosa appoints new Chief Justice {{!}} DW {{!}} 10.03.2022",
+          "url": "https://www.dw.com/en/south-africas-ramaphosa-appoints-new-chief-justice/a-61087784",
+          "access-date": "2022-03-10",
+          "website": "DW.COM",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zondo was educated at St Mary's Seminary in Ixopo, the University of Zululand and the University of Natal, where he completed his LLB. He was admitted as an attorney in 1989 and practised as a partner in Mathe & Zondo Inc. Judge Zondo received a Master of Laws in commercial law, a Master of Laws in labour law, and a Master of Laws in patent law at the University of South Africa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ixopo"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Zululand"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Natal"
+                },
+                {
+                  "text": "attorney",
+                  "type": "internal",
+                  "page": "attorney (South Africa)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Master of Laws"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of South Africa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Judicial career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1997 he was appointed a judge of the Labour Court, and in 1999 he was appointed to the Transvaal Provincial Division of the High Court (later the North Gauteng High Court, now the Gauteng Division).",
+              "links": [
+                {
+                  "text": "Labour Court",
+                  "type": "internal",
+                  "page": "Labour Court of South Africa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Transvaal Provincial Division"
+                },
+                {
+                  "text": "High Court",
+                  "type": "internal",
+                  "page": "High Court of South Africa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gauteng Division"
+                }
+              ]
+            },
+            {
+              "text": "In 2000 he was elevated to Judge President of the Labour Court, a post in which he served for ten years."
+            },
+            {
+              "text": "In 2010 he returned to the Pretoria High Court."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From November 2011 to May 2012, Zondo served as an acting judge of the Constitutional Court."
+            },
+            {
+              "text": "He was permanently appointed with effect from September 2012 and is now considered a key member, with Chris Jafta, of the Court's conservative wing.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chris Jafta"
+                }
+              ]
+            },
+            {
+              "text": "In June 2017, President Jacob Zuma appointed Zondo to the office of Deputy Chief Justice, succeeding Dikgang Moseneke who retired in 2016."
+            },
+            {
+              "text": "On 10 March 2022, President Cyril Ramaphosa appointed Zondo as the new Chief Justice of the Constitutional Court of South Africa, effective 1 April.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cyril Ramaphosa"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "first": "Mac",
+          "last": "Maharaj",
+          "author-link": "Mac Maharaj",
+          "title": "President Zuma appoints Ray Zondo to ConCourt",
+          "publisher": "The Presidency",
+          "date": "14 August 2012",
+          "url": "http://www.politicsweb.co.za/politicsweb/view/politicsweb/en/page71654?oid=318801&sn=Detail&pid=71654",
+          "access-date": "5 November 2012",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "url": "http://mg.co.za/article/2013-10-17-applause-for-mogoengs-judicial-cadenza",
+          "first": "Niren",
+          "last": "Tolsi",
+          "title": "Applause for Mogoeng's judicial cadenza",
+          "website": "Mail & Guardian",
+          "date": "18 October 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.thepresidency.gov.za/press-statements/president-zuma-appoints-justice-zondo-deputy-chief-justice-republic",
+          "title": "President Zuma appoints Justice Zondo as Deputy Chief Justice of the Republic",
+          "date": "7 June 2017",
+          "access-date": "7 June 2017",
+          "publisher": "The Presidency of the Republic of South Africa",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.news24.com/news24/southafrica/news/breaking-ramaphosa-appoints-zondo-as-chief-justice-20220310",
+          "first": "Jan",
+          "last": "Gerber",
+          "title": "Ramaphosa appoints Zondo as Chief Justice",
+          "website": "News24",
+          "date": "10 March 2022",
+          "access-date": "10 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "The Labour Court: The judges of the Labour Court",
+          "journal": "Consultus",
+          "publisher": "General Council of the Bar",
+          "date": "May 1998",
+          "volume": "11",
+          "number": "1",
+          "page": "27",
+          "url": "http://www.sabar.co.za/law-journals/1998/may/1998-may-vol011-no1-pp26-27.pdf",
+          "access-date": "5 November 2012",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "title": "New judges",
+          "journal": "Advocate",
+          "publisher": "General Council of the Bar",
+          "date": "2000",
+          "volume": "13",
+          "number": "2",
+          "page": "13",
+          "url": "http://www.sabar.co.za/law-journals/2000/secondterm/2000-secondterm-vol013-no2-pp12-13.pdf",
+          "access-date": "5 November 2012",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "title": "Raymond Zondo appointed as ConCourt judge",
+          "newspaper": "Mail & Guardian",
+          "date": "14 August 2012",
+          "agency": "SAPA",
+          "url": "http://mg.co.za/article/2012-08-14-raymond-zondo-appointed-as-concourt-judge",
+          "access-date": "5 November 2012",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Commission of Inquiry into State Capture",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shortly after taking office in 2018, Ramaphosa approved an inquiry into allegations of corruption during the previous Jacob Zuma government administration, stating that \"This is the year in which we will turn the tide of corruption in our public institutions\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jacob Zuma"
+                }
+              ]
+            },
+            {
+              "text": "Zondo was appointed as presiding judge for the Judicial Commission of Inquiry into Allegations of State Capture, Corruption and Fraud in the Public Sector including Organs of State, leading to its popular name, the Zondo Commission.",
+              "links": [
+                {
+                  "text": "Judicial Commission of Inquiry into Allegations of State Capture, Corruption and Fraud in the Public Sector including Organs of State",
+                  "type": "internal",
+                  "page": "Zondo Commission"
+                }
+              ]
+            },
+            {
+              "text": "Hearings began on 20 August 2018 and were expected to last for two years."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.sastatecapture.org.za/site/about/mandate",
+          "title": "Our Mandate",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.corruptionwatch.org.za/cw-urges-public-help-commission-fulfil-mandate/",
+          "title": "CW urges public to help commission fulfil mandate",
+          "date": "10 January 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.corruptionwatch.org.za/full-text-president-ramaphosas-maiden-sona/",
+          "title": "Full text: President Ramaphosa's maiden SoNA",
+          "date": "19 February 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.corruptionwatch.org.za/state-capture-commission-almost-running/",
+          "title": "State capture commission almost up and running",
+          "date": "28 May 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "constitutional court of south africa"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "southafrica-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

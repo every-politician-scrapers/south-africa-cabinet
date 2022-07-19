@@ -1,0 +1,226 @@
+{
+  "title": "Lawrence Mbatha",
+  "pageID": 44688734,
+  "categories": [
+    "Living people",
+    "South African Army generals",
+    "Year of birth missing (living people)",
+    "Graduates of the Joint Services Command and Staff College",
+    "UMkhonto we Sizwe personnel"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lieutenant General Lawrence Mbatha is the current Chief of the South African Army.",
+              "formatting": {
+                "bold": [
+                  "Lawrence Mbatha"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed to this position in April 2020, before being appointed Chief of the Army he was the General Officer Commanding of the South african National Defence Force training command and before that he was the 19th Commandant of the South African Military Academy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South African Military Academy"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "South Africa"
+          ],
+          "template": "army"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Lawrence Khulekani Mbatha"
+          },
+          "image": {
+            "text": "AFRICOM SANDF Accountability Colloquium 2020 (49612613168).jpg"
+          },
+          "birth_place": {
+            "text": "Kimberly, Northern Cape"
+          },
+          "allegiance": {
+            "text": "🇿🇦"
+          },
+          "rank": {
+            "text": "Lieutenant General"
+          },
+          "unit": {
+            "text": "3 SA Infantry Battalion"
+          },
+          "commands": {
+            "text": "Chief of the South African Army\n\nGOC South African National Defence Force Training Command\n\nCommandant SA Military Academy\n\nOC SA Army Gymnasium\n\nOC ASB Johannesburg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "South African Army"
+              },
+              {
+                "type": "internal",
+                "page": "Commandant"
+              },
+              {
+                "text": "SA Military Academy",
+                "type": "internal",
+                "page": "South African Military Academy"
+              },
+              {
+                "text": "OC",
+                "type": "internal",
+                "page": "Commanding officer"
+              },
+              {
+                "text": "OC",
+                "type": "internal",
+                "page": "Commanding officer"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Military career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He joined Umkhonto we Sizwe in 1984 and completed courses in Angola and Zimbabwe.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Umkhonto we Sizwe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He became part of the South African National Defence Force in 1994 when all the forces were integrated.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South African National Defence Force"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2003 he served as Officer Commanding of the Army Support Base in Johannesburg, followed by an appointment as Personal Staff Officer to the Chief of the Army (2007) before serving as Officer Commanding of the South African Army Gymnasium in 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South African Army Gymnasium"
+                }
+              ]
+            },
+            {
+              "text": "He became Commandant of the South African Military Academy in 2012-2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South African Military Academy"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.weslander.co.za/31553/news-details/academy-under-new-command",
+          "title": "ACADEMY UNDER NEW COMMAND",
+          "publisher": "Weslander",
+          "date": "August 20, 2012",
+          "accessdate": "December 12, 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-mil"
+        },
+        {
+          "before": "Thabiso Mokhosi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief of the Army",
+          "years": "2020-",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Gordon Yekelo",
+          "template": "s-bef"
+        },
+        {
+          "title": "GOC Training Command",
+          "years": "2017-2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Xolani Mankayi",
+          "template": "s-aft"
+        },
+        {
+          "before": "Lindile Yam",
+          "template": "s-bef"
+        },
+        {
+          "title": "Commandant of the Military Academy",
+          "years": "2012-2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Gerald Pharo",
+          "template": "s-aft"
+        },
+        {
+          "template": "current sa department of defence ministers"
+        },
+        {
+          "template": "southafrica-mil-bio-stub"
+        }
+      ]
+    }
+  ]
+}
