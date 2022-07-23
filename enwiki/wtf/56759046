@@ -223,7 +223,7 @@
             "text": "July 11, 1957"
           },
           "birth_place": {
-            "text": "Ga-Phaahla, Limpopo",
+            "text": "Ga-Phaahla, Transvaal, Union of South Africa",
             "links": [
               {
                 "text": "Ga-Phaahla",
@@ -231,8 +231,13 @@
                 "page": "Byldrift"
               },
               {
+                "text": "Transvaal",
                 "type": "internal",
-                "page": "Limpopo"
+                "page": "Transvaal Province"
+              },
+              {
+                "type": "internal",
+                "page": "Union of South Africa"
               }
             ]
           },

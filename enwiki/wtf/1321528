@@ -489,7 +489,7 @@
             "text": "January 27, 1949"
           },
           "birth_place": {
-            "text": "Natal, South Africa",
+            "text": "Natal, Union of South Africa",
             "links": [
               {
                 "text": "Natal",
@@ -497,7 +497,6 @@
                 "page": "Natal Province"
               },
               {
-                "text": "South Africa",
                 "type": "internal",
                 "page": "Union of South Africa"
               }

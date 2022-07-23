@@ -480,11 +480,16 @@
             "text": "May 10, 1954"
           },
           "birth_place": {
-            "text": "Johannesburg, Union of South Africa",
+            "text": "Johannesburg,Transvaal, Union of South Africa",
             "links": [
               {
                 "type": "internal",
                 "page": "Johannesburg"
+              },
+              {
+                "text": "Transvaal",
+                "type": "internal",
+                "page": "Transvaal Province"
               },
               {
                 "type": "internal",
