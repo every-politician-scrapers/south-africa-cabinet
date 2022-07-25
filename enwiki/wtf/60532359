@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Sihle Zikalala (born 6 August 1973) is a South African politician from KwaZulu-Natal who is the 8th and current Premier of KwaZulu-Natal as well as the Provincial Chairperson of the African National Congress (ANC).",
+              "text": "Sihle Zikalala (born 6 August 1973) is a South African politician from KwaZulu-Natal who is the 8th and current Premier of KwaZulu-Natal.",
               "links": [
                 {
                   "type": "internal",
@@ -28,10 +28,6 @@
                 {
                   "type": "internal",
                   "page": "Premier of KwaZulu-Natal"
-                },
-                {
-                  "type": "internal",
-                  "page": "African National Congress"
                 }
               ],
               "formatting": {
@@ -39,6 +35,15 @@
                   "Sihle Zikalala"
                 ]
               }
+            },
+            {
+              "text": "He served as the Provincial Chairperson of the African National Congress (ANC) from 2015 to 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "African National Congress"
+                }
+              ]
             },
             {
               "text": "He has held various leadership positions in the ANC."
@@ -173,7 +178,7 @@
             ]
           },
           "office2": {
-            "text": "Chairperson of the African National Congress in KwaZulu-Natal",
+            "text": "Provincial Chairperson of the African National Congress in KwaZulu-Natal",
             "links": [
               {
                 "type": "internal",
@@ -197,6 +202,9 @@
           "term_start2": {
             "text": "8 November 2015"
           },
+          "term_end2": {
+            "text": "23 July 2022"
+          },
           "predecessor2": {
             "text": "Senzo Mchunu",
             "links": [
@@ -205,6 +213,9 @@
                 "page": "Senzo Mchunu"
               }
             ]
+          },
+          "successor2": {
+            "text": "Siboniso Duma"
           },
           "office3": {
             "text": "Member of the KwaZulu-Natal Legislature",
@@ -736,6 +747,35 @@
               "text": "He vowed that it would never happen again - and that the tanker would be positioned at the local community hall for residents to retrieve water during the crisis."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 23 July 2022, Zikalala was defeated in the election for ANC provincial chairperson by MPL Siboniso Duma.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Siboniso Duma"
+                }
+              ]
+            },
+            {
+              "text": "He received only 665 votes to Duma's 930 votes."
+            },
+            {
+              "text": "Members of Zikalala's \"Ankole\" slate also lost to members of Duma's \"Taliban\" faction in the elections for other provincial leadership positions.",
+              "links": [
+                {
+                  "text": "slate",
+                  "type": "internal",
+                  "page": "Slate (elections)"
+                }
+              ]
+            },
+            {
+              "text": "After the election results were announced, the newly elected provincial chairperson Duma said that Zikalala will not be removed as premier anytime soon."
+            }
+          ]
         }
       ],
       "references": [
@@ -868,6 +908,49 @@
           "url": "https://www.timeslive.co.za/politics/2022-04-21-it-will-never-happen-again-sihle-zikalala-apologises-for-water-delivered-to-his-house/",
           "access-date": "2022-04-21",
           "website": "timeslive.co.za",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Mtshali",
+          "first": "Samkelo",
+          "title": "Chair Sihle Zikalala out, as Taliban faction makes a clean sweep of top five positions at ANC KZN conference",
+          "url": "https://www.iol.co.za/sunday-tribune/news/chair-sihle-zikalala-out-as-taliban-faction-makes-a-clean-sweep-of-top-five-positions-at-anc-kzn-conference-92081cbe-8952-4290-b0a5-f91950ccb742",
+          "access-date": "2022-07-24",
+          "website": "www.iol.co.za",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Mabaso",
+          "first": "Nhlanhla",
+          "title": "Siboniso Duma is the new chair of the ANC in KZN",
+          "url": "https://ewn.co.za/2022/07/24/siboniso-duma-unseats-sihle-zikalala",
+          "access-date": "2022-07-24",
+          "website": "ewn.co.za",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-07-24",
+          "title": "Clean sweep for ‘Taliban’ as Siboniso Duma becomes ANC KwaZulu-Natal chairperson",
+          "url": "https://mg.co.za/news/2022-07-24-clean-sweep-for-taliban-as-siboniso-duma-becomes-anc-kwazulu-natal-chairperson/",
+          "access-date": "2022-07-24",
+          "website": "The Mail & Guardian",
+          "language": "en-ZA",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Madia",
+          "first": "Tshidi",
+          "title": "Duma assures Zikalala that he won't be losing his job as premier anytime soon",
+          "url": "https://ewn.co.za/2022/07/24/duma-assures-zikalala-that-he-won-t-be-losing-his-job",
+          "access-date": "2022-07-24",
+          "website": "ewn.co.za",
           "language": "en",
           "template": "citation",
           "type": "web"

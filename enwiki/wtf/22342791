@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Bhekokwakhe \"Bheki\" Hamilton Cele (born 22 April 1952) has been the South African Minister of Police since February 2018.<ref name=\":1\"></ref.",
+              "text": "Bhekokwakhe \"Bheki\" Hamilton Cele (born 22 April 1952) has been the South African Minister of Police since February 2018.",
               "links": [
                 {
                   "text": "Minister of Police",
@@ -33,7 +33,7 @@
               }
             },
             {
-              "text": "He always seems very happy during those moments."
+              "text": ". He always seems very happy during those moments."
             },
             {
               "text": "During Covid-19 regulations in South Africa, he always jumped when the opportunity arose to have South Africans arrested for silly offenses like \"walking on the beach\" or \"not wearing masks \"."
@@ -304,7 +304,7 @@
           "website": "Daily Maverick",
           "language": "en",
           "template": "citation",
-          "type": "cite web"
+          "type": "web"
         }
       ]
     },
