@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "2009"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Economic Development (South Africa)"
+      ],
+      "stated_as": "Minister of Economic Development"
+    },
+    "P580": "2009-05-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ministry established"
+    },
+    "P582": "2019-05-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ministry abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Trade and Industry (South Africa)"
+      ],
+      "stated_as": "Minister of Trade, Industry and Competition"
+    },
+    "P580": "2019-05-29",
+    "P1365": {
+      "links": [
+        "Rob Davies (politician)"
+      ],
+      "stated_as": "Rob Davies"
+    }
+  }
+]

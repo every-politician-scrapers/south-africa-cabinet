@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "History of the African National Congress"
+      ],
+      "stated_as": "15th Secretary-General of the African National Congress"
+    },
+    "P580": "2007-12-18",
+    "P1365": {
+      "links": [
+        "Kgalema Motlanthe"
+      ],
+      "stated_as": "Kgalema Motlanthe"
+    },
+    "P582": "2017-12-18",
+    "P1366": {
+      "links": [
+        "Ace Magashule"
+      ],
+      "stated_as": "Ace Magashule"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "African National Congress"
+      ],
+      "stated_as": "National Chairperson of the African National Congress"
+    },
+    "P580": "2017-12-18",
+    "P1365": {
+      "links": [
+        "Baleka Mbete"
+      ],
+      "stated_as": "Baleka Mbete"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Mineral Resources (South Africa)"
+      ],
+      "stated_as": "Minister of Mineral Resources"
+    },
+    "P580": "2018-02-27",
+    "P1365": {
+      "links": [
+        "Mosebenzi Zwane"
+      ],
+      "stated_as": "Mosebenzi Zwane"
+    }
+  }
+]

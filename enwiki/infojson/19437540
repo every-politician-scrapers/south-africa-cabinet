@@ -1,0 +1,180 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "1994-04-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of South Africa"
+      ],
+      "stated_as": "Minister of Intelligence"
+    },
+    "P580": "2001-01-24",
+    "P1365": {
+      "links": [
+        "Joe Nhlanhla"
+      ],
+      "stated_as": "Joe Nhlanhla"
+    },
+    "P582": "2004-04-28",
+    "P1366": {
+      "links": [
+        "Ronnie Kasrils"
+      ],
+      "stated_as": "Ronnie Kasrils"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of South Africa"
+      ],
+      "stated_as": "Minister of Housing"
+    },
+    "P580": "2004-04-29",
+    "P1365": {
+      "links": [
+        "Rob Davies (South African minister)"
+      ],
+      "stated_as": "Rob Davies"
+    },
+    "P582": "2009-05-10",
+    "P1366": {
+      "links": [
+        "Tokyo Sexwale"
+      ],
+      "stated_as": "Tokyo Sexwale (Human Settlements)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence and Military Veterans"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2009-05-10",
+    "P1365": {
+      "links": [
+        "Charles Nqakula"
+      ],
+      "stated_as": "Charles Nqakula"
+    },
+    "P582": "2012-06-12",
+    "P1366": {
+      "links": [
+        "Nosiviwe Mapisa-Nqakula"
+      ],
+      "stated_as": "Nosiviwe Mapisa-Nqakula"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Public Service and Administration"
+      ],
+      "stated_as": "Minister of Public Service and Administration"
+    },
+    "P580": "2012-06-12",
+    "P1365": {
+      "links": [
+        "Roy Padayachie"
+      ],
+      "stated_as": "Roy Padayachie"
+    },
+    "P582": "2014-05-25",
+    "P1366": {
+      "links": [
+        "Collins Chabane"
+      ],
+      "stated_as": "Collins Chabane"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of South Africa"
+      ],
+      "stated_as": "Minister of Human Settlements"
+    },
+    "P580": "2014-05-26",
+    "P1365": {
+      "links": [
+        "Connie September"
+      ],
+      "stated_as": "Connie September"
+    },
+    "P582": "2018-02-26",
+    "P1366": {
+      "links": [
+        "Nomaindia Mfeketo"
+      ],
+      "stated_as": "Nomaindia Mfeketo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of International Relations and Cooperation"
+      ],
+      "stated_as": "Minister of International Relations and Cooperation"
+    },
+    "P580": "2018-02-27",
+    "P1365": {
+      "links": [
+        "Maite Nkoana-Mashabane"
+      ],
+      "stated_as": "Maite Nkoana-Mashabane"
+    },
+    "P582": "2019-05-29",
+    "P1366": {
+      "links": [
+        "Naledi Pandor"
+      ],
+      "stated_as": "Naledi Pandor"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Human Settlements, Water and Sanitation"
+      ],
+      "stated_as": "Minister of Human Settlements, Water and Sanitation"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position created"
+    },
+    "P582": "2021-08-05",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Tourism (South Africa)"
+      ],
+      "stated_as": "Minister of Tourism"
+    },
+    "P580": "2021-08-05",
+    "P1365": {
+      "links": [
+        "Mmamoloko Kubayi-Ngubane"
+      ],
+      "stated_as": "Mmamoloko Kubayi-Ngubane"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "Premier of Limpopo"
+      ],
+      "stated_as": "4th Premier of Limpopo"
+    },
+    "P580": "2013-07-18",
+    "P1365": {
+      "links": [
+        "Cassel Mathale"
+      ],
+      "stated_as": "Cassel Mathale"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "African National Congress"
+      ],
+      "stated_as": "Provincial Chairperson of the African National Congress"
+    },
+    "P580": "2014-02-16",
+    "P1365": {
+      "links": [
+        "Dickson Masemola"
+      ],
+      "stated_as": "Dickson Masemola"
+    }
+  }
+]

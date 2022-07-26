@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "African National Congress",
+        "KwaZulu-Natal"
+      ],
+      "stated_as": "Provincial Chairperson of the African National Congress in KwaZulu-Natal"
+    },
+    "P580": "2015-11-08",
+    "P1365": {
+      "links": [
+        "Senzo Mchunu"
+      ],
+      "stated_as": "Senzo Mchunu"
+    },
+    "P582": "2022-07-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Siboniso Duma"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "KwaZulu-Natal Legislature"
+      ],
+      "stated_as": "Member of the KwaZulu-Natal Legislature"
+    },
+    "P580": "2015-11-26"
+  },
+  {
+    "office": {
+      "links": [
+        "Executive Council (South Africa)"
+      ],
+      "stated_as": "KwaZulu-Natal MEC for Economic Development, Tourism and Environmental Affairs"
+    },
+    "P580": "2016-06-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mike Mabuyakhulu"
+    },
+    "P582": "2019-05-27",
+    "P1366": {
+      "links": [
+        "Nomusa Dube-Ncube"
+      ],
+      "stated_as": "Nomusa Dube-Ncube"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of KwaZulu-Natal"
+      ],
+      "stated_as": "8th Premier of KwaZulu-Natal"
+    },
+    "P580": "2019-05-27",
+    "P1365": {
+      "links": [
+        "Willies Mchunu"
+      ],
+      "stated_as": "Willies Mchunu"
+    }
+  }
+]

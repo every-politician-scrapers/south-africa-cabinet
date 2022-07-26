@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "South African Revenue Service"
+      ],
+      "stated_as": "Commissioner of the South African Revenue Service"
+    },
+    "P580": "1999",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2009",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Oupa Magashule"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (South Africa)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2009-05-11",
+    "P1365": {
+      "links": [
+        "Trevor Manuel"
+      ],
+      "stated_as": "Trevor Manuel"
+    },
+    "P582": "2014-05-25",
+    "P1366": {
+      "links": [
+        "Nhlanhla Nene"
+      ],
+      "stated_as": "Nhlanhla Nene"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Cooperative Governance and Traditional Affairs (South Africa)"
+      ],
+      "stated_as": "Minister of Cooperative Governance and Traditional Affairs"
+    },
+    "P580": "2014-05-25",
+    "P1365": {
+      "links": [
+        "Solomon Lechesa Tsenoli"
+      ],
+      "stated_as": "Solomon Lechesa Tsenoli"
+    },
+    "P582": "2015-12-14",
+    "P1366": {
+      "links": [
+        "David van Rooyen"
+      ],
+      "stated_as": "David van Rooyen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (South Africa)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2015-12-14",
+    "P1365": {
+      "links": [
+        "David van Rooyen"
+      ],
+      "stated_as": "David van Rooyen"
+    },
+    "P582": "2017-03-31",
+    "P1366": {
+      "links": [
+        "Malusi Gigaba"
+      ],
+      "stated_as": "Malusi Gigaba"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Public Enterprises"
+      ],
+      "stated_as": "Minister of Public Enterprises"
+    },
+    "P580": "2018-02-28",
+    "P1365": {
+      "links": [
+        "Lynne Brown"
+      ],
+      "stated_as": "Lynne Brown"
+    }
+  }
+]

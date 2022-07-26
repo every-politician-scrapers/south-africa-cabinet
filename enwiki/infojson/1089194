@@ -1,0 +1,122 @@
+[
+  {
+    "office": {
+      "links": [
+        "History of the African National Congress"
+      ],
+      "stated_as": "13th Secretary-General of the African National Congress"
+    },
+    "P580": "1991-03-01",
+    "P1365": {
+      "links": [
+        "Alfred Baphethuxolo Nzo"
+      ],
+      "stated_as": "Alfred Baphethuxolo Nzo"
+    },
+    "P582": "1997-12-18",
+    "P1366": {
+      "links": [
+        "Kgalema Motlanthe"
+      ],
+      "stated_as": "Kgalema Motlanthe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "History of the African National Congress"
+      ],
+      "stated_as": "9th Deputy President of the African National Congress"
+    },
+    "P580": "2012-12-18",
+    "P1365": {
+      "links": [
+        "Kgalema Motlanthe"
+      ],
+      "stated_as": "Kgalema Motlanthe"
+    },
+    "P582": "2017-12-18",
+    "P1366": {
+      "links": [
+        "David Mabuza"
+      ],
+      "stated_as": "David Mabuza"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy President of South Africa"
+      ],
+      "stated_as": "7th Deputy President of South Africa"
+    },
+    "P580": "2014-05-26",
+    "P1365": {
+      "links": [
+        "Kgalema Motlanthe"
+      ],
+      "stated_as": "Kgalema Motlanthe"
+    },
+    "P582": "2018-02-15",
+    "P1366": {
+      "links": [
+        "David Mabuza"
+      ],
+      "stated_as": "David Mabuza"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "History of the African National Congress"
+      ],
+      "stated_as": "14th President of the African National Congress"
+    },
+    "P580": "2017-12-18",
+    "P1365": {
+      "links": [
+        "Jacob Zuma"
+      ],
+      "stated_as": "Jacob Zuma"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of South Africa"
+    },
+    "P1545": "5",
+    "P580": "2018-02-15",
+    "P1365": {
+      "links": [
+        "Jacob Zuma"
+      ],
+      "stated_as": "Jacob Zuma"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chairperson of the African Union"
+    },
+    "P1545": "18",
+    "P580": "2020-02-10",
+    "P1365": {
+      "links": [
+        "Abdel Fattah el-Sisi"
+      ],
+      "stated_as": "Abdel Fattah el-Sisi"
+    },
+    "P582": "2021-02-06",
+    "P1366": {
+      "links": [
+        "Felix Tshisekedi"
+      ],
+      "stated_as": "Felix Tshisekedi"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Executive Council",
+        "Local Government",
+        "Housing",
+        "Limpopo"
+      ],
+      "stated_as": "Member of the Executive Council for Local Government and Housing of Limpopo"
+    },
+    "P580": "2004-09-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Thabo Nzima"
+    },
+    "P582": "2008-05-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Siyabonga Quintin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of International Relations and Cooperation"
+      ],
+      "stated_as": "Minister of International Relations and Cooperation"
+    },
+    "P580": "2009-05-10",
+    "P1365": {
+      "links": [
+        "Nkosazana Dlamini-Zuma"
+      ],
+      "stated_as": "Nkosazana Dlamini-Zuma (Foreign Affairs)"
+    },
+    "P582": "2018-02-26",
+    "P1366": {
+      "links": [
+        "Lindiwe Sisulu"
+      ],
+      "stated_as": "Lindiwe Sisulu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Rural Development and Land Reform"
+      ],
+      "stated_as": "Minister of Rural Development and Land Reform"
+    },
+    "P580": "2018-02-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Gugile Nkwinti"
+    },
+    "P582": "2019-05-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Post dissolved"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Women in the Presidency (South Africa)"
+      ],
+      "stated_as": "Minister of Women, Youth and Persons with Disabilities in the Presidency"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Bathabile Dlamini"
+      ],
+      "stated_as": "Bathabile Dlamini"
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly (South Africa)"
+      ],
+      "stated_as": "Member of the National Assembly"
+    },
+    "P580": "2019-05-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Small Business Development (South Africa)"
+      ],
+      "stated_as": "Minister of Small Business Development"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Lindiwe Zulu"
+      ],
+      "stated_as": "Lindiwe Zulu"
+    },
+    "P582": "2021-08-04",
+    "P1366": {
+      "links": [
+        "Stella Ndabeni-Abrahams"
+      ],
+      "stated_as": "Stella Ndabeni-Abrahams"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister in the Presidency (South Africa)"
+      ],
+      "stated_as": "Acting Minister in the Presidency"
+    },
+    "P580": "2021-01-28",
+    "P1365": {
+      "links": [
+        "Jackson Mthembu"
+      ],
+      "stated_as": "Jackson Mthembu"
+    },
+    "P582": "2021-08-05",
+    "P1366": {
+      "links": [
+        "Mondli Gungubele"
+      ],
+      "stated_as": "Mondli Gungubele"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Communications and Digital Technologies"
+      ],
+      "stated_as": "Minister of Communications and Digital Technologies"
+    },
+    "P580": "2021-08-05",
+    "P1365": {
+      "links": [
+        "Stella Ndabeni-Abrahams"
+      ],
+      "stated_as": "Stella Ndabeni-Abrahams"
+    }
+  }
+]

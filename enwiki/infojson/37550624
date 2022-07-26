@@ -1,0 +1,110 @@
+[
+  {
+    "office": {
+      "links": [
+        "Labour Court of South Africa"
+      ],
+      "stated_as": "Judge of the Labour Court of South Africa"
+    },
+    "P580": "1997-11",
+    "P582": "2000-05"
+  },
+  {
+    "office": {
+      "links": [
+        "North Gauteng High Court"
+      ],
+      "stated_as": "Judge of the North Gauteng High Court"
+    },
+    "P580": "1999-05",
+    "P582": "2012-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Labour Court of South Africa"
+      ],
+      "stated_as": "Judge President of the Labour Court of South Africa"
+    },
+    "P580": "2000-05",
+    "P582": "2010-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Constitutional Court of South Africa"
+      ],
+      "stated_as": "Judge of the Constitutional Court of South Africa"
+    },
+    "P580": "2012-09-01"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Chief Justice of South Africa"
+    },
+    "P1545": "5",
+    "P580": "2017-06-07",
+    "P1365": {
+      "links": [
+        "Dikgang Moseneke"
+      ],
+      "stated_as": "Dikgang Moseneke"
+    },
+    "P582": "2022-03-31"
+  },
+  {
+    "office": {
+      "links": [
+        "University of Zululand"
+      ],
+      "stated_as": "Chancellor of the University of Zululand"
+    },
+    "P580": "2018-04",
+    "P1365": {
+      "links": [
+        "Jacob Zuma"
+      ],
+      "stated_as": "Jacob Zuma"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Zondo Commission"
+      ],
+      "stated_as": "Chairperson of the Zondo Commission"
+    },
+    "P580": "2018-08-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Commission established "
+    },
+    "P582": "2022-01-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Commission abolished "
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Justice of South Africa"
+      ],
+      "stated_as": "22nd Chief Justice of South Africa"
+    },
+    "P580": "2022-04-01",
+    "P1365": {
+      "links": [
+        "Mogoeng Mogoeng"
+      ],
+      "stated_as": "Mogoeng Mogoeng"
+    }
+  }
+]

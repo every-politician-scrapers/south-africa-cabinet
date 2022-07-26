@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "North West Provincial Legislature"
+      ],
+      "stated_as": "Member of the North West Provincial Legislature"
+    },
+    "P580": "2021-09-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Job Mokgoro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of the North West"
+      ],
+      "stated_as": "7th Premier of the North West"
+    },
+    "P580": "2021-09-07",
+    "P1365": {
+      "links": [
+        "Motlalepula Rosho",
+        "Job Mokgoro"
+      ],
+      "stated_as": "Motlalepula Rosho (acting)\nJob Mokgoro"
+    }
+  }
+]

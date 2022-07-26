@@ -1,0 +1,136 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "2009-05-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Energy (South Africa)"
+      ],
+      "stated_as": "Minister of Energy"
+    },
+    "P580": "2017-03-31",
+    "P1365": {
+      "links": [
+        "Tina Joemat-Pettersson"
+      ],
+      "stated_as": "Tina Joemat-Pettersson"
+    },
+    "P582": "2017-10-17",
+    "P1366": {
+      "links": [
+        "David Mahlobo"
+      ],
+      "stated_as": "David Mahlobo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Communications (South Africa)"
+      ],
+      "stated_as": "Minister of Communications"
+    },
+    "P580": "2017-10-17",
+    "P1365": {
+      "links": [
+        "Ayanda Dlodlo"
+      ],
+      "stated_as": "Ayanda Dlodlo"
+    },
+    "P582": "2018-02-26",
+    "P1366": {
+      "links": [
+        "Nomvula Mokonyane"
+      ],
+      "stated_as": "Nomvula Mokonyane"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Science and Technology (South Africa)"
+      ],
+      "stated_as": "Minister of Science and Technology"
+    },
+    "P580": "2018-02-27",
+    "P1365": {
+      "links": [
+        "Naledi Pandor"
+      ],
+      "stated_as": "Naledi Pandor"
+    },
+    "P582": "2019-05-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position dissolved"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Tourism (South Africa)"
+      ],
+      "stated_as": "Minister of Tourism"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Derek Hanekom"
+      ],
+      "stated_as": "Derek Hanekom"
+    },
+    "P582": "2021-08-05",
+    "P1366": {
+      "links": [
+        "Lindiwe Sisulu"
+      ],
+      "stated_as": "Lindiwe Sisulu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Health (South Africa)"
+      ],
+      "stated_as": "Acting Minister of Health"
+    },
+    "P580": "2021-06-09",
+    "P1365": {
+      "links": [
+        "Zweli Mkhize"
+      ],
+      "stated_as": "Zweli Mkhize"
+    },
+    "P582": "2021-08-05",
+    "P1366": {
+      "links": [
+        "Joe Phaahla"
+      ],
+      "stated_as": "Joe Phaahla"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Human Settlements, Water and Sanitation"
+      ],
+      "stated_as": "Minister of Human Settlements"
+    },
+    "P580": "2021-08-05",
+    "P1365": {
+      "links": [
+        "Lindiwe Sisulu"
+      ],
+      "stated_as": "Lindiwe Sisulu\n(Minister of Human Settlements, Water and Sanitation)"
+    }
+  }
+]

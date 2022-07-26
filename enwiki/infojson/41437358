@@ -1,0 +1,78 @@
+[
+  {
+    "office": {
+      "links": [
+        "Premier of Mpumalanga"
+      ],
+      "stated_as": "4th Premier of Mpumalanga"
+    },
+    "P580": "2009-05-06",
+    "P1365": {
+      "links": [
+        "Thabang Makwetla"
+      ],
+      "stated_as": "Thabang Makwetla"
+    },
+    "P582": "2018-02-26",
+    "P1366": {
+      "links": [
+        "Refilwe Mtsweni-Tsipane"
+      ],
+      "stated_as": "Refilwe Mtsweni-Tsipane"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "History of the African National Congress"
+      ],
+      "stated_as": "10th Deputy President of the African National Congress"
+    },
+    "P580": "2017-12-18",
+    "P1365": {
+      "links": [
+        "Cyril Ramaphosa"
+      ],
+      "stated_as": "Cyril Ramaphosa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy President of South Africa"
+      ],
+      "stated_as": "8th Deputy President of South Africa"
+    },
+    "P580": "2018-02-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Cyril Ramaphosa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "2018-02-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of South Africa"
+      ],
+      "stated_as": "Leader of Government Business in the\nParliament of South Africa"
+    },
+    "P580": "2018-09-27",
+    "P1365": {
+      "links": [
+        "Cyril Ramaphosa"
+      ],
+      "stated_as": "Cyril Ramaphosa"
+    }
+  }
+]

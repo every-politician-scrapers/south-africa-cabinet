@@ -1,0 +1,128 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Health (South Africa)"
+      ],
+      "stated_as": "21st Minister of Health"
+    },
+    "P580": "1994-05-10",
+    "P1365": {
+      "links": [
+        "Rina Venter"
+      ],
+      "stated_as": "Rina Venter"
+    },
+    "P582": "1999-06-14",
+    "P1366": {
+      "links": [
+        "Manto Tshabalala-Msimang"
+      ],
+      "stated_as": "Manto Tshabalala-Msimang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of International Relations and Cooperation"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "1999-06-14",
+    "P1365": {
+      "links": [
+        "Alfred Baphethuxolo Nzo"
+      ],
+      "stated_as": "Alfred Nzo"
+    },
+    "P582": "2009-05-10",
+    "P1366": {
+      "links": [
+        "Maite Nkoana-Mashabane"
+      ],
+      "stated_as": "Maite Nkoana-Mashabane (International Relations and Cooperation)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Home Affairs (South Africa)"
+      ],
+      "stated_as": "Minister of Home Affairs"
+    },
+    "P580": "2009-05-10",
+    "P1365": {
+      "links": [
+        "Nosiviwe Mapisa-Nqakula"
+      ],
+      "stated_as": "Nosiviwe Mapisa-Nqakula"
+    },
+    "P582": "2012-10-03",
+    "P1366": {
+      "links": [
+        "Naledi Pandor"
+      ],
+      "stated_as": "Naledi Pandor"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chairperson of the African Union Commission"
+    },
+    "P1545": "3",
+    "P580": "2012-10-15",
+    "P1365": {
+      "links": [
+        "Jean Ping"
+      ],
+      "stated_as": "Jean Ping"
+    },
+    "P582": "2017-01-30",
+    "P1366": {
+      "links": [
+        "Moussa Faki"
+      ],
+      "stated_as": "Moussa Faki"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister in the Presidency (South Africa)"
+      ],
+      "stated_as": "Minister in the Presidency National Planning Commission of South Africa"
+    },
+    "P580": "2018-02-28",
+    "P1365": {
+      "links": [
+        "Jeff Radebe"
+      ],
+      "stated_as": "Jeff Radebe"
+    },
+    "P582": "2019-05-29",
+    "P1366": {
+      "links": [
+        "Jackson Mthembu"
+      ],
+      "stated_as": "Jackson Mthembu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Cooperative Governance and Traditional Affairs"
+      ],
+      "stated_as": "Minister of Cooperative Governance and Traditional Affairs"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Zweli Mkhize"
+      ],
+      "stated_as": "Zweli Mkhize"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Premier of KwaZulu-Natal"
+    },
+    "P1545": "6",
+    "P580": "2013-08-22",
+    "P1365": {
+      "links": [
+        "Zweli Mkhize"
+      ],
+      "stated_as": "Zweli Mkhize"
+    },
+    "P582": "2016-05-23",
+    "P1366": {
+      "links": [
+        "Willies Mchunu"
+      ],
+      "stated_as": "Willies Mchunu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Public Service and Administration (South Africa)"
+      ],
+      "stated_as": "Minister of Public Service and Administration"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Ayanda Dlodlo"
+      ],
+      "stated_as": "Ayanda Dlodlo"
+    },
+    "P582": "2021-08-05",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ayanda Dlodlo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Water and Sanitation (South Africa)"
+      ],
+      "stated_as": "Minister of Water and Sanitation"
+    },
+    "P580": "2021-08-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office recreated"
+    }
+  }
+]

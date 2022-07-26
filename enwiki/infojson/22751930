@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "2009-05-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Basic Education"
+      ],
+      "stated_as": "Minister of Basic Education"
+    },
+    "P580": "2009-05-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Post established"
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "South African Police Service"
+      ],
+      "stated_as": "National Commissioner of the South African Police Service"
+    },
+    "P580": "2009-07",
+    "P1365": {
+      "links": [
+        "Jackie Selebi"
+      ],
+      "stated_as": "Jackie Selebi"
+    },
+    "P582": "2011-10",
+    "P1366": {
+      "links": [
+        "Riah Phiyega"
+      ],
+      "stated_as": "Riah Phiyega"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Agriculture, Forestry and Fisheries (South Africa)"
+      ],
+      "stated_as": "Deputy Minister of Agriculture, Forestry and Fisheries"
+    },
+    "P580": "2014-05-26",
+    "P582": "2018-02-24"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Police (South Africa)"
+      ],
+      "stated_as": "Minister of Police"
+    },
+    "P580": "2018-02-26",
+    "P1365": {
+      "links": [
+        "Fikile Mbalula"
+      ],
+      "stated_as": "Fikile Mbalula"
+    }
+  }
+]

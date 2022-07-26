@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Small Business Development (South Africa)"
+      ],
+      "stated_as": "Minister of Small Business Development"
+    },
+    "P580": "2014-05-25",
+    "P582": "2019-05-29",
+    "P1366": {
+      "links": [
+        "Khumbudzo Ntshavheni"
+      ],
+      "stated_as": "Khumbudzo Ntshavheni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "2019-05-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Social Development (South Africa)"
+      ],
+      "stated_as": "Minister of Social Development"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Susan Shabangu"
+      ],
+      "stated_as": "Susan Shabangu"
+    }
+  }
+]

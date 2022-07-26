@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "Department of Communications (South Africa)"
+      ],
+      "stated_as": "Deputy Minister of Communications"
+    },
+    "P580": "2011-10-23",
+    "P582": "2017-03-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Thandi Mahambehlala"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Telecommunications and Postal Services"
+      ],
+      "stated_as": "Deputy Minister of Telecommunications and Postal Services"
+    },
+    "P580": "2017-03-31",
+    "P1365": {
+      "links": [
+        "Hlengiwe Mkhize"
+      ],
+      "stated_as": "Hlengiwe Mkhize"
+    },
+    "P582": "2018-11-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Communications (South Africa)"
+      ],
+      "stated_as": "Minister of Communications and Digital Technologies"
+    },
+    "P580": "2018-11-22",
+    "P1365": {
+      "links": [
+        "Siyabonga Cwele",
+        "Nomvula Mokonyane"
+      ],
+      "stated_as": "Siyabonga Cwele\n(as Minister of Telecommunications & Postal Services), \n\nNomvula Mokonyane\n(as Minister of Communications)"
+    },
+    "P582": "2021-08-05",
+    "P1366": {
+      "links": [
+        "Khumbudzo Ntshavheni"
+      ],
+      "stated_as": "Khumbudzo Ntshavheni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Small Business Development"
+      ],
+      "stated_as": "Minister of Small Business Development"
+    },
+    "P580": "2021-08-05",
+    "P1365": {
+      "links": [
+        "Khumbudzo Ntshavheni"
+      ],
+      "stated_as": "Khumbudzo Ntshavheni"
+    }
+  }
+]

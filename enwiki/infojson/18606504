@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Sport and Recreation (South Africa)"
+      ],
+      "stated_as": "Minister of Sport and Recreation"
+    },
+    "P580": "2010-11-01",
+    "P1365": {
+      "links": [
+        "Makhenkesi Stofile"
+      ],
+      "stated_as": "Makhenkesi Stofile"
+    },
+    "P582": "2017-03-31",
+    "P1366": {
+      "links": [
+        "Thembelani Nxesi"
+      ],
+      "stated_as": "Thembelani Nxesi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Police (South Africa)"
+      ],
+      "stated_as": "Minister of Police"
+    },
+    "P580": "2017-03-31",
+    "P1365": {
+      "links": [
+        "Nkosinathi Nhleko"
+      ],
+      "stated_as": "Nkosinathi Nhleko"
+    },
+    "P582": "2018-02-26",
+    "P1366": {
+      "links": [
+        "Bheki Cele"
+      ],
+      "stated_as": "Bheki Cele"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Transport (South Africa)"
+      ],
+      "stated_as": "Minister of Transport"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Blade Nzimande"
+      ],
+      "stated_as": "Blade Nzimande"
+    }
+  }
+]

@@ -1,45 +1,45 @@
-pageid,title
-616607,Patricia de Lille
-1089194,Cyril Ramaphosa
-1321528,Nkosazana Dlamini-Zuma
-4635970,Naledi Pandor
-4659487,Thoko Didiza
-8106151,Nosiviwe Mapisa-Nqakula
-12167855,Blade Nzimande
-14795503,Gwede Mantashe
-18606504,Fikile Mbalula
-19437540,Lindiwe Sisulu
-19485812,Nathi Mthethwa
-22342791,Bheki Cele
-22751930,Angie Motshekga
-22752020,Pravin Gordhan
-22752324,Ebrahim Patel
-22752678,Aaron Motsoaledi
-22756225,Maite Nkoana-Mashabane
-37550624,Ray Zondo
-41437358,David Mabuza
-41552408,Thulas Nxesi
-42378934,Senzo Mchunu
-43124485,Thandi Modise
-44290392,Lesetja Kganyago
-44688734,Lawrence Mbatha
-47537382,Lindiwe Zulu
-48738484,David Makhura
-52020713,Stanley Mathabatha
-52583835,Stella Ndabeni-Abrahams
-53079758,Alan Winde
-53349531,Barbara Masekela
-56746584,Refilwe Mtsweni-Tsipane
-56759032,Mondli Gungubele
-56759046,Joe Phaahla
-57182596,Sisi Ntombela
-60532359,Sihle Zikalala
-60553323,Zamani Saul
-60763171,Oscar Mabuyane
-60899700,Barbara Creecy
-61023819,Ronald Lamola
-61167147,Khumbudzo Ntshavheni
-61547248,Mmamoloko Kubayi
-64200929,Rudzani Maphwanya
-68410668,Enoch Godongwana
-68500138,Bushy Maape
+pageid,title,wikidata,label
+616607,Patricia de Lille,Q445654,Patricia de Lille
+1089194,Cyril Ramaphosa,Q1148669,Matamela Cyril Ramaphosa
+1321528,Nkosazana Dlamini-Zuma,Q150276,Nkosazana Dlamini-Zuma
+4635970,Naledi Pandor,Q11043304,Naledi Pandor
+4659487,Thoko Didiza,Q7786663,Thoko Didiza
+8106151,Nosiviwe Mapisa-Nqakula,Q510746,Nosiviwe Mapisa-Nqakula
+12167855,Blade Nzimande,Q16765311,Blade Nzimande
+14795503,Gwede Mantashe,Q975366,Gwede Mantashe
+18606504,Fikile Mbalula,Q1412305,Fikile Mbalula
+19437540,Lindiwe Sisulu,Q3241428,Lindiwe Sisulu
+19485812,Nathi Mthethwa,Q1966829,Nathi Mthethwa
+22342791,Bheki Cele,Q4901661,Bheki Cele
+22751930,Angie Motshekga,Q4763221,Angie Motshekga
+22752020,Pravin Gordhan,Q561279,Pravin Gordhan
+22752324,Ebrahim Patel,Q5331984,Ebrahim Patel
+22752678,Aaron Motsoaledi,Q302359,Aaron Motsoaledi
+22756225,Maite Nkoana-Mashabane,Q58160,Maite Nkoana-Mashabane
+37550624,Ray Zondo,Q7299252,Raymond Zondo
+41437358,David Mabuza,Q1174142,David Mabuza
+41552408,Thulas Nxesi,Q16193273,Thulas Nxesi
+42378934,Senzo Mchunu,Q16192838,Senzo Mchunu
+43124485,Thandi Modise,Q1625605,Thandi Modise
+44290392,Lesetja Kganyago,Q19666670,Lesetja Kganyago
+44688734,Lawrence Mbatha,Q19561169,Lawrence Mbatha
+47537382,Lindiwe Zulu,Q20982109,Lindiwe Zulu
+48738484,David Makhura,Q22279007,David Makhura
+52020713,Stanley Mathabatha,Q27663072,Stanley Mathabatha
+52583835,Stella Ndabeni-Abrahams,Q28086074,Stella Ndabeni-Abrahams
+53079758,Alan Winde,Q28839658,Alan Winde
+53349531,Barbara Masekela,Q28861576,Barbara Masekela
+56746584,Refilwe Mtsweni-Tsipane,Q52707425,Refilwe Mtsweni
+56759032,Mondli Gungubele,Q16746664,Mondli Gungubele
+56759046,Joe Phaahla,Q47530048,Joseph Phaahla
+57182596,Sisi Ntombela,Q52151613,Sisi Ntombela
+60532359,Sihle Zikalala,Q63220969,Sihle Zikalala
+60553323,Zamani Saul,Q63248078,Zamani Saul
+60763171,Oscar Mabuyane,Q64009897,Oscar Mabuyane
+60899700,Barbara Creecy,Q64711336,Barbara Creecy
+61023819,Ronald Lamola,Q1718291,Ronald Lamola
+61167147,Khumbudzo Ntshavheni,Q64399456,Khumbudzo Ntshavheni
+61547248,Mmamoloko Kubayi,Q16746680,Mmamoloko Kubayi
+64200929,Rudzani Maphwanya,Q96106331,Rudzani Maphwanya
+68410668,Enoch Godongwana,Q16746658,Enoch Godongwana
+68500138,Bushy Maape,Q108129401,Bushy Maape

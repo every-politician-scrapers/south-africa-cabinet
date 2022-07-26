@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "African National Congress Youth League"
+      ],
+      "stated_as": "Deputy President of the African National Congress Youth League"
+    },
+    "P580": "2011-06",
+    "P1365": {
+      "links": [
+        "Andile Lungisa"
+      ],
+      "stated_as": "Andile Lungisa"
+    },
+    "P582": "2012-04",
+    "P1366": {
+      "links": [
+        "Desmond Moela"
+      ],
+      "stated_as": "Desmond Moela"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "2019-05-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice and Correctional Services"
+      ],
+      "stated_as": "Minister of Justice and Correctional Services"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Michael Masutha"
+      ],
+      "stated_as": "Michael Masutha"
+    }
+  }
+]

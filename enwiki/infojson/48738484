@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Premier of Gauteng"
+      ],
+      "stated_as": "6th Premier of Gauteng"
+    },
+    "P580": "2014-05-21",
+    "P1365": {
+      "links": [
+        "Nomvula Mokonyane"
+      ],
+      "stated_as": "Nomvula Mokonyane"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Gauteng Provincial Legislature"
+      ],
+      "stated_as": "Member of the Gauteng Provincial Legislature"
+    },
+    "P580": "2014-05-21"
+  }
+]

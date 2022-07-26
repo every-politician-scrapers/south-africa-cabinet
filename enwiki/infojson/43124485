@@ -1,0 +1,135 @@
+[
+  {
+    "office": {
+      "links": [
+        "African National Congress"
+      ],
+      "stated_as": "Deputy Secretary-General of the African National Congress"
+    },
+    "P580": "2007-12-16",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sankie Mthembi-Mahanyele"
+    },
+    "P582": "2012-12",
+    "P1366": {
+      "links": [
+        "Jessie Duarte"
+      ],
+      "stated_as": "Jessie Duarte"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "North West Provincial Legislature"
+      ],
+      "stated_as": "Member of the North West Provincial Legislature"
+    },
+    "P580": "2010-11-19",
+    "P582": "2014-05-20"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Premier of North West"
+    },
+    "P1545": "4",
+    "P580": "2010-11-19",
+    "P1365": {
+      "links": [
+        "Maureen Modiselle"
+      ],
+      "stated_as": "Maureen Modiselle"
+    },
+    "P582": "2014-05-20",
+    "P1366": {
+      "links": [
+        "Supra Mahumapelo"
+      ],
+      "stated_as": "Supra Mahumapelo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairperson of the National Council of Provinces"
+      ],
+      "stated_as": "5th Chairperson of the National Council of Provinces"
+    },
+    "P580": "2014-05-21",
+    "P1365": {
+      "links": [
+        "M. J. Mahlangu"
+      ],
+      "stated_as": "M. J. Mahlangu"
+    },
+    "P582": "2019-05-22",
+    "P1366": {
+      "links": [
+        "Amos Masondo"
+      ],
+      "stated_as": "Amos Masondo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Council of Provinces"
+      ],
+      "stated_as": "Delegate to the National Council of Provinces"
+    },
+    "P580": "2014-05-22",
+    "P582": "2019-05-07"
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the National Assembly of South Africa"
+      ],
+      "stated_as": "6th Speaker of the National Assembly of South Africa"
+    },
+    "P580": "2019-05-22",
+    "P1365": {
+      "links": [
+        "Baleka Mbete"
+      ],
+      "stated_as": "Baleka Mbete"
+    },
+    "P582": "2021-08-05",
+    "P1366": {
+      "links": [
+        "Nosiviwe Mapisa-Nqakula"
+      ],
+      "stated_as": "Nosiviwe Mapisa-Nqakula"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "2019-05-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence and Military Veterans"
+      ],
+      "stated_as": "Minister of Defence and Military Veterans"
+    },
+    "P580": "2021-08-06",
+    "P1365": {
+      "links": [
+        "Nosiviwe Mapisa-Nqakula"
+      ],
+      "stated_as": "Nosiviwe Mapisa-Nqakula"
+    }
+  }
+]
