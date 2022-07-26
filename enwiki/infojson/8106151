@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Home Affairs (South Africa)"
+      ],
+      "stated_as": "Minister of Home Affairs"
+    },
+    "P580": "2004-04-29",
+    "P1365": {
+      "links": [
+        "Mangosuthu Buthelezi"
+      ],
+      "stated_as": "Mangosuthu Buthelezi"
+    },
+    "P582": "2009-05-10",
+    "P1366": {
+      "links": [
+        "Nkosazana Dlamini-Zuma"
+      ],
+      "stated_as": "Nkosazana Dlamini-Zuma"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Correctional Services (South Africa)"
+      ],
+      "stated_as": "Minister of Correctional Services"
+    },
+    "P580": "2009-05-11",
+    "P1365": {
+      "links": [
+        "Ngconde Balfour"
+      ],
+      "stated_as": "Ngconde Balfour"
+    },
+    "P582": "2012-06-12",
+    "P1366": {
+      "links": [
+        "S'bu Ndebele"
+      ],
+      "stated_as": "S'bu Ndebele"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence and Military Veterans"
+      ],
+      "stated_as": "Minister of Defence and Military Veterans"
+    },
+    "P580": "2012-06-12",
+    "P1365": {
+      "links": [
+        "Lindiwe Sisulu"
+      ],
+      "stated_as": "Lindiwe Sisulu"
+    },
+    "P582": "2021-08-05",
+    "P1366": {
+      "links": [
+        "Thandi Modise"
+      ],
+      "stated_as": "Thandi Modise"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the National Assembly of South Africa"
+      ],
+      "stated_as": "7th Speaker of the National Assembly of South Africa"
+    },
+    "P580": "2021-08-19",
+    "P1365": {
+      "links": [
+        "Thandi Modise"
+      ],
+      "stated_as": "Thandi Modise"
+    }
+  }
+]

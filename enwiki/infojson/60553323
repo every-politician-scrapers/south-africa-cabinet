@@ -1,0 +1,86 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Secretary of the African National Congress in the Northern Cape"
+    },
+    "P580": "2004-03",
+    "P1365": {
+      "links": [
+        "John Block (South African politician)"
+      ],
+      "stated_as": "John Block"
+    },
+    "P582": "2008-08-29",
+    "P1366": {
+      "links": [
+        "Alvin Botes"
+      ],
+      "stated_as": "Alvin Botes"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Secretary of the African National Congress in the Northern Cape"
+    },
+    "P580": "2008-08-29",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Neville Mompati"
+    },
+    "P582": "2017-05-12",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Deshi Ngxanga"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "African National Congress",
+        "Northern Cape"
+      ],
+      "stated_as": "Chairperson of the African National Congress in the Northern Cape"
+    },
+    "P580": "2017-05-12",
+    "P1365": {
+      "links": [
+        "John Block (South African politician)"
+      ],
+      "stated_as": "John Block"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of the Northern Cape"
+      ],
+      "stated_as": "5th Premier of the Northern Cape"
+    },
+    "P580": "2019-05-22",
+    "P1365": {
+      "links": [
+        "Sylvia Lucas"
+      ],
+      "stated_as": "Sylvia Lucas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Northern Cape Provincial Legislature"
+      ],
+      "stated_as": "Member of the Northern Cape Provincial Legislature"
+    },
+    "P580": "2019-05-22"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Agriculture and Land Affairs"
+      ],
+      "stated_as": "Minister of Agriculture and Land Affairs"
+    },
+    "P580": "1999-06-17",
+    "P1365": {
+      "links": [
+        "Derek Hanekom"
+      ],
+      "stated_as": "Derek Hanekom"
+    },
+    "P582": "2006-05-22",
+    "P1366": {
+      "links": [
+        "Lulama Xingwana"
+      ],
+      "stated_as": "Lulama Xingwana"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Public Works"
+      ],
+      "stated_as": "Minister of Public Works"
+    },
+    "P580": "2006-05-22",
+    "P1365": {
+      "links": [
+        "Stella Sigcau"
+      ],
+      "stated_as": "Stella Sigcau"
+    },
+    "P582": "2008-09-25",
+    "P1366": {
+      "links": [
+        "Geoff Doidge"
+      ],
+      "stated_as": "Geoff Doidge"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Agriculture, Land Reform and Rural Development"
+      ],
+      "stated_as": "Minister of Agriculture, Land Reform and Rural Development"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Portfolio renamed"
+    }
+  }
+]

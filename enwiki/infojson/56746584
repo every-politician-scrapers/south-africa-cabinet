@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mpumalanga Provincial Legislature"
+      ],
+      "stated_as": "Member of the Mpumalanga Provincial Legislature"
+    },
+    "P580": "2014-05-21"
+  },
+  {
+    "office": {
+      "links": [
+        "Executive Council (South Africa)"
+      ],
+      "stated_as": "Mpumalanga MEC for Co-operative Governance and Traditional Affairs"
+    },
+    "P580": "2014-05-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Piet Simon Skhosana"
+    },
+    "P582": "2018-02-27",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Speedy Mashilo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of Mpumalanga"
+      ],
+      "stated_as": "5th Premier of Mpumalanga"
+    },
+    "P580": "2018-03-20",
+    "P1365": {
+      "links": [
+        "David Mabuza"
+      ],
+      "stated_as": "David Mabuza"
+    }
+  }
+]

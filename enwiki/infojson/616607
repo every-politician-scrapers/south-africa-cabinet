@@ -1,0 +1,151 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "1994-05-10",
+    "P582": "2010-09-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Independent Democrats"
+      ],
+      "stated_as": "Leader of the Independent Democrats"
+    },
+    "P580": "2003-06-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Party founded"
+    },
+    "P582": "2014-05-21",
+    "P1366": {
+      "links": [
+        "Democratic Alliance (South Africa)"
+      ],
+      "stated_as": "''Party merged into\nDemocratic Alliance''"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Western Cape Provincial Parliament"
+      ],
+      "stated_as": "Member of the Western Cape Provincial Parliament"
+    },
+    "P580": "2010-09-22",
+    "P582": "2011-05-31"
+  },
+  {
+    "office": {
+      "links": [
+        "Government of the Western Cape"
+      ],
+      "stated_as": "Western Cape Provincial Minister of Social Development"
+    },
+    "P580": "2010-09-22",
+    "P1365": {
+      "links": [
+        "Ivan Meyer"
+      ],
+      "stated_as": "Ivan Meyer"
+    },
+    "P582": "2011-05-31",
+    "P1366": {
+      "links": [
+        "Albert Fritz"
+      ],
+      "stated_as": "Albert Fritz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Cape Town"
+      ],
+      "stated_as": "Mayor of Cape Town"
+    },
+    "P580": "2011-06-01",
+    "P1365": {
+      "links": [
+        "Dan Plato"
+      ],
+      "stated_as": "Dan Plato"
+    },
+    "P582": "2018-10-31",
+    "P1366": {
+      "links": [
+        "Ian Neilson",
+        "Dan Plato"
+      ],
+      "stated_as": "Ian Neilson (Acting)\nDan Plato"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Democratic Alliance (South Africa)",
+        "Western Cape"
+      ],
+      "stated_as": "Provincial Leader of the Democratic Alliance in the Western Cape"
+    },
+    "P580": "2015-04-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ivan Meyer"
+    },
+    "P582": "2017-02-01",
+    "P1366": {
+      "links": [
+        "Bonginkosi Madikizela"
+      ],
+      "stated_as": "Bonginkosi Madikizela"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Good (political party)"
+      ],
+      "stated_as": "Leader of Good"
+    },
+    "P580": "2018-12-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Party founded"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "2019-05-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Public Works and Infrastructure (South Africa)"
+      ],
+      "stated_as": "Minister of Public Works and Infrastructure"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

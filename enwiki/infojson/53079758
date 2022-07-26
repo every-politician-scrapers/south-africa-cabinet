@@ -1,0 +1,92 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Western Cape Provincial Parliament"
+      ],
+      "stated_as": "Member of the Western Cape Provincial Parliament"
+    },
+    "P580": "1999-06-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Western Cape Department of Economic Development and Tourism"
+      ],
+      "stated_as": "Western Cape Provincial Minister of Finance, Economic Development and Tourism"
+    },
+    "P580": "2009-05-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Garth Strachan"
+    },
+    "P582": "2014-05-26",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position dissolved"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Western Cape Department of Economic Development and Tourism"
+      ],
+      "stated_as": "Western Cape Provincial Minister of Economic Opportunities"
+    },
+    "P580": "2014-05-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2018-11-01",
+    "P1366": {
+      "links": [
+        "Beverley Schäfer"
+      ],
+      "stated_as": "Beverley Schäfer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Western Cape Department of Community Safety"
+      ],
+      "stated_as": "Western Cape Provincial Minister of Community Safety"
+    },
+    "P580": "2018-11-01",
+    "P1365": {
+      "links": [
+        "Dan Plato"
+      ],
+      "stated_as": "Dan Plato"
+    },
+    "P582": "2019-05-22",
+    "P1366": {
+      "links": [
+        "Albert Fritz"
+      ],
+      "stated_as": "Albert Fritz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of the Western Cape"
+      ],
+      "stated_as": "8th Premier of the Western Cape"
+    },
+    "P580": "2019-05-22",
+    "P1365": {
+      "links": [
+        "Helen Zille"
+      ],
+      "stated_as": "Helen Zille"
+    }
+  }
+]

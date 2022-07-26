@@ -1,0 +1,117 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "2009-05-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Rural Development and Land Reform"
+      ],
+      "stated_as": "Deputy Minister of Rural Development and Land Reform"
+    },
+    "P580": "2010-11-01",
+    "P582": "2011-10-24"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Public Works (South Africa)"
+      ],
+      "stated_as": "Minister of Public Works"
+    },
+    "P580": "2011-10-24",
+    "P1365": {
+      "links": [
+        "Gwen Mahlangu-Nkabinde"
+      ],
+      "stated_as": "Gwen Mahlangu-Nkabinde"
+    },
+    "P582": "2017-03-31",
+    "P1366": {
+      "links": [
+        "Nkosinathi Nhleko"
+      ],
+      "stated_as": "Nkosinathi Nhleko"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Sport and Recreation (South Africa)"
+      ],
+      "stated_as": "Minister of Sport and Recreation"
+    },
+    "P580": "2017-03-31",
+    "P1365": {
+      "links": [
+        "Fikile Mbalula"
+      ],
+      "stated_as": "Fikile Mbalula"
+    },
+    "P582": "2018-02-28",
+    "P1366": {
+      "links": [
+        "Tokozile Xasa"
+      ],
+      "stated_as": "Tokozile Xasa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Public Works (South Africa)"
+      ],
+      "stated_as": "Minister of Public Works"
+    },
+    "P580": "2018-02-28",
+    "P1365": {
+      "links": [
+        "Nkosinathi Nhleko"
+      ],
+      "stated_as": "Nkosinathi Nhleko"
+    },
+    "P582": "2019-05-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position dissolved"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Employment and Labour"
+      ],
+      "stated_as": "Minister of Employment and Labour"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Public Service and Administration"
+    },
+    "P580": "2022-04-04",
+    "P1365": {
+      "links": [
+        "Ayanda Dlodlo"
+      ],
+      "stated_as": "Ayanda Dlodlo"
+    }
+  }
+]

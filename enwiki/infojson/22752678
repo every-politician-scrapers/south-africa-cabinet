@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Health (South Africa)"
+      ],
+      "stated_as": "Minister of Health"
+    },
+    "P580": "2009-05-11",
+    "P1365": {
+      "links": [
+        "Barbara Hogan"
+      ],
+      "stated_as": "Barbara Hogan"
+    },
+    "P582": "2019-05-29",
+    "P1366": {
+      "links": [
+        "Zweli Mkhize"
+      ],
+      "stated_as": "Zweli Mkhize"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Home Affairs (South Africa)"
+      ],
+      "stated_as": "Minister of Home Affairs"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Siyabonga Cwele"
+      ],
+      "stated_as": "Siyabonga Cwele"
+    }
+  }
+]

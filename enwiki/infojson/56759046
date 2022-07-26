@@ -1,0 +1,52 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "2009-05-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Arts and Culture"
+      ],
+      "stated_as": "Deputy Minister of Arts and Culture of South Africa"
+    },
+    "P580": "2010-10-30",
+    "P582": "2014-05-07"
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Health (South Africa)"
+      ],
+      "stated_as": "Deputy Minister of Health of South Africa"
+    },
+    "P580": "2014-05-26",
+    "P582": "2021-08-05",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Sibongiseni Dhlomo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Health (South Africa)"
+      ],
+      "stated_as": "26th Minister of Health of South Africa"
+    },
+    "P580": "2021-08-05",
+    "P1365": {
+      "links": [
+        "Zweli Mkhize"
+      ],
+      "stated_as": "Zweli Mkhize"
+    }
+  }
+]

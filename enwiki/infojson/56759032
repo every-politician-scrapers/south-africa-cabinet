@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "City of Ekurhuleni Metropolitan Municipality"
+      ],
+      "stated_as": "Mayor of the City of Ekurhuleni Metropolitan Municipality"
+    },
+    "P580": "2010",
+    "P582": "2016"
+  },
+  {
+    "office": {
+      "links": [
+        "National Treasury (South Africa)"
+      ],
+      "stated_as": "Deputy Minister of Finance"
+    },
+    "P580": "2018-02-27",
+    "P1365": {
+      "links": [
+        "Sfiso Buthelezi"
+      ],
+      "stated_as": "Sfiso Buthelezi"
+    },
+    "P582": "2019-05-25",
+    "P1366": {
+      "links": [
+        "David Masondo"
+      ],
+      "stated_as": "David Masondo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of South Africa"
+      ],
+      "stated_as": "Chairperson of the Portfolio Committee on Social Development"
+    },
+    "P580": "2019-07-02",
+    "P1365": {
+      "links": [
+        "Rosemary Capa"
+      ],
+      "stated_as": "Rosemary Capa"
+    },
+    "P582": "2021-08-05",
+    "P1366": {
+      "links": [
+        "Queenie Mvana"
+      ],
+      "stated_as": "Queenie Mvana"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister in the Presidency (South Africa)"
+      ],
+      "stated_as": "Minister in the Presidency"
+    },
+    "P580": "2021-08-06",
+    "P1365": {
+      "links": [
+        "Khumbudzo Ntshavheni",
+        "Jackson Mthembu"
+      ],
+      "stated_as": "Khumbudzo Ntshavheni (acting)\nJackson Mthembu"
+    }
+  }
+]

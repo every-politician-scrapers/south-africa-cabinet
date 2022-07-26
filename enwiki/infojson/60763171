@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "African National Congress",
+        "Eastern Cape"
+      ],
+      "stated_as": "Provincial Chairperson of the African National Congress in the Eastern Cape"
+    },
+    "P580": "2017-10-01",
+    "P1365": {
+      "links": [
+        "Phumulo Masualle"
+      ],
+      "stated_as": "Phumulo Masualle"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Eastern Cape Provincial Legislature"
+      ],
+      "stated_as": "Member of the Eastern Cape Provincial Legislature"
+    },
+    "P580": "2018-02-19"
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of the Eastern Cape"
+      ],
+      "stated_as": "7th Premier of the Eastern Cape"
+    },
+    "P580": "2019-05-22",
+    "P1365": {
+      "links": [
+        "Phumulo Masualle"
+      ],
+      "stated_as": "Phumulo Masualle"
+    }
+  }
+]

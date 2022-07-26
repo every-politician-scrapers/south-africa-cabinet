@@ -1,0 +1,149 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chairperson of the National Council of Provinces"
+      ],
+      "stated_as": "2nd Chairperson of the National Council of Provinces"
+    },
+    "P580": "1999-06-21",
+    "P1365": {
+      "links": [
+        "Mosiuoa Lekota"
+      ],
+      "stated_as": "Mosiuoa Lekota"
+    },
+    "P582": "2004-05-04",
+    "P1366": {
+      "links": [
+        "Joyce Kgoali"
+      ],
+      "stated_as": "Joyce Kgoali"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Education (South Africa)"
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "2004-05-12",
+    "P1365": {
+      "links": [
+        "Kader Asmal"
+      ],
+      "stated_as": "Kader Asmal"
+    },
+    "P582": "2009-05-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ministry split"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Science and Technology (South Africa)"
+      ],
+      "stated_as": "Minister of Science and Technology"
+    },
+    "P580": "2009-05-10",
+    "P1365": {
+      "links": [
+        "Mosibudi Mangena"
+      ],
+      "stated_as": "Mosibudi Mangena"
+    },
+    "P582": "2012-10-04",
+    "P1366": {
+      "links": [
+        "Derek Hanekom"
+      ],
+      "stated_as": "Derek Hanekom"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Home Affairs (South Africa)"
+      ],
+      "stated_as": "Minister of Home Affairs"
+    },
+    "P580": "2012-10-04",
+    "P1365": {
+      "links": [
+        "Nkosazana Dlamini-Zuma"
+      ],
+      "stated_as": "Nkosazana Dlamini-Zuma"
+    },
+    "P582": "2014-05-25",
+    "P1366": {
+      "links": [
+        "Malusi Gigaba"
+      ],
+      "stated_as": "Malusi Gigaba"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Science and Technology (South Africa)"
+      ],
+      "stated_as": "Minister of Science and Technology"
+    },
+    "P580": "2014-05-26",
+    "P1365": {
+      "links": [
+        "Derek Hanekom"
+      ],
+      "stated_as": "Derek Hanekom"
+    },
+    "P582": "2018-02-26",
+    "P1366": {
+      "links": [
+        "Mmamoloko Kubayi-Ngubane"
+      ],
+      "stated_as": "Mmamoloko Kubayi-Ngubane"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Higher Education and Training (South Africa)"
+      ],
+      "stated_as": "Minister of Higher Education and Training"
+    },
+    "P580": "2018-02-27",
+    "P1365": {
+      "links": [
+        "Hlengiwe Mkhize"
+      ],
+      "stated_as": "Hlengiwe Mkhize"
+    },
+    "P582": "2019-05-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ministry split"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of International Relations and Cooperation"
+      ],
+      "stated_as": "Minister of International Relations and Cooperation"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+        "Lindiwe Sisulu"
+      ],
+      "stated_as": "Lindiwe Sisulu"
+    }
+  }
+]

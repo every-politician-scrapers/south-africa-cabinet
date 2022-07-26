@@ -1,0 +1,102 @@
+[
+  {
+    "office": {
+      "links": [
+        "Gauteng Provincial Legislature"
+      ],
+      "stated_as": "Member of the Gauteng Provincial Legislature"
+    },
+    "P580": "1994-04-27",
+    "P582": "2019-05-07"
+  },
+  {
+    "office": {
+      "links": [
+        "Government of Gauteng"
+      ],
+      "stated_as": "Gauteng MEC for Sports, Recreation, Arts and Culture"
+    },
+    "P580": "2004-04-29",
+    "P1365": {
+      "links": [
+        "Mondli Gungubele"
+      ],
+      "stated_as": "Mondli Gungubele"
+    },
+    "P582": "2009-05-08",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Nelisiwe Mbatha-Mthimkhulu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Government of Gauteng"
+      ],
+      "stated_as": "Gauteng MEC for Education"
+    },
+    "P580": "2009-05-08",
+    "P1365": {
+      "links": [
+        "Angie Motshekga"
+      ],
+      "stated_as": "Angie Motshekga"
+    },
+    "P582": "2014-05-23",
+    "P1366": {
+      "links": [
+        "Panyaza Lesufi"
+      ],
+      "stated_as": "Panyaza Lesufi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Government of Gauteng"
+      ],
+      "stated_as": "Gauteng MEC for Finance"
+    },
+    "P580": "2014-05-23",
+    "P1365": {
+      "links": [
+        "Mandla Nkomfe"
+      ],
+      "stated_as": "Mandla Nkomfe"
+    },
+    "P582": "2019-05-25",
+    "P1366": {
+      "links": [
+        "Panyaza Lesufi"
+      ],
+      "stated_as": "Panyaza Lesufi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of South Africa"
+      ],
+      "stated_as": "Member of the National Assembly of South Africa"
+    },
+    "P580": "2019-05-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Environment, Forestry and Fisheries"
+      ],
+      "stated_as": "Minister of Environment, Forestry and Fisheries"
+    },
+    "P580": "2019-05-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]
