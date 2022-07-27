@@ -215,7 +215,13 @@
             ]
           },
           "successor2": {
-            "text": "Siboniso Duma"
+            "text": "Siboniso Duma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siboniso Duma"
+              }
+            ]
           },
           "office3": {
             "text": "Member of the KwaZulu-Natal Legislature",
@@ -668,6 +674,28 @@
         {
           "sentences": [
             {
+              "text": "In March 2022, Zikalala called for a review of South Africa's constitutional democracy and advocated for a move towards a parliamentary democracy.",
+              "links": [
+                {
+                  "text": "constitutional democracy",
+                  "type": "internal",
+                  "page": "Constitutional Democracy"
+                },
+                {
+                  "text": "parliamentary democracy",
+                  "type": "internal",
+                  "page": "Parliamentary system"
+                }
+              ]
+            },
+            {
+              "text": "Zikalala's call was described as a \"dangerous, populist call steeped in political expediency\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "During a law enforcement operation on Bayhead Road leading to the Durban Harbour on 13 January 2022, Zikalala condemned the proliferation of counterfeit goods.",
               "links": [
                 {
@@ -715,33 +743,14 @@
               "text": "After a late emergency meeting of the provincial executive council on 12 April 2022, Zikalala asked for a declaration of emergency so that the provincial government could gain access to emergency funding."
             },
             {
-              "text": "On 13 April, a provincial state of disaster was declared in KwaZulu-Natal by the National Disaster Management Centre."
-            },
-            {
-              "text": "The Department of Cooperative Governance and Traditional Affairs made the announcement.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Department of Cooperative Governance and Traditional Affairs"
-                }
-              ]
-            },
-            {
-              "text": "Zikalala welcomed the announcement by national government."
+              "text": "On 13 April, a provincial state of disaster was declared in KwaZulu-Natal by the National Disaster Management Centre, which Zikalala welcomed."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "During the State of Emergency declared after the deadly floods in KwaZulu-Natal, controversially he admitted that a  water tanker delivered water to his personal residence to fill up the water tank on the premise.",
-              "links": [
-                {
-                  "text": "deadly floods in KwaZulu-Natal",
-                  "type": "internal",
-                  "page": "2022 KwaZulu-Natal floods"
-                }
-              ]
+              "text": "During the State of Emergency declared after the deadly floods, he controversially admitted that a water tanker delivered water to his personal residence to fill up the water tank on the premise."
             },
             {
               "text": "He vowed that it would never happen again - and that the tanker would be positioned at the local community hall for residents to retrieve water during the crisis."
@@ -774,6 +783,9 @@
             },
             {
               "text": "After the election results were announced, the newly elected provincial chairperson Duma said that Zikalala will not be removed as premier anytime soon."
+            },
+            {
+              "text": "Zikalala was not re-elected to the provincial executive committee."
             }
           ]
         }
@@ -849,6 +861,20 @@
           "access-date": "19 July 2021",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Merten",
+          "first": "Marianne",
+          "last2": "Merten",
+          "first2": "Marianne",
+          "date": "2022-03-23",
+          "title": "ANALYSIS: KwaZulu-Natal premier’s dangerous call for a return to apartheid-style governance",
+          "url": "https://www.dailymaverick.co.za/article/2022-03-23-kwazulu-natal-premiers-dangerous-call-for-a-return-to-apartheid-style-governance/",
+          "access-date": "2022-07-26",
+          "website": "Daily Maverick",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last": "Silaule",
@@ -952,6 +978,17 @@
           "access-date": "2022-07-24",
           "website": "ewn.co.za",
           "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Madisa",
+          "first": "Kgothatso",
+          "title": "Ex-chair Sihle Zikalala fails to make it into ANC KZN provincial executive committee",
+          "url": "https://www.timeslive.co.za/politics/2022-07-25-ex-chair-sihle-zikalala-fails-to-make-it-into-anc-kzn-provincial-executive-committee/",
+          "access-date": "2022-07-26",
+          "website": "TimesLIVE",
+          "language": "en-ZA",
           "template": "citation",
           "type": "web"
         }

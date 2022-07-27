@@ -617,15 +617,6 @@
           ]
         }
       ],
-      "images": [
-        {
-          "file": "File:Minister_Alan_Winde_(cropped).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Minister_Alan_Winde_(cropped).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Minister_Alan_Winde_(cropped).jpg",
-          "caption": "Winde as Provincial Minister of Finance, Economic Development and Tourism in 2013",
-          "links": []
-        }
-      ],
       "references": [
         {
           "last1": "Selisho",
@@ -795,6 +786,15 @@
               ]
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Minister_Alan_Winde_(cropped).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Minister_Alan_Winde_(cropped).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Minister_Alan_Winde_(cropped).jpg",
+          "caption": "Winde as Provincial Minister of Finance, Economic Development and Tourism in 2013",
+          "links": []
         }
       ],
       "references": [
@@ -1187,6 +1187,20 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In his capacity as a member of the Judicial Service Commission, Winde voted on 25 July 2022 to recommend that the Judge President of the Western Cape High Court, John Hlophe, be suspended by President Ramaphosa for gross misconduct.",
+              "links": [
+                {
+                  "text": "Judicial Service Commission",
+                  "type": "internal",
+                  "page": "Judicial Service Commission (South Africa)"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -1313,6 +1327,14 @@
           "access-date": "2021-10-24",
           "website": "News24",
           "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Premier Alan Winde welcomes suspension of Western Cape Judge President John Hlophe {{!}} South African Government",
+          "url": "https://www.gov.za/speeches/premier-winde-welcomes-suspension-western-cape-judge-president-john-hlophe-26-jul-2022-0000",
+          "access-date": "2022-07-26",
+          "website": "www.gov.za",
           "template": "citation",
           "type": "web"
         },
