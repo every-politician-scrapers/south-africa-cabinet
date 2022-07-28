@@ -33,16 +33,60 @@
               }
             },
             {
-              "text": ". He always seems very happy during those moments."
+              "text": "He was National Commissioner of the South African Police Service for two years, until misconduct allegations led to his suspension in October 2011 and removal in June 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South African Police Service"
+                }
+              ]
             },
             {
-              "text": "During Covid-19 regulations in South Africa, he always jumped when the opportunity arose to have South Africans arrested for silly offenses like \"walking on the beach\" or \"not wearing masks \"."
+              "text": "He has also served as Deputy Minister of Agriculture, Forestry and Fisheries, on the KwaZulu-Natal Executive Council, and in the KwaZulu-Natal Provincial Legislature.",
+              "links": [
+                {
+                  "text": "Deputy Minister of Agriculture, Forestry and Fisheries",
+                  "type": "internal",
+                  "page": "Minister of Agriculture, Forestry and Fisheries (South Africa)"
+                },
+                {
+                  "type": "internal",
+                  "page": "KwaZulu-Natal"
+                },
+                {
+                  "text": "Executive Council",
+                  "type": "internal",
+                  "page": "Executive Council (South Africa)"
+                },
+                {
+                  "text": "KwaZulu-Natal Provincial Legislature",
+                  "type": "internal",
+                  "page": "KwaZulu-Natal Legislature"
+                }
+              ]
             },
             {
-              "text": "He was recently called out by a young man named Ian Cameron for his lackadaisical attitude when it came to real police work."
-            },
-            {
-              "text": "He had an outburst and verbally attacked Ian Cameron shouting \"shut up\" at the young man repeatedly."
+              "text": "He is a member of the National Executive Committee of the African National Congress, and was imprisoned on Robben Island during apartheid.",
+              "links": [
+                {
+                  "text": "National Executive Committee",
+                  "type": "internal",
+                  "page": "National Executive Committee of the African National Congress"
+                },
+                {
+                  "type": "internal",
+                  "page": "African National Congress"
+                },
+                {
+                  "type": "internal",
+                  "page": "Robben Island"
+                },
+                {
+                  "text": "apartheid",
+                  "type": "internal",
+                  "page": "apartheid"
+                }
+              ]
             }
           ]
         }
@@ -302,6 +346,45 @@
           "url": "https://www.dailymaverick.co.za/article/2018-02-27-cabinet-reshuffle-sa-government-gets-a-full-makeover/",
           "access-date": "2021-11-10",
           "website": "Daily Maverick",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2012-06-12",
+          "title": "South Africa police chief Bheki Cele fired by Jacob Zuma",
+          "language": "en-GB",
+          "publisher": "BBC News",
+          "url": "https://www.bbc.com/news/world-africa-18414786",
+          "access-date": "2021-11-10",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2018-04-23",
+          "title": "The National Executive Committee",
+          "url": "http://www.anc.org.za/officials/national-executive-committee-0",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20180423034635/http://anc.org.za/officials/national-executive-committee-0",
+          "archive-date": "2018-04-23",
+          "access-date": "2021-11-10",
+          "website": "African National Congress",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Dixon",
+          "first": "Robyn",
+          "author-link": "Robyn Dixon (journalist)",
+          "date": "2009-09-27",
+          "title": "South Africa struggles with rising crime",
+          "url": "https://www.latimes.com/archives/la-xpm-2009-sep-27-fg-crime-police27-story.html",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210228221320/https://www.latimes.com/archives/la-xpm-2009-sep-27-fg-crime-police27-story.html",
+          "archive-date": "28 February 2021",
+          "access-date": "2021-11-10",
+          "website": "Los Angeles Times",
+          "location": "Johannesburg",
           "language": "en",
           "template": "citation",
           "type": "web"
