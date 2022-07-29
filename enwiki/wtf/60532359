@@ -674,28 +674,6 @@
         {
           "sentences": [
             {
-              "text": "In March 2022, Zikalala called for a review of South Africa's constitutional democracy and advocated for a move towards a parliamentary democracy.",
-              "links": [
-                {
-                  "text": "constitutional democracy",
-                  "type": "internal",
-                  "page": "Constitutional Democracy"
-                },
-                {
-                  "text": "parliamentary democracy",
-                  "type": "internal",
-                  "page": "Parliamentary system"
-                }
-              ]
-            },
-            {
-              "text": "Zikalala's call was described as a \"dangerous, populist call steeped in political expediency\"."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
               "text": "During a law enforcement operation on Bayhead Road leading to the Durban Harbour on 13 January 2022, Zikalala condemned the proliferation of counterfeit goods.",
               "links": [
                 {
@@ -724,6 +702,28 @@
             },
             {
               "text": "Zikalala also called on the freight and trucking industry to prioritise employing South African truck drivers instead of hiring foreign nationals to avoid conflict."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2022, Zikalala called for a review of South Africa's constitutional democracy and advocated for a move towards a parliamentary democracy.",
+              "links": [
+                {
+                  "text": "constitutional democracy",
+                  "type": "internal",
+                  "page": "Constitutional Democracy"
+                },
+                {
+                  "text": "parliamentary democracy",
+                  "type": "internal",
+                  "page": "Parliamentary system"
+                }
+              ]
+            },
+            {
+              "text": "Zikalala's call was described as a \"dangerous, populist call steeped in political expediency\"."
             }
           ]
         },
@@ -863,20 +863,6 @@
           "type": "news"
         },
         {
-          "last": "Merten",
-          "first": "Marianne",
-          "last2": "Merten",
-          "first2": "Marianne",
-          "date": "2022-03-23",
-          "title": "ANALYSIS: KwaZulu-Natal premier’s dangerous call for a return to apartheid-style governance",
-          "url": "https://www.dailymaverick.co.za/article/2022-03-23-kwazulu-natal-premiers-dangerous-call-for-a-return-to-apartheid-style-governance/",
-          "access-date": "2022-07-26",
-          "website": "Daily Maverick",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "last": "Silaule",
           "first": "Yvonne",
           "title": "Zikalala condemns the proliferation of counterfeit goods",
@@ -906,6 +892,20 @@
           "access-date": "2022-01-14",
           "website": "Witness",
           "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Merten",
+          "first": "Marianne",
+          "last2": "Merten",
+          "first2": "Marianne",
+          "date": "2022-03-23",
+          "title": "ANALYSIS: KwaZulu-Natal premier’s dangerous call for a return to apartheid-style governance",
+          "url": "https://www.dailymaverick.co.za/article/2022-03-23-kwazulu-natal-premiers-dangerous-call-for-a-return-to-apartheid-style-governance/",
+          "access-date": "2022-07-26",
+          "website": "Daily Maverick",
+          "language": "en",
           "template": "citation",
           "type": "web"
         },
