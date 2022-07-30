@@ -73,16 +73,12 @@
         {
           "sentences": [
             {
-              "text": "Mchunu was born in April 1958 at eNhlwathi in the area of Hlabisa in northern KwaZulu-Natal.",
+              "text": "Mchunu was born in April 1958 at eNhlwathi in the area of KwaHlabisa in northern KwaZulu-Natal.",
               "links": [
                 {
                   "text": "eNhlwathi",
                   "type": "internal",
                   "page": "eNhlwathi"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hlabisa"
                 }
               ]
             },
